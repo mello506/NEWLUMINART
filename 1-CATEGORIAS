@@ -1,1 +1,116 @@
-KKKKKKKKKKKKKKKKKK
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/4-SUB-CAT-FILMES</externallink>
+<info>
+   O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/5-SUBCATSERIES</externallink>
+<info>
+   SUA MARATONA ESTA AQUI</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/6-SUB-CAT-DESENHOS</externallink>
+<info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]NOVELAS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/7-SUBCATNOVELAS</externallink>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]TVs ONLINE[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/7-SUBCATNOVELAS</externallink>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SEÇÕES ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/9-SECOESESPECIAIS</externallink>
+<thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS DESTAQUES DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> A SUGESTÃO DO DESENVOLVEDOR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
+
+
+
