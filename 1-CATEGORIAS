@@ -11,7 +11,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
+<name>[COLOR blue][B] CATEGORIAS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/2-FILMES</externallink>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR lime][B] SÉRIES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A-SERIES</externallink>
@@ -47,7 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]NOVELAS[/B][/COLOR]</name>
+<name>[COLOR lime][B] NOVELAS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR lime][B] DESENHOS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]TVs ONLINE[/B][/COLOR]</name>
+<name>[COLOR lime][B] TVs ONLINE[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SEÇÕES ESPECIAIS[/B][/COLOR]</name>
+<name>[COLOR lime][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -96,7 +96,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
+<name>[COLOR lime][B] PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/C-PEDIDOS</externallink>
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -108,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR]</name>
+<name>[COLOR lime][B] SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/D-SUGESTAODACASA</externallink>
 <thumbnail>https://i.ibb.co/6my7gbw/gostei-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
