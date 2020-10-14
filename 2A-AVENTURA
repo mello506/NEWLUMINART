@@ -1,1 +1,332 @@
-CCCCCCCCCCCCCCCC
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] AVENTURA[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>AVENTURA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] FILMES DE AVENTURA[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>AVENTURA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - 2000 [/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=P5u1am7pmrw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c610db36a512dab9f8f087374071984b47525eb&dn=O+Patriota+%282000%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B329B16FE8D5740C1B4888F4843B5EB030F662E&dn=O%20Patriota%202000%20Vers%c3%a3o%20Estendida%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O PATRIOTA - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] O PATRIOTA - RES - DUB[/COLOR]</link>
+
+<link>http://vipeiptv.com:25461/movie/macarrao/macarrao/787484.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O PATRIOTA - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/r5D2sFk/opatriota-fan.jpg</fanart>
+<info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU - 1964 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bbIbh9yBtYzic_Uq8Iz_U3jxcyxwmqGn/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU - 720 - LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU - 1080 - LEG[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=7LTuTsvTskE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ZULU - 720 - ESP[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ZULU - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] ZULU - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/1nF9x2f/zulu-fan.jpg</fanart>
+<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINÁRIA - 2003 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Dhalge5z2XA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://vipeiptv.com:25461/movie/macarrao/macarrao/787977.mp4$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947D85CF0174AB6216AEC9E431FDB6261FB3C4F6&dn=A%20Liga%20Extraordinária%20%20BLUDV&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B36D6238FA1D45984F7D06BCE89AF7E59CF4E35&dn=A%20Liga%20Extraordinária%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A LIGA EXTRAORDINARIA - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/ALGAEXTRDNRA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
+<link>http://vipeiptv.com:25461/movie/macarrao/macarrao/787977.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/W6YBy4x/aligaextraord-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/80ZbKJ2/aligaextraord-fan.jpg</fanart>
+<info>No final do século XIX a rainha Vitória nomeia uma legião de grandes nomes da época para combater um perigoso inimigo: um gênio do crime que deseja conquistar o planeta. Entre os convocados para enfrentá-lo estão Allan Quatermain, Mina Harker, Dorian Gray e o Dr. Jekyll.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ILHA DA GARGANTA CORTADA - 1996 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=sxcxBBHVzu0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ILHA DA GARGANTA CORTADA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZqYLpzn40CYyrHbMcxP3ByKRETFy4cpS/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ILHA DA GARGANTA CORTADA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff2f84ea432707a67c95fa2e65416540dd52df&dn=A%20Ilha%20da%20Garganta%20Cortada%20(1996)%20BluRay%20720p%20Dual%20%c3%81udio&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ILHA DA GARGANTA CORTADA - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] A ILHA DA GARGANTA CORTADA - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=T9d2XpZW-S4$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ILHA DA GARGANTA CORTADA - SD - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] A ILHA DA GARGANTA CORTADA - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] A ILHA DA GARGANTA CORTADA - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/kJ2RSC7/gargantacortada-fan.jpg</fanart>
+<info>O mapa de um fabuloso tesouro pirata enterrado foi cortado em três partes por um velho bucaneiro e dividido entre seus três filhos. Vários anos depois, na segunda metade do século XVII, um deste filhos, passa a sua parte no mapa (que estava desenhada no seu couro cabeludo) para a sua filha (Geena Davis), uma sexy aventureira que lutava tão bem quanto qualquer homem e tinha sua cabeça posta a prêmio. Auxiliada por sua tripulação, ela decide então encontrar o tesouro e o navio do seu pai, que agora são dela. Porém, sua parte no mapa está em latim, assim ela decide comprar um prisioneiro (Matthew Modine) que será vendido como escravo, para ajudá-la na tradução. Mas se ela ambiciona conseguir o tesouro outros também têm a mesma idéia e ela passa a se defrontar com diversos inimigos (inclusive o governador), e só pode ter como aliados alguns membros da tripulação e seu escravo. </info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[COLOR lime]KING KONG - 2005 -  1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQYMVoI9QE2wQCOSrxhiBYd4v0w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zlWu2lQj7bEa3hlMSQpXzc9tbtA.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
+<info>Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenco e contrata a tripulação de um navio cargueiro para viajar até a misteriosa Ilha da Caveira, onde encontram Kong, um gorila gigante, além de outros animais misteriosos.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> WATERWORLD-O SEGREDO DAS ÁGUAS - 1995 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://cdn.chili.com/images/public/cms/c0/bb/1e/15/c0bb1e15-f03c-487b-aa83-cc1436fa1cca.jpg?width=1848</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3YafUwZBXU8irYkBcgPDQByPfMR.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1p2sXB7vMaqwyGTYGVxm6GtE1uKsyvVZ_/view</link>
+<info>Em meados do terceiro milênio, em razão do derretimento das calotas polares, a Terra se tornou um lugar sem terra sólida e a população vive em barcos ou em ilhas artificiais. Neste contexto, um ser anfíbio vive comercializando tudo que é possível, inclusive terra pura e, após ser preso injustamente, é libertado por uma comerciante que exige que ele a leve embora e junto com eles uma garota, que tem nas costas o mapa para se chegar a Terraseca, o único local com terra firme. Mas o chefe de uma gangue resolve persegui-los, pois também deseja encontrar este local.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> O HOMEM DA MASCARA DE FERRO - 1998 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB7B8Lp2OyCXdhplUwAGiSsJWFw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tdUdTIIMaOcnhMW4f5yopkTJEH9.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1cPfMVbxJmfbSQaXg3RuSIxxN5OS_LIWg/view</link>
+<info>No século XVII, o cruel Luís XIV manda clandestinamente para a masmorra o irmão gêmeo que ninguém sabe existir, para tomar o poder. Mas o mosqueteiro Aramis descobre o segredo e convence seus companheiros a salvar o prisioneiro.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> KONG - A ILHA DA CAVEIRA - 2017 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yslaBeFjrbhlO1iFxFF7AFzINXu.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/186iNg3p8yLFTb8TF5gqlX6Spf_07y1rW/view</link>
+<info>Um grupo de desbravadores acompanhado de um ex-militar viaja para a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o soro que teria o poder de curar todas as doenças conhecido como Titan. O homem, além de resgatar o irmão, terá de enfrentar as criaturas que habitam o local e, junto da equipe de exploradores, se aventurar nas profundezas da ilha desconhecida no Pacífico. O que não sabem é que o local é tão bonito quanto traiçoeiro e que estão atravessando para o domínio do mítico Kong.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> DIAMANTE DE SANGUE - 2006 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEfrTVDtSVTMvOIH5AzM8QpTbCj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8EDlhw9LyQFixOF5eHybr5sfM4z.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1g9thL7ChzIHBqohxdXNCT1f7hsKNx_da/view</link>
+<info>Em Serra Leoa, na África, a guerra civil gera medo e caos na população. Dois grupos brigam entre si, os soldados do governo e os guerrilheiros rebeldes. Ambos lutam pelo povo, mas nenhum deles poupa os inocentes habitantes da região. Solomon Vandy é um pescador humilde que é levado como escravo a uma mina de diamantes e lá descobre uma preciosa pedra. Danny Archer é um contrabandista que troca armas por pedras preciosas com os rebeldes. Quando Danny descobre sobre a pedra de Solomon, ele resolve ir atrás dele e do objeto.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> BRUC - O DESAFIO - 2010 - 720 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/39LwKYVAVdmPjp3XqWwym3FybmK.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/452/918/full/BRUC.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-SuvrOI3ZM4fGK9R8Eg0-MIIzT2a60W5/view</link>
+<info>Um jovem da cidade de Bruc derrota o exército de Napoleão pela primeira vez. Agora, inconformado com isso, o líder da revolução vai mandar seus melhores homens para caçar o jovem e cortar-lhe a cabeça. Com a família morta, o jovem Joan Casellas terá que lutar sozinho, tornando-se um símbolo de liberdade e esperança.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> O CONDE DE MONTE CRISTO - 2002 - 1080 - DUB[/COLOR]</title>
+<thumbnail>http://4.bp.blogspot.com/-QdFJGMq_mwo/UnKJ9sKclwI/AAAAAAAAClI/sXxiZTjgAWI/s1600/o-conde-de-monte-cristo_2002.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n6UosJIf4xUDrCeZMbLXW6M6peg.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1BHK6oVHKNCH6rrO3VGnroW4JgOIzP1aM/view</link>
+<info>O jovem e destemido marinheiro Edmond Dantes é um rapaz honesto e sincero, cuja vida pacífica e planos de se casar com a linda Mercedes são abruptamente destruídos quando Fernand, seu melhor amigo, que deseja Mercedes para ele, o trai. Com uma sentença fraudulenta para cumprir na infame prisão da ilha do Castelo de If, Edmond se vê aprisionado em um pesadelo que dura 13 anos.
+Assombrado pelo curso que tomou sua vida, com o passar do tempo ele abandona tudo que sempre acreditou sobre o que é certo e errado, e se consome por pensamentos de vingança contra aqueles que o traíram. Com a ajuda de outro preso (Richard Harris), Dantes planeja e é bem-sucedido em sua missão de escapar da prisão e se transformar no misterioso e riquíssimo Conde de Monte Cristo.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> CORAÇÃO DE CAVALEIRO - 2001 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w1280/3cOb2JeDRJS1S6EOpkpucEEdgHv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/owpLMshw28hxgYuOCTMgJl1pxDI.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17XMXkI4RzuNMgsT6zc6gUUlWr7dj0-Zq/view</link>
+<info>Após seu mestre morrer subitamente, o jovem William, um valoroso escudeiro, resolve substituí-lo em uma competição envolvendo combate com lanças. Para tanto passa a treinar exaustivamente e consegue convencer Chauncer, um escritor, a forjar para ele uma nobre árvore genealógica.</info>
+<genre>AVENTURA</genre>
+</item>
+
+
+<item>
+<title>[COLOR lime]LS-> A ILHA DO TESOURO- 1990 - SD  - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuzBAg36N9GVdBGdjQ29PmcDAqk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iytjd4hkbdFh94YuCA3fAtZbQhf.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1hjVE_5gO6zY_1zV7PNnZihrHM8JmKWSt/view</link>
+<info>A clássica obra de aventura de Robert Louis Stevenson ganha vida em uma irresistível versão cinematográfica. Após achar o mapa do tesouro do falecido Capitão Billy Bones (Oliver Reed), o jovem Jim Hawkins embarca numa aventura em busca de um tesouro escondido.
+O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garoto a encontrar o seu destino, mas ele e seu grupo de piratas possuem outros planos para o ouro.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> A LENDA DO TESOURO PERDIDO - O LIVRO DOS SEGREDOS - 2007 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/52g68E3pPGshzhJqSyKZtbS6j3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oKLa1SGDlT0Zi9lyLcl2N2sFxsc.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-qyC2ytVVx1FT01tB0ybOJE_mK9em25w/view</link>
+<info>Quando uma página perdida do diário de John Wilkes Booth (Christian Camargo) reaparece, o bisavô de Ben Gates (Nicolas Cage) torna-se o principal conspirador do assassinato de Abraham Lincoln. Querendo provar a inocência do parente, Ben reúne mais uma vez sua equipe e segue uma série de pistas, que os levam de Paris a Londres antes de retornarem aos Estados Unidos.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> A LENDA DE TARZAN - 2016 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltEzaba7fKTQQyIdb8QzCwHGdBc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gaJtW2qBPHAVbfv23302zaolzat.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1gNZu8izhok37OPvXuRzep8Z57uP8rdlb/view</link>
+<info>Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimitado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> AGUIRRE, A CÓLERA DOS DEUSES - 1972 - 1080 - LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/44gMRRnvVlKjaJmObBovhUAsUi9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5ljLIxjwM1C8G9DDviJzlxZM0b7.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1q93mZ3fRRRB_E-oXH5dJt3qVqEIavvo_/view</link>
+<info>Em 1561 o conquistador espanhol Gonzalo Pizarro parte em uma expedição pelos Andes buscando a lendária cidade de El Dorado, uma lenda contada aos espanhóis pelos índios. Uma expedição de dezenas de pessoas cruzou as montanhas do Peru, e percebendo o cansaço dos soldados e escravos, Pizarro designou um pequeno grupo para explorar a região, nomeando dois nobres como líderes. Conforme buscam El Dorado, a ambição começa a crescer em Lope de Aguirre que trai o companheiro e toma o controle do grupo para si. Em meio às intrigas, nenhum deles contava que a natureza seria o seu inimigo mais poderoso.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> BEAU GESTE - 1966 - 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjIo8Wtw48OyTQ5dGzNE2bt8V1r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bfwAsokyvaBIxP7vus7aa0jLFwq.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1rqQWYXYmQHYP9My1esj6uqF7FAiOMws1/view</link>
+<info>Michael "Beau" Geste deixa a Inglaterra em desgraça e alista-se na infame Legião Francesa. Reencontra seus dois irmãos no norte da África, onde eles enfrentarão perigos, desde seu comandante sádico até os rebeldes árabes.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> A SOMBRA E A ESCURIDÃO - 1996 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tJTGhhf7BLcSJSaj0To84xJCtox.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1uPxNnfJl5nM5KLfcInRf6TOfPyj5RQQZ/view</link>
+<info>No final do século XIX, um engenheiro (Val Kilmer) vai para a África construir uma ponte, mas acaba se deparando com dois leões assassinos que aterrorizam os operários, pois várias vítimas são feitas e mesmo com a chegada de um experiente caçador (Michael Douglas), as mortes continuam.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> BEM VINDO À SELVA - 2003 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qn8gHDYp2ND9jQY3QXufCBKSLD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gBHqJqxGrJRHcoVHs39eyIvy8rR.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18f-nuV128ULVA_kGIkGP4UfffxJOYeRk/view</link>
+<info>Travis (Seann William Scott) é um jovem de família rica que foi para a Amazônia em busca de uma mina de ouro perdida, popularmente chamada de Helldorado. Para encontrá-lo sua família contrata Beck (The Rock), que parte para o Brasil à sua busca. Após alguns desentendimentos iniciais, Travis convence Beck a ajudá-lo em sua busca. Porém eles precisarão enfrentar Hatcher (Christopher Walken), o chefe de uma mineradora, que também está em busca de Helldorado.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> LEGIONÁRIO - 1998 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmf7SWVhv2wtN5Po478KnsZan2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mGUq5VztZANKzSm8S19qWs6vOn6.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1rXhwmEKxNBqAIYDwCsiS4c0_9OvI6zYh/view</link>
+<info>França, 1924. Famoso, carismático e sempre com belas mulheres à tiracolo, o lutador Alain Le Freve (Van Damme) recebe de um chefão do crime organizado a proposta mais indecente de sua carreira: entregar uma luta. Mais que uma proposta, perder o combate é uma imposição da máfia local. Porém, o sangue quente e o instinto vencedor de LeFreve falam mais alto, e ele arrasa seu adversário logo nos primeiros Rounds . Jurado de morte e perseguido pelos mafiosos mais perigosos da Europa, ele só vê uma saída: alistar-se na Legião Estrangeira e fugir para o Norte da África. Lá chegando, porém, ele logo percebe que a aridez do deserto e a violência dos homens, podem ser mais avassaladoras que o mundo de crimes que ele deixou para trás.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> LINHA DO TEMPO - 2003 - SD - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6tzqXzlUjCOZT035zYOLqfYFSr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4QQve9FxBjbmsoeCH2hblpnBbh7.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1afRTQ9HlzVifgwdE59cr_lVju9m8XQBM/view</link>
+<info>Uma expedição parte para o passado em busca de um cientista que acabou ficando preso durante a Guerra dos 100 Anos, no século XIV, entre França e Inglaterra. O problema é que, enquanto estavam na operação de resgate, acontece um incidente que faz com que a máquina do tempo deixe de operar, o que fará com que a aventura do grupo torne-se muito mais longa e perigosa do que o previsto.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item> 
+<title>[COLOR lime]LS-> NÁUFRAGOS EM LUTA - 1990 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLxQnuqxZjPRaRbPodZgIxUfGgp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/rp5dh6D0MLOIIVHkugv6Z8gBLwg.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1poDDMCQzX-BIzadXw2r5F9GaId9SWwUY/view</link>
+<info>No ano de 1850, um menino de 13 anos se torna marinheiro para ajudar sua família financeiramente. No entanto, o navio onde ele trabalha naufraga, e ele vai parar numa ilha onde terá que enfrentar o maldoso pirata Merrick.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> WARCRAFT O PRIMEIRO ENCONTRO DE DOIS MUNDOS- - 2016 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail>
+<fanart>hhttps://image.tmdb.org/t/p/original/2zvLBtunukDw1rP66WTTxJsEabh.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Cdz4aZWaY5BsMyXFlW5f8DI6G0_G62_G/view</link>
+<info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> O CHAMADO DA FLORESTA - 2020 - 1080 - DUB [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yFRpUmsreYO5Bc0HVBTsJsHIIox.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view</link>
+<info>Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903.</info>
+<genre>AVENTURA</genre>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/4B1-COLECAODEFILMESDEAVENTURA</externallink>
+<thumbnail>https://i.ibb.co/1zmZYgV/sub-cat-aventura.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>AVENTURAS</genre>
+
+
+
+
+
