@@ -1,0 +1,146 @@
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] LISTÃO DE NOVELAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/YOUTUBE-LUMINART/main/1-NOVELAS</externallink>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>LINS INSTAVÉIS PODE CAIR</info>
+<genre>NOVELAS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] PLAYLISTS ESPECIAIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<link>NO LINK</link>
+<info>COLETÂNEAS ESPECIAIS DO YOUTUBE  </info>
+<genre>PLAYLISTS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CANGAÇO - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCfe3AjAMM021hJpiS41zle/?page=0</jsonrpc>
+<thumbnail>https://i.pinimg.com/originals/ed/05/73/ed0573bc38b00d187388a3f3c546ff6b.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] WESTERN - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yBJfSbdmzY2Xmwu6wyYCpND/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO 1 - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yB0t2jhlr-a2x8vuYnXXuRv/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO 2 - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4NNHEtQlBht3_2Caukz1bbXZhe-WRUG0/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENTURA - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCac__UaSpFzCm6pm68NTq-/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/fanartsubcat-aventura</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ANIMAÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yDsRbURTSZR6eo0kNAiMAUL/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAVNMgKivyt0_6RovIH_GKb/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FICÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAMFUwZq5qkuiuuYL90TTpJ/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SUSPENSE E TERROR - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yBkPvL2I6OdkdlI3WoSpERo/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CRIME E DRAMA - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SUPER-HERÓIS - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCO0tb0GYNnOSgS0azRtAUJ/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DESENHOS - COLEÇÃO - DUB[/COLOR] </title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCi8V9Q96u-q8ENvTDTykD6/?page=0</jsonrpc>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS 2ª TEMP - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLQUI77XsW6ZQ-Cbg2bC9ROH1kieJ5Unvy/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
