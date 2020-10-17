@@ -1,12 +1,4 @@
-#EXTM3U?by DjMessias/ADM/Lhmtv/Lista temporaria/031-98935-1328/Venda/Proibida
-#EXTINF:0 tvg-logo="http://abre.ai/djlogo" group-title="Lista temporaria",by DjMessias/MMSB. 
-http://0.0.0.0.0(@dj)?by DjMessias/ADM/Lhmtv/Lista temporaria/031-98935-1328/Venda.
-#EXTINF:0 tvg-logo="http://abre.ai/djlogo" group-title="by DjMessias",031-98935-1328
-http://0.0.0.0.0(@dj)http://0.0.0.0.0(@dj)?by DjMessias/ADM/Lhmtv/Lista temporaria/031-98935-1328/Venda.
-#EXTINF:0 tvg-logo="http://abre.ai/djlogo" group-title="Boa diversão",Venda:031-98935-1328
-http://0.0.0.0.0(@dj)http://0.0.0.0.0(@dj)?by DjMessias/ADM/Lhmtv/Lista temporaria/031-98935-1328.
-#EXTINF:0 tvg-logo="http://abre.ai/djlogo" group-title="Fiquem em casa!",Que Deus Abençõe o MUNDO!
-http://0.0.0.0.0(@dj)lista temporaria/Boa diversao!",Fiquem em casa/cortesia/by-DjMessias/MMSB/br/web
+#EXTM3U
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E-SD" tvg-logo="http://meumaxpig.live/canais/ae.png" group-title="Filmes e Séries",A&E-SD
 http://maxpig.live:8080/adriano123/adriano123/19533
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E-FHD" tvg-logo="http://meumaxpig.live/canais/ae.png" group-title="Filmes e Séries",A&E-FHD
