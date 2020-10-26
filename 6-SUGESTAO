@@ -21,6 +21,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O LEGIONÁRIO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/6my7gbw/gostei-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>FILME  O LEGIONÁRIO</info>
+<genre>ÉPICOS</genre>
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONÁRIO - 2020 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=p6mxhiBIOlI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9D56907436CA3FAD80BA3DD314BEA9DC50AA2A3&dn=The.Legion.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48CCD951664FBC686032C7D1538DBC97B82FB043&dn=The.Legion.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO - 1080 - LEG FIX[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51539.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO - 720 - LEG FIX[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Noreno, um soldado meio-romano, é encarregado da missão perigosa de atravessar as montanhas nevadas da Armênia, repleto de patrulhas espartanas, para procurar ajuda para seus homens que estão morrendo lentamente.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O FIM DO DIA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/6my7gbw/gostei-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
