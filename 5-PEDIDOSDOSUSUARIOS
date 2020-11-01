@@ -23,14 +23,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] LANÇAMENTOS[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] LANÇAMENTOS[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LANÇAMENTOS</info>
 <genre>LANÇAMENTOS</genre>
 
 <item>
-<title>[B]T01[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAIXA PRETA - 2020 - DUB[/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAIXA PRETA - 2020 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=23eMxnmMZVE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAIXA PRETA[/COLOR]</link>
 
