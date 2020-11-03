@@ -23,11 +23,167 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CARGA PESADA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CARGA PESADA</info>
+<genre>DRAMA</genre>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62028.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62029.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62030.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62031.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62032.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62033.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62034.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62035.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62036.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62037.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E11
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62038.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T01E12
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62039.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62076.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 2ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62077.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62078.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62079.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62080.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62081.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62082.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62083.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62084.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62085.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E11
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62086.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E12
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62087.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T02E13
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62088.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 3ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62040.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62041.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62042.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62043.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62044.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62045.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62046.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62047.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62048.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62049.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E11
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62050.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E12
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62051.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E13
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62052.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E14
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62053.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E15
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62054.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E16
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62055.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T03E17
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62056.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 4ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62057.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62058.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62059.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62060.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62061.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62062.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62063.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62064.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62065.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T04E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62066.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 5ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62067.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62068.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62069.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62070.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62071.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62072.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62073.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62074.mp4
+#EXTINF:-1 group-title="série • Carga Pesada",Carga Pesada - [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - 1ª TEMP - SD - DUB[/COLOR]T05E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/62075.mp4
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] LANÇAMENTOS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/PNgCsR9/lancamentos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LANÇAMENTOS</info>
 <genre>LANÇAMENTOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] PHINEAS AND FERB  - CANDACE CONTRA O UNIVERSO - DATA - DUB[/COLOR]</title>
