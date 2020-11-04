@@ -23,6 +23,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POCAHONTAS[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO POCAHONTAS COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - 1995 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Q7fLGmb2E-4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cac88a08030592b9e7740c6963cec3a611fc11f&dn=Pocahontas+%281995%29+Dublado+720p+HDTV+x264&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCAE0AA4BE26EDE2F1724D6EFE8912105BEAB85B&dn=COMANDOTORRENTSHD.NET.Pocahontas.1995.1080p.BrRip.x264.AC3.5.1.AAC.2.0.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=46a1g9zORD0$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - RES - ESP[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/PCOHNTSOENTRDISMDO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - 1080 - DUB[/COLOR]</link>
+<link>http://maxpig.live:8080/movie/adriano123/adriano123/1213.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS O ENCONTRO DE DOIS MUNDOS - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/p0f6Fbp/pocahontas1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um navio parte da Inglaterra com objetivo de encontrar um Novo Mundo, tendo, entre os tripulantes, o ganancioso governador da Inglaterra, que só pensa em descobrir ouro, e o aventureiro capitão John Smith. Ao chegarem em uma terra desconhecida, John sai para explorar a região e encontra uma bela índia chamada Pocahontas. Ambos aprendem muito um com o outro, até que o povo de Pocahontas e os ingleses entram em guerra por terem interesses diferenciados em relação às terras. </info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CARGA PESADA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/C1E-CARGAPESADASERVER1</externallink>
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
