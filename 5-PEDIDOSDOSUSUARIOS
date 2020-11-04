@@ -56,9 +56,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 1998 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=VgUHMzO9j6s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS II - VIAGEM A UM NOVO MUNDO[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f4c368333af3dba99be1c2e3ac2e83b64f82164&dn=Pocahontas+2+-+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:608974A9DE68A64028D44D79492650871F031C6F&dn=Pocahontas II: Journey to a New World (1998) 1080p&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.org:80&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://open.demonii.com:1337&tr=udp://p4p.arenabg.ch:1337&tr=udp://p4p.arenabg.com:1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 1080 - DUB[/COLOR]</link>
+
 <link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/PCOHNTS2UMJRNDPRONVMDO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] POCAHONTAS II - VIAGEM A UM NOVO MUNDO - RES - DUB[/COLOR]</link>
 
