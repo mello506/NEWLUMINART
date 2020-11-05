@@ -30,6 +30,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULÓIDES - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAb5DturZQaKpFMqCNO5VPf/?page=0</jsonrpc>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
 <title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARGA PESADA - COLEÇÃO - DUB[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCGzmqjBRtu4fekUBHIPrY_/?page=0</jsonrpc>
