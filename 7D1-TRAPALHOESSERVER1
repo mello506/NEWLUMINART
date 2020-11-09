@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="ICONE" group-title="TRAPALHÕES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] OS TRAPALHÕES - COLEÇÃO - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="https://i.ibb.co/MVb32WM/esptrapalhoes-icon.png" group-title="TRAPALHÕES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] OS TRAPALHÕES - COLEÇÃO - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] A FILHA DOS TRAPALHÕES[/COLOR][COLOR yellow] -> [/COLOR] (1984)
@@ -27,7 +27,7 @@ http://blackuhd.co:80/movie/ednardo/102030/86357.mp4
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REI E OS TRAPALHÕES[/COLOR][COLOR yellow] -> [/COLOR] (1979) 
 http://blackuhd.co:80/movie/ednardo/102030/86358.mp4
 
-#EXTINF:-1, [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TRAPALHÃO NA  ARCA DE NOÉ[/COLOR][COLOR yellow] -> [/COLOR] (1983) 
+#EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TRAPALHÃO NA  ARCA DE NOÉ[/COLOR][COLOR yellow] -> [/COLOR] (1983) 
 http://blackuhd.co:80/movie/ednardo/102030/86359.mp4
 
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TRAPALHÃO NA ILHA DO TESOURO[/COLOR][COLOR yellow] -> [/COLOR] (1975) 
@@ -57,13 +57,13 @@ http://blackuhd.co:80/movie/ednardo/102030/86367.mp4
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES NA GUERRA DOS PLANETAS[/COLOR][COLOR yellow] -> [/COLOR] (1978) 
 http://blackuhd.co:80/movie/ednardo/102030/86368.mp4
 
-#EXTINF:-1, [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES NO REINO DA FANTASIA[/COLOR][COLOR yellow] -> [/COLOR] (1985) 
+#EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES NO REINO DA FANTASIA[/COLOR][COLOR yellow] -> [/COLOR] (1985) 
 http://blackuhd.co:80/movie/ednardo/102030/86369.mp4
 
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O TRAPALHÃO NA FLORESTA[/COLOR][COLOR yellow] -> [/COLOR] (1974) 
 http://blackuhd.co:80/movie/ednardo/102030/86370.mp4
 
-#EXTINF:-1,  [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES NO RABO DO COMETA[/COLOR][COLOR yellow] -> [/COLOR] (1986) 
+#EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES NO RABO DO COMETA[/COLOR][COLOR yellow] -> [/COLOR] (1986) 
 http://blackuhd.co:80/movie/ednardo/102030/86371.mp4
 
 #EXTINF:-1,[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] SIMBAD O MARUJO TRAPALHÃO[/COLOR][COLOR yellow] -> [/COLOR] (1976) 
