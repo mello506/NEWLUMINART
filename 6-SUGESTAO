@@ -21,14 +21,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE LIBERATOR[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE LIBERATOR[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO THE LIBERATOR COMPLETA</info>
 <genre>GUERRA</genre>
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE LIBERATOR - 2020 - DUB[/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE LIBERATOR - 2020 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=LPebr-6x3s0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE LIBERATOR[/COLOR]</link>
 
