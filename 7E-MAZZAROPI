@@ -20,8 +20,8 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7E1-MAZZAROPISERVER1</externallink>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7E1-MAZZAROPI-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/cCR3BT0/mazzaropi-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/PTd187B/mazzaropi-fan.jpg</fanart>
 <info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
@@ -29,6 +29,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7E2-MAZZAROPI-SERVER2</externallink>
+<thumbnail>https://i.ibb.co/cCR3BT0/mazzaropi-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/PTd187B/mazzaropi-fan.jpg</fanart>
+<info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
+<genre>NACIONAL</genre>  
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 <channels></channels>
 <channel>
 <name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
