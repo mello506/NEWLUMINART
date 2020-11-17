@@ -1,72 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="ICONE" group-title="MAZZAROPI",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue] MAZZAROPI - SD - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="MAZZAROPI" tvg-logo="ICONE" group-title="MAZZAROPI",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue] MAZZAROPI - SD - DUB[/COLOR]
 LINKDOFILME
 
 
-#EXTINF:-1,(1952) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Nadando em Dinheiro[/COLOR]
+#EXTINF:-1,(1952) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nadando em Dinheiro[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15207.avi
-#EXTINF:-1,(1952) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Sai da frente[/COLOR]
+#EXTINF:-1,(1952) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sai da frente[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15208.avi
-#EXTINF:-1,(1953) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Candinho[/COLOR]
+#EXTINF:-1,(1953) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Candinho[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15209.avi
-#EXTINF:-1,(1955) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] A Carrocinha[/COLOR]
+#EXTINF:-1,(1955) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Carrocinha[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15210.avi
-#EXTINF:-1,(1956) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Fuzileiro Do Amor[/COLOR]
+#EXTINF:-1,(1956) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fuzileiro Do Amor[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15211.avi
-#EXTINF:-1,(1956) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Gato de Madame[/COLOR]
+#EXTINF:-1,(1956) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Gato de Madame[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15212.avi
-#EXTINF:-1,(1957) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime]O Noivo Da Girafa[/COLOR]
+#EXTINF:-1,(1957) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime]O Noivo Da Girafa[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15213.avi
-#EXTINF:-1,(1958) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Chico Fumaça[/COLOR]
+#EXTINF:-1,(1958) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Chico Fumaça[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15214.avi
-#EXTINF:-1,(1959) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Chofer de Praça[/COLOR]
+#EXTINF:-1,(1959) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Chofer de Praça[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15215.avi
-#EXTINF:-1,(1959) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Jeca Tatú[/COLOR]
+#EXTINF:-1,(1959) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Jeca Tatú[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15216.avi
-#EXTINF:-1,(1960) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] As Aventuras de Pedro Malazartes[/COLOR]
+#EXTINF:-1,(1960) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Aventuras de Pedro Malazartes[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15217.avi
-#EXTINF:-1,(1960) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Zé Periquito[/COLOR]
+#EXTINF:-1,(1960) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Zé Periquito[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15218.avi
-#EXTINF:-1,(1961) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Tristeza do Jeca[/COLOR]
+#EXTINF:-1,(1961) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tristeza do Jeca[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15219.avi
-#EXTINF:-1,(1962) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Vendedor de Lingüiça[/COLOR]
+#EXTINF:-1,(1962) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Vendedor de Lingüiça[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15220.avi
-#EXTINF:-1,(1963) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Casinha Pequenina[/COLOR]
+#EXTINF:-1,(1963) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Casinha Pequenina[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15221.avi
-#EXTINF:-1,(1964) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Meu Japão Brasileiro[/COLOR]
+#EXTINF:-1,(1964) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Meu Japão Brasileiro[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15222.avi
-#EXTINF:-1,(1964) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Lamparina[/COLOR]
+#EXTINF:-1,(1964) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Lamparina[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15223.avi
-#EXTINF:-1,(1965) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O.Puritano da Rua Augusta[/COLOR]
+#EXTINF:-1,(1965) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O.Puritano da Rua Augusta[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15224.avi
-#EXTINF:-1,(1966) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Corintiano[/COLOR]
+#EXTINF:-1,(1966) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Corintiano[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15225.avi
-#EXTINF:-1,(1967) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Jeca e a Freira[/COLOR]
+#EXTINF:-1,(1967) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Jeca e a Freira[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15226.avi
-#EXTINF:-1,(1968) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] No paraiso das solteironas[/COLOR]
+#EXTINF:-1,(1968) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] No paraiso das solteironas[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15227.avi
-#EXTINF:-1,(1969) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Uma Pistola para Djeca[/COLOR]
+#EXTINF:-1,(1969) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Uma Pistola para Djeca[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15228.avi
-#EXTINF:-1,(1970) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Betao Ronca Ferro[/COLOR]
+#EXTINF:-1,(1970) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Betao Ronca Ferro[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15229.avi
-#EXTINF:-1,(1972) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Grande Xerife[/COLOR]
+#EXTINF:-1,(1972) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Xerife[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15230.avi
-#EXTINF:-1,(1973) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Portugal Minha Saudade[/COLOR]
+#EXTINF:-1,(1973) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Portugal Minha Saudade[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15231.avi
-#EXTINF:-1,(1973) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Um Caipira em Bariloche[/COLOR]
+#EXTINF:-1,(1973) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Caipira em Bariloche[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15232.avi
-#EXTINF:-1,(1974) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Jeca Macumbeiro[/COLOR]
+#EXTINF:-1,(1974) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Jeca Macumbeiro[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15233.avi
-#EXTINF:-1,(1975) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O cineasta das plateias[/COLOR]
+#EXTINF:-1,(1975) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O cineasta das plateias[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15234.avi
-#EXTINF:-1,(1976) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Jeca contra o Capeta[/COLOR]
+#EXTINF:-1,(1976) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Jeca contra o Capeta[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15235.avi
-#EXTINF:-1,(1977) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Jecão Um Fofoqueiro No Céu[/COLOR]
+#EXTINF:-1,(1977) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Jecão Um Fofoqueiro No Céu[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15236.avi
-#EXTINF:-1,(1978) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] Jeca e Seu Filho Preto[/COLOR]
+#EXTINF:-1,(1978) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Jeca e Seu Filho Preto[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15237.avi
-#EXTINF:-1,(1979) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] A Banda Das Velhas Virgens[/COLOR]
+#EXTINF:-1,(1979) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Banda Das Velhas Virgens[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15238.avi
-#EXTINF:-1,(1980) [B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR][COLOR yellow] -> [/COLOR][COLOR lime] O Jeca e a Egua Milagrosa[/COLOR]
+#EXTINF:-1,(1980) [B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Jeca e a Egua Milagrosa[/COLOR]
 http://srv.maxptv.net:8080/movie/rosa01/rosa01/15239.avi
