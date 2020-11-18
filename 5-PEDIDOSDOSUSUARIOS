@@ -34,6 +34,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A CHAVE MESTRA[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO A CHAVE MESTRA COMPLETA</info>
+<genre>TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 2005 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MM9PJ5DvKys$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0b360ec6afaa164725f98bdf6ee7bf095123b5&dn=A+Chave+Mestra+%282005%29+BluRay+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab61ebb199bc737e0e2c1cc31db9b024185310dd&dn=A+Chave+Mestra+%282009%29+BDRip+1080p+5.1+Dual+%26Aacute%3Budio&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/ACHVMSTRA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 1080 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/24606.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive em uma estranha mansão em Nova Orleans. Após encontrar objetos misteriosos, ela começa a desvendar o passado sinistro do casal.</info>
+<genre>TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAM [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1B-BATWOMAM</externallink>
 <thumbnail>ICONEPASTA</thumbnail>
