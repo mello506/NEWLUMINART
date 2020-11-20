@@ -23,6 +23,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 2067[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>FILME 2067 </info>
+<genre>FICÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 2020 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=fxsQTcuC2Hk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53FD04FDCB9BE966A882EF8B46746034E9FB97D7&dn=$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 1080 - LEG FIX[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E00FF5788689A1F4FE3718B03917279446771467&dn=2067.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 2067 - RES - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75883.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No ano de 2067, a Terra foi devastada pelas mudanças climáticas e a humanidade é forçada a viver de oxigênio artificial. Uma doença causada pelo O2 sintético está matando a população mundial e a única esperança de cura vem na forma de uma mensagem do futuro: “Enviem Ethan Whyte”. Ethan, um trabalhador de um túnel subterrâneo, é repentinamente lançado em um novo mundo aterrorizante cheio de perigos desconhecidos enquanto ele deve lutar para salvar a raça </info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE FLASH[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1C-THEFLASH</externallink>
 <thumbnail>ICONEPASTA</thumbnail>
