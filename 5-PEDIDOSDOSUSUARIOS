@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53FD04FDCB9BE966A882EF8B46746034E9FB97D7&dn=$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 1080 - LEG FIX[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E00FF5788689A1F4FE3718B03917279446771467&dn=2067.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 2067 - RES - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75883.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 720 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75883.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 2067 - 720 - LEG [/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
