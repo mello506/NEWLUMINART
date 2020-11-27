@@ -63,19 +63,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ESPECIAL JAMES BOND - 007[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7C-JAMESBOND007</externallink>
-<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>MUITA ESPIONAGEM E CHARME NA COLEÇÃO 007 COMPLETA</info>
-<genre>AÇÃO</genre> 
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR lime][B]ESPECIAL TRAPALHÕES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7D-TRAPALHOES</externallink>
 <thumbnail>https://i.ibb.co/MVb32WM/esptrapalhoes-icon.png</thumbnail>
@@ -94,6 +81,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/cCR3BT0/mazzaropi-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O CINEMA BRASILEIRO E SEU MAIOR REPRESENTANTE  EM SUAS ENGRAÇADAS AVENTURAS </info>
+<genre>AÇÃO</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]ESPECIAL JAMES BOND - 007[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7C-JAMESBOND007</externallink>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>MUITA ESPIONAGEM E CHARME NA COLEÇÃO 007 COMPLETA</info>
 <genre>AÇÃO</genre> 
 </channel>
 </channels>
