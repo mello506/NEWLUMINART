@@ -1,62 +1,25 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR blue]SCOOBY-DOO CADÊ VOCÊ[/COLOR] </title>
+<channels></channels>
+<channel>
+<name>[COLOR blue]SCOOBY-DOO CADÊ VOCÊ[/COLOR] </name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/NnZ76DQ/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS FANTASMAS QUE SE CUIDEM</info>
 <genre>DESENHOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY-DOO CADÊ VOCÊ? - COMPLETO - 1969-1970 - 1080 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=rqcfT3bXc68$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY-BOO CADE VOCE ?[/COLOR]</link>
-
-<link>LINKGDRIVE$$lsname=[B]TEMP 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SCOOBY-DOO CADE VOCE?[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XVhsd1spocMYRx0CN1leno6igW1XZFg5/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fantasma do Cavaleiro Negro[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RXqxqIpR5gTp9uvCKW5tLgwBLOni8vH4/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] De Sururu no Castelo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sqES75uuwc4rx1qEObZBkWoGQJPVdcLT/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Uma Pista para Scooby-Doo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13gaBXBRGHpYJac8m1nJ7AQVXl4LAWeyX/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Meta-se com a Sua Vida[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10ksJdUGbBqkUQlLfFCYvE4phVPGNxSQe/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Isca para Ladrao[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1euP7oO3UxGWWln-Fipceetk-BQZuyKKE/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Que Macumba e Essa?[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/162oIbfrKC8AXGwbHmUuN8vJLqnTAi3XR/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nao Macaqueie o Macaco[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yKGxpYUe3sUTsgOtka28o76edzJCTuLd/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Aventura no Parque[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IwXajQagQDQW7Nc0afn4nN9x89uh-g74/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nos Bastidores[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NN4q06wFpzZTkyT29lknVLIzFxyHPKnh/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Confusao na Elevacao[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ySsgDJq-UKySTQRv9nF1YdKguW6zd2k3/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Fantasmas Galopantes[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_GkijGdwiERifE7R-PbGroozEASYbMqK/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Mumia[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BVhDVy7Zp7Gb_DxSWGXHp3T30A-_nqXi/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Feitico Contra o Feiticeiro[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10SQKQQ0bfSmqzKQSCwR0PoF8Ic-9hqI7/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fantasma Espacial[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xLHKMAE4xG30CoWXi-6yw6VF1Idj9DQ0/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Navio Fantasma[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rrrTSO527ALfvorRmYNrYV14CAglta_2/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Uma Noite com Medo Nao Acaba Cedo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pal-NXWyW3S0rJxoVp5fhe9V8mz29HSR/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fantasma da Neve[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fh0258QoCnFeDt7KflmR-_3CerF1h07J/view$$lsname=[B]T02E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Onde Esta o Monstro?[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U8YMLxkZpzf6UsOX4dyp2XlDJp7sH68T/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Misterio da Mascara[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iCnmky6PaZorGF_mktT2KA0uSKbJJp2m/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] De Arrepiar os Cabelos[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-x6xZ9T-BCm2DSNQpE8JrKd-FtQPf--M/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Homem das Cavernas[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17ShanBPZjRvRXRfew8TzXjodAiPxGXYG/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] Uma Casa Mal-Assombrada[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gLYFPicjwCSwlo-nsUZpPzT1PLJrvziO/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Idolo do Terror[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AoXQr-XzjCUt3Ne1M1ZQCgNu1zZ-6eZV/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Quem e Que Esta com Medo Ai?[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13IdeJVA-5_xok9j80dub4AYnUzzy1QrX/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime] Com Fantasma Nao Se Brinca[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/NnZ76DQ/espscooby-doo-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> Quatro adolescentes metidos a detetives, Fred, Velma, Daphne e Salsicha, com um cão dinamarquês falante chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina do Mistério e ajudam a investigar casos misteriosos.</info>
-<genre>DESENHOS</genre>  
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
