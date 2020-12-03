@@ -1,4 +1,20 @@
 <item>
+<title>A FAZENDA HD</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/86718.m3u8</link>
+<item>
+<item>
+<title>A Fazenda HD</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/83849.m3u8</link>
+<item>
+<item>
+<title>ANIMAL PLANET FHD H264</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85904.m3u8</link>
+<item>
+<item>
+<title>ANIMAL PLANET FHD H265 DUAL</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85905.m3u8</link>
+<item>
+<item>
 <title>ANIMAL PLANET FHD² H265 DUAL</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85906.m3u8</link>
 <item>
