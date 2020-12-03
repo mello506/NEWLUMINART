@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="desenhos" tvg-logo="ICONE" group-title="scooby-doo",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] O QUE HÁ DE NOVO SCOOBY-DOO ? - 1ª TEMP - 1080 - DUB [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP01.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E02
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP02.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E03
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP03.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E04
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP04.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E05
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP05.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E06
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP06.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E07
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP07.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E08
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP08.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E09
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP09.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E10
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP10.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E11
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP11.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E12
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP12.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E13
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP13.mp4
+#EXTINF:-1 group-title="scooby-doo",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOME DO EPISÓDIO[/COLOR][COLOR yellow] -> [/COLOR] T01E14
+https://rejex-vod.azureedge.net/RCServer09/ondemand/OQHDNVSCBDEP14.mp4
