@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="scooby-doo",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SCOOBY-DOO CADÊ VOCÊ - 1ª TEMP - 1080 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="scooby-doo",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SCOOBY-DOO CADÊ VOCÊ ? - 1ª TEMP - 1080 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="Scooby-Doo! (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fantasma do Cavaleiro Negro[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
@@ -38,7 +38,7 @@ https://rejex-vod.azureedge.net/RCServer08/ondemand/SCBDCDVCEP16.mp4
 #EXTINF:-1 group-title="Scooby-Doo! (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fantasma da Neve[/COLOR][COLOR yellow] -> [/COLOR] T01E17 
 https://rejex-vod.azureedge.net/RCServer08/ondemand/SCBDCDVCEP17.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="scooby-doo",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] 2ª TEMP - 1080 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="scooby-doo",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SCOOBY-DOO CADÊ VOCÊ ? - 2ª TEMP - 1080 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="Scooby-Doo! (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Onde Esta o Monstro?[/COLOR][COLOR yellow] -> [/COLOR] T02E01 
