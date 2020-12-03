@@ -1,40 +1,37 @@
 <item>
 <title>A FAZENDA HD</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/86718.m3u8</link>
-<item>
-<item>
+
 <title>A Fazenda HD</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/83849.m3u8</link>
-<item>
-<item>
+
+<title>A&E HD</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/86045.m3u8</link>
+
+<title>A&E HD²</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/86046.m3u8</link>
+
 <title>ANIMAL PLANET FHD H264</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85904.m3u8</link>
-<item>
-<item>
+
 <title>ANIMAL PLANET FHD H265 DUAL</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85905.m3u8</link>
-<item>
-<item>
+
 <title>ANIMAL PLANET FHD² H265 DUAL</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85906.m3u8</link>
-<item>
-<item>
+
 <title>ANIMAL PLANET HD</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85902.m3u8</link>
-<item>
-<item>
+
 <title>Animal Planet HD²</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85903.m3u8</link>
-<item>
-<item>
+
 <title>ANIMAL PLANET1 SD² SD</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85901.m3u8</link>
-<item>
-<item>
+
 <title>DISCOVERY CHANNEL HD</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85909.m3u8</link>
-<item>
-<item>
+
 <title>DISCOVERY CHANNEL HD²</title>
  <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://snxt.online:80/live/21674890/17389208/85910.m3u8</link>
-<item>
+</item>
