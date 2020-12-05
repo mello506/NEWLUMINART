@@ -121,7 +121,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] ACESSO ESPECIAL DE CONTRIBUINTE AO REDECANAIS[/B][/COLOR]</name>
+<name>[COLOR lime][B] ACESSO ESPECIAL DE CONTRIBUINTE AO REDECANAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/1-CATEGORIAS-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
