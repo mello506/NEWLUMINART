@@ -23,6 +23,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BORU - ESQUADRÃO LOBO[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO BORU - ESQUADRAO LOBO COMPLETA</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] BORU - ESQUADRÃO LOBO - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=IjmDSqyy4sc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] BORU - ESQUADRAO LOBO[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48AFBE32FE3697F6F6D372476C7E755CA12235E3&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20B%c3%96R%c3%9c%20-%20Esquadr%c3%a3o%20Lobo%201%c2%aa%20temporada%20Completa%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] BORU - ESQUADRAO LOBO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] BORU - ESQUADRAO LOBO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Turquia na primavera de 2014. Uma época em que os inimigos estão crescendo na fronteira, o círculo de perigo no interior está se tornando mais estreito. A República da Turquia enfrenta as maiores ameaças da história recente. BÖRÜ conta a história de heróis que são tocados pelo amor. - Mini-Série original Netflix. </info>
+<genre>QUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] V DE VINGANÇA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
