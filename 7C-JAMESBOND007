@@ -17,21 +17,81 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
 <name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] JAMES BOND - 007 - COLEÇAO COMPLETA - 1962 - 2016 - 1080 - DUB[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7C2-JAMESBOND007-SERVER1</externallink>
 <thumbnail>http://bit.do/iconesubcat-007</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O personagem foi apresentado ao público em livros de bolso na década de 1950, com a novela Casino Royale, tornando-se um sucesso de venda e popularidade entre os britânicos e, logo a seguir, entre os países de língua inglesa. Na década seguinte, os livros viraram uma grande franquia no cinema, a mais duradora e bem sucedida financeiramente, com um total de vinte dois filmes oficiais.</info>
 <genre>AÇÃO</genre
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPECIAL 007 -  1080 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Ii1tc493bZM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPACIAL 007[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26075.mp4$$lsname=[B]1962[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra o Satanico Dr. No - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26077.mp4$$lsname=[B]1962[/B][COLOR yellow] ->[/COLOR][COLOR lime] Moscou Contra 007 - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26069.mp4$$lsname=[B]1964[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra Goldfinger - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26072.mp4$$lsname=[B]1965[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra a Chantagem Atomica - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26066.mp4$$lsname=[B]1967[/B][COLOR yellow] ->[/COLOR][COLOR lime] Com 007 So Se Vive 2 Vezes - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26064.mp4$$lsname=[B]1969[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 A Servico Secreto de Sua Majestade - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26082.mp4$$lsname=[B]1971[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Os Diamantes Sao Eternos - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26067.mp4$$lsname=[B]1973[/B][COLOR yellow] ->[/COLOR][COLOR lime] Com 007 Viva e Deixe Morrer - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26074.mp4$$lsname=[B]1974[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra o Homem com a Pistola de Ouro - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26062.mp4$$lsname=[B]1977[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 O Espiao Que Me Amava - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26073.mp4$$lsname=[B]1979[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra o Foguete da Morte - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26063.mp4$$lsname=[B]1981[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Somente Para Seus Olhos - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26070.mp4$$lsname=[B]1983[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra Octopussy - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26078.mp4$$lsname=[B]1984[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Nunca Mais Outra Vez - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26061.mp4$$lsname=[B]1985[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Na Mira dos Assassinos - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26076.mp4$$lsname=[B]1987[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Marcado Para a Morte - 1080 - DUB[/COLOR] </link>
+
+
+<link>http://u9in.club:8080/movie/brasil321/brasil321/66678.mp4$$lsname=[B]1989[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Permissao Para Matar - 1080 - DUB[/COLOR] </link>
+
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26068.mp4$$lsname=[B]1995[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra Goldeneye - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26079.mp4$$lsname=[B]1997[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 O Amanha Nunca Morre - 1080 - DUB[/COLOR] 1997</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26080.mp4$$lsname=[B]1999[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 O Mundo Nao e o Bastante - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26085.mp4$$lsname=[B]2003[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Um Novo Dia Para Morrer - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26065.mp4$$lsname=[B]2006[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Casino Royale - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26084.mp4$$lsname=[B]2008[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Quantum of Solace - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26081.mp4$$lsname=[B]2012[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Operacao Skyfall - 1080 - DUB[/COLOR] </link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26071.mp4$$lsname=[B]2015[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 Contra Spectre - 1080 - DUB[/COLOR] </link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info><info>O personagem foi apresentado ao público em livros de bolso na década de 1950, com a novela Casino Royale, tornando-se um sucesso de venda e popularidade entre os britânicos e, logo a seguir, entre os países de língua inglesa. Na década seguinte, os livros viraram uma grande franquia no cinema, a mais duradora e bem sucedida financeiramente, com um total de vinte dois filmes oficiais.</info></info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -52,6 +112,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>O personagem foi apresentado ao público em livros de bolso na década de 1950, com a novela Casino Royale, tornando-se um sucesso de venda e popularidade entre os britânicos e, logo a seguir, entre os países de língua inglesa. Na década seguinte, os livros viraram uma grande franquia no cinema, a mais duradora e bem sucedida financeiramente, com um total de vinte dois filmes oficiais.</info>
 <genre>AÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
