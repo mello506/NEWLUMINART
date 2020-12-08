@@ -7,5 +7,6 @@ http://bldtv.vip:80/jilmar/102030/174755
 http://bldtv.vip:80/jilmar/102030/173676
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 HD ²" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 HD ²
 http://bldtv.vip:80/jilmar/102030/174537
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 SD ²" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 SD ²
-http://bldtv.vip:80/jilmar/102030/173746
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2020 UHD¹" tvg-logo="https://vignette.wikia.nocookie.net/afazenda/images/9/96/A-fazenda-logo.jpg/revision/latest/scale-to-width-down/340?cb=20140629230536" group-title="REALITY SHOW",A FAZENDA 2020 UHD¹
+http://paristvs.xyz:80/roberto/roberto/20371
