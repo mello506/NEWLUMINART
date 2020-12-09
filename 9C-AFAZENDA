@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 FHD ²" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 FHD ²
-http://bldtv.vip:80/jilmar/102030/173745
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 HD (CDN)" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 HD (CDN)
-http://bldtv.vip:80/jilmar/102030/174755
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 HD" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 HD
-http://bldtv.vip:80/jilmar/102030/173676
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 HD ²" tvg-logo="http://static.bldn.vip/logos/abertos/afazenda.png" group-title="A FAZENDA",A FAZENDA 12 HD ²
-http://bldtv.vip:80/jilmar/102030/174537
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda" tvg-logo="http://nowiptv.net/_logos/afazenda_hd.png" group-title="tv • REALITY",A Fazenda HD₂
-http://sv1.nowiptv.net:8880/ACML2/ACM21/72300
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 1" tvg-logo="https://1.bp.blogspot.com/-OaCmbgFpepQ/X1bhHj9VNzI/AAAAAAAAA-w/8dF--OjxUIkVpNwp7xHY5WMQcC7G_qH9wCLcBGAsYHQ/s320/A%2BFAZENDA.png" group-title="CANAIS A FAZENDA",A FAZENDA 1
+http://dnsblack.online:80/8ea73w/z24iia/9689
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="https://1.bp.blogspot.com/-OaCmbgFpepQ/X1bhHj9VNzI/AAAAAAAAA-w/8dF--OjxUIkVpNwp7xHY5WMQcC7G_qH9wCLcBGAsYHQ/s320/A%2BFAZENDA.png" group-title="CANAIS A FAZENDA",A FAZENDA 2
+http://dnsblack.online:80/8ea73w/z24iia/9691
 
