@@ -111,8 +111,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] LISTA DO CONTRIBUINTE[/B][/COLOR]</name>
+<name>[COLOR lime][B] LISTA DO CONTRIBUINTE 1 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/TESTE%20TVS</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CONTEÚDO DE CONTRIBUINTE</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] LISTA DO CONTRIBUINTE 2 [/B][/COLOR]</name>
+<externallink>https://github.com/mello506/NEWLUMINART/blob/main/TESTE%20TVS%202</externallink>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
