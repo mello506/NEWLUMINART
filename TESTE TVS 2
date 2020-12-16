@@ -1,139 +1,1941 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24hs" tvg-logo="https://i.ibb.co/wSVpwR8/chaves.jpg" group-title="24 HORAS | PROGRAMAS TV",CHAVES 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16971
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="https://i.ibb.co/Fz7CpHW/desenhos-biblicos.jpg" group-title="24 HORAS | DESENHOS",Desenhos Biblicos
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16974
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://i.ibb.co/rcKsXrN/dragon-ball-super.jpg" group-title="24 HORAS | ANIMES",Dragon Ball Super
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16980
-#EXTINF:-1 tvg-id="" tvg-name="He - Man" tvg-logo="https://i.ibb.co/0tPyZ3G/he-man.jpg" group-title="24 HORAS | DESENHOS",He - Man
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16986
-#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha" tvg-logo="https://i.ibb.co/qrdnMQb/homem-aranha.jpg" group-title="24 HORAS | DESENHOS",Homem Aranha
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16989
-#EXTINF:-1 tvg-id="" tvg-name="Jacjkie Chan" tvg-logo="https://i.ibb.co/Q9Y0Htf/jackie-chan.jpg" group-title="24 HORAS | DESENHOS",Jacjkie Chan
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16993
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 24hs" tvg-logo="https://3.bp.blogspot.com/-HdQzTNrCWkk/XouWGhd7EsI/AAAAAAAACoE/vVUd7lT6jI8FRFM8E7yJzDmxWa5Vyfa5ACK4BGAYYCw/s320/kwkw6tjh.png" group-title="24 HORAS | DESENHOS",Power Rangers 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/16997
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Super Poderosas" tvg-logo="https://3.bp.blogspot.com/-86sGS6zAnOY/WgMr3QyaU3I/AAAAAAAAL9w/-ygP6QZCJLQQwoPMT8_k58Nom8w426MGQCLcBGAs/s320/meninas_super_poderosas_1.png" group-title="24 HORAS | DESENHOS",As Meninas Super Poderosas
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17000
-#EXTINF:-1 tvg-id="" tvg-name="Bananas de Pijama 24hs" tvg-logo="https://4.bp.blogspot.com/-ZlJACBSBMec/Xw8Fol6wCDI/AAAAAAAAGnY/yA3VqeVXJM8vzh_93aJOcK3ySrwwkA9xgCK4BGAYYCw/s320/Bananas%2Bde%2BPijamas.png" group-title="24 HORAS | DESENHOS",Bananas de Pijama 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17004
-#EXTINF:-1 tvg-id="" tvg-name="Caillou 24hs" tvg-logo="https://2.bp.blogspot.com/-zblVsq51bXk/XoqI-N2RFgI/AAAAAAAACnY/DF6kgAZfE0U4rCqHXhKKR7F-g8h1AapvwCK4BGAYYCw/s320/25rqr022.png" group-title="24 HORAS | DESENHOS",Caillou 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17006
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://i.ibb.co/9c94Zzq/peppa-pig.jpg" group-title="24 HORAS | DESENHOS",Peppa Pig
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17013
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24hs" tvg-logo="https://i.ibb.co/9N3YwLM/pica-pau.jpg" group-title="24 HORAS | DESENHOS",PICA PAU 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17016
-#EXTINF:-1 tvg-id="" tvg-name="Popeye o Marinheiro" tvg-logo="https://i.ibb.co/N3G7ttt/popeye.jpg" group-title="24 HORAS | DESENHOS",Popeye o Marinheiro
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17019
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24hs" tvg-logo="https://i.ibb.co/yqCzPSH/scooby-doo.jpg" group-title="24 HORAS | DESENHOS",Scooby-Doo 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17021
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="https://i.ibb.co/dDLZrgD/todo-mundo-odeia-o-chris.jpg" group-title="24 HORAS | SERIES",TODO MUNDO ODEIA O CHRIS 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17030
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="https://i.ibb.co/3c2HFfG/tom-e-jerry.jpg" group-title="24 HORAS | DESENHOS",Tom & Jerry
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17031
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution " tvg-logo="https://i.ibb.co/8PcGFhW/xmen.jpg" group-title="24 HORAS | DESENHOS",X-Men Evolution 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/17036
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://i.pinimg.com/originals/e2/5d/bf/e25dbfa90d19037ef79b49adcd0c3e2b.jpg" group-title="24 HORAS | DESENHOS",Patrulha Canina
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/44237
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/Escolinha-do-professor-raimundo-logo.jpg/250px-Escolinha-do-professor-raimundo-logo.jpg" group-title="24 HORAS | DESENHOS",Caverna do Dragao 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/70856
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha " tvg-logo="https://i.ibb.co/Gd8w2Vg/galinha-pintadinha.jpg" group-title="24 HORAS | DESENHOS",Galinha Pintadinha 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/78556
-#EXTINF:-1 tvg-id="" tvg-name="Big Mouth" tvg-logo="https://3.bp.blogspot.com/-_AANW483Mpg/WdPYcskzSCI/AAAAAAAAAQo/EonP_h63OmMtYU3BWWi1I5mda9qWwqsTwCLcBGAs/s1600/p14397533_b_v8_aa.jpg" group-title="24 HORAS | DESENHOS",Big Mouth
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/78607
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 24Hrs" tvg-logo="https://vignette.wikia.nocookie.net/dublagempedia/images/b/bf/Serie-eu-a-patroa-e-as-criancas-completo-sbt-D_NQ_NP_740907-MLB25649989507_062017-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20180503200534&path-prefix=pt-br" group-title="24 HORAS | SERIES",EU A PATROA E AS CRIANCAS 24Hrs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/78625
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia" tvg-logo="https://2.bp.blogspot.com/-UjbNd5nfK78/XuzuJ2HswUI/AAAAAAAAGaU/4iZWDNOQGqMC0_YZlqmWw7M0z5ZxQLGygCK4BGAYYCw/s1600/a%2Bpequena%2Bsereia.png" group-title="24 HORAS | DESENHOS",A Pequena Sereia
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/78876
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-title="24 HORAS | DESENHOS",OS SIMPSONS 24hs
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/79107
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://i.ibb.co/s2pnTSZ/3-palavrinhas.jpg" group-title="24 HORAS | DESENHOS",3 Palavrinhas
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/79108
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds " tvg-logo="https://1.bp.blogspot.com/-H7TFyuVZr8A/XsRSUZ8lN6I/AAAAAAAAF6k/CjIXwxxdbm0-lcWbx6gTGwViK1Sb-GOqQCK4BGAYYCw/s1600/Angry%2BBirds.png" group-title="24 HORAS | DESENHOS",Angry Birds 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/79374
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones" tvg-logo="https://lh3.googleusercontent.com/-nCs_I8k6oPI/X5HsuxPRT8I/AAAAAAAAHM8/2nVdPpTLZpQOAnxFSzfkuxSqd6Z8s4uTQCLcBGAsYHQ/Game%2Bof%2BThrones.png" group-title="24 HORAS | SERIES",Game Of Thrones
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133156
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead" tvg-logo="https://lh3.googleusercontent.com/-dvskGmVJ43w/X5Hsu0jQy5I/AAAAAAAAHM4/IbvMIpm1fgcbnu5dVPe7CjpSFP8rEPsOgCLcBGAsYHQ/the%2Bwalking%2Bdead.png" group-title="24 HORAS | SERIES",The Walking Dead
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133157
-#EXTINF:-1 tvg-id="" tvg-name="O Socio " tvg-logo="https://lh3.googleusercontent.com/-MOMWGpHxrJY/X3OkmDurS_I/AAAAAAAAHJM/RcO0BDa-CVYrI4HDvtPOQIYuz1VPOf9XwCLcBGAsYHQ/O%2BSocio.png" group-title="24 HORAS | SERIES",O Socio 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133158
-#EXTINF:-1 tvg-id="" tvg-name="Policia 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-VJ74-1bZiZk/X4ddmn7ZCHI/AAAAAAAAHLQ/KD-7ShU-vOo5MaeVp0IQsmd0FM6mNilOgCLcBGAsYHQ/policia%2B24%2Bh.png" group-title="24 HORAS | PROGRAMAS TV",Policia 24 Horas
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133159
-#EXTINF:-1 tvg-id="" tvg-name="Ta no Ar - A Tv na TV" tvg-logo="https://lh3.googleusercontent.com/-JXzPctJN2k8/X5Hsuy5xnoI/AAAAAAAAHM0/w49h0iOqywoh2oxeev5mh8TQb0qA5li3QCLcBGAsYHQ/ta%2Bno%2Bar%2Ba%2Btv%2Bna%2Btv.png" group-title="24 HORAS | PROGRAMAS TV",Ta no Ar - A Tv na TV
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133160
-#EXTINF:-1 tvg-id="" tvg-name="Tô de Graca" tvg-logo="https://lh3.googleusercontent.com/-koDdb7FNflQ/X53AUNqyh9I/AAAAAAAAHOE/5qjPGPhEx58SRYch0JfLf1PAyC_IcbavQCLcBGAsYHQ/To%2Bde%2BGra%25C3%25A7a.png" group-title="24 HORAS | SERIES",Tô de Graca
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133161
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço " tvg-logo="https://3.bp.blogspot.com/-nbQ-mEZoGbI/XsRKtr5igfI/AAAAAAAAF6A/lRYZpnjp8zU5omUXtzG1kOigmKnHhSAngCK4BGAYYCw/s1600/Um%2BMaluco%2Bno%2BPeda%25C3%25A7o.png" group-title="24 HORAS | SERIES",Um Maluco no Pedaço 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133162
-#EXTINF:-1 tvg-id="" tvg-name="A Praça é Nossa" tvg-logo="https://3.bp.blogspot.com/-zkHRobPK-Cg/Xuzx3N1o23I/AAAAAAAAGas/3eN4EfUNaOgpsoO56lH7mESrQDpYpzwcQCK4BGAYYCw/s1600/a%2Bpra%25C3%25A7a%2Be%2Bnossa.png" group-title="24 HORAS | PROGRAMAS TV",A Praça é Nossa
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133163
-#EXTINF:-1 tvg-id="" tvg-name="As Visões de Raven" tvg-logo="https://3.bp.blogspot.com/-rM0Oo9DCbzs/XoqGmyXHDQI/AAAAAAAACnM/Z2QiUu7ry0INswzmxO2ovPFjfZbBHorHACK4BGAYYCw/s320/9l467ppp.png" group-title="24 HORAS | SERIES",As Visões de Raven
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133164
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia" tvg-logo="https://2.bp.blogspot.com/-4hle6ANttFk/XuzsjBwTnNI/AAAAAAAAGaI/Bw8rie6f7CcJ9kRYGOqqtwKfAUxPKNK1QCK4BGAYYCw/s1600/A%2BGrande%2BFam%25C3%25ADlia.png" group-title="24 HORAS | PROGRAMAS TV",A Grande Familia
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133165
-#EXTINF:-1 tvg-id="" tvg-name="A Escolinha do Professor Raimundo" tvg-logo="https://2.bp.blogspot.com/-SZJiXIs-bPw/XoDjEgcZ1YI/AAAAAAAACd4/gdAyIliBslAeixnchAwU00ss6XQPpv8-ACK4BGAYYCw/s320/gtpie6ak.png" group-title="24 HORAS | PROGRAMAS TV",A Escolinha do Professor Raimundo
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133166
-#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho" tvg-logo="https://4.bp.blogspot.com/-mrKzKxBSs_0/Xup1MPu7aFI/AAAAAAAAGYU/1nK7svGE2zUSVvkGptxaVcysKTmdPmsXACK4BGAYYCw/s1600/chaves%2Bdesebhos.png" group-title="24 HORAS | DESENHOS",Chaves Desenho
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133167
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://3.bp.blogspot.com/-SwwXBl9abrI/Xuzm66DJT1I/AAAAAAAAGZw/CQqcbzwWPFggcHalfXtUr5EChydmx04kgCK4BGAYYCw/s1600/chapolin.png" group-title="24 HORAS | PROGRAMAS TV",Chapolin Colorado
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133168
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiacos" tvg-logo="https://lh3.googleusercontent.com/-6SM0omLJ62k/X5Hsu64XqWI/AAAAAAAAHNA/8_jDZ1l2LD079Y0C-cmYziY8FlYzSnfkwCLcBGAsYHQ/Os%2BCavaleiros%2BSaga%2BHades%2BInferno.png" group-title="24 HORAS | ANIMES",Os Cavaleiros do Zodiacos
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133169
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://2.bp.blogspot.com/-XVlP4s9tTvY/XuTUgYtWDJI/AAAAAAAAGQk/a3Ps3YeVk6gn1SarnMzPv9K_PVmmcY5zQCK4BGAYYCw/s1600/dragon%2Bball%2Bgt.png" group-title="24 HORAS | ANIMES",Dragon Ball GT
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133170
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Heroes" tvg-logo="https://lh3.googleusercontent.com/-V9wMdO-nvtA/X2tnzACUxYI/AAAAAAAAHDY/0zKDp4biuIo4BYBXM0yxXEFuGngVQMpqwCLcBGAsYHQ/heroes.png" group-title="24 HORAS | ANIMES",Dragon Ball Heroes
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133171
-#EXTINF:-1 tvg-id="" tvg-name="Naruto " tvg-logo="https://1.bp.blogspot.com/-AFYoLe0pOyw/XsQBfpsQ7GI/AAAAAAAAF4g/jLCU8x18RZECT8CoVvZx6cDv0HukQ2pBwCK4BGAYYCw/s1600/Naruto.png" group-title="24 HORAS | ANIMES",Naruto 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133172
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://1.bp.blogspot.com/-PH7sbCIVJhQ/XvZd9t-2LrI/AAAAAAAAGe4/5Xm_JQy1OsAn3I3SbcpJb9y22kEM2xuugCK4BGAYYCw/s1600/Yu%2BYu%2BHakusho.png" group-title="24 HORAS | ANIMES",Yu Yu Hakusho
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133173
-#EXTINF:-1 tvg-id="" tvg-name="De Ferias com o Ex Brasil" tvg-logo="https://1.bp.blogspot.com/-D98fsRBEaFE/XxOe2aFeSxI/AAAAAAAAGsE/WlMw7XkJc7YVc_PSzt0rU61kIXWNP4mlQCK4BGAYYCw/s1600/De%2BFerias%2BCom%2Bo%2BEx%2BBrasil.png" group-title="24 HORAS | SERIES",De Ferias com o Ex Brasil
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133174
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="https://4.bp.blogspot.com/-W4hc9_NlfpY/Xtb7nUY2g5I/AAAAAAAAGCE/tS9Xm6SA4_AAnDqJy-h2B4vRLoehh0nGwCK4BGAYYCw/s320/One.Punch.png" group-title="24 HORAS | ANIMES",One Punch Man
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133175
-#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo" tvg-logo="https://4.bp.blogspot.com/-bCfZSA15r70/Xn9AevIsFhI/AAAAAAAACcw/Doa-SpIranI94uUob_PvWs3hldesfyp7ACK4BGAYYCw/s1600/c163el9p.png" group-title="24 HORAS | PROGRAMAS TV",Sai de Baixo
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133176
-#EXTINF:-1 tvg-id="" tvg-name="Sakura Card" tvg-logo="https://1.bp.blogspot.com/-VFqdkqNKewo/XyinU9bTQrI/AAAAAAAAG5U/uQlDACupfgcWarXxUgD8Qa0BfC5mdpq_QCLcBGAsYHQ/s1006/sakura%2Bcard.png" group-title="24 HORAS | ANIMES",Sakura Card
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133177
-#EXTINF:-1 tvg-id="" tvg-name="Big Bang - A Teoria" tvg-logo="https://4.bp.blogspot.com/-DNdmb9k0NyA/XuJCtgatS4I/AAAAAAAAGOk/VBaEPd-mkjY6kNP7BGPgnh9ar15nRKqngCK4BGAYYCw/s1600/The.Big.Bang.Theory.png" group-title="24 HORAS | SERIES",Big Bang - A Teoria
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133178
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiacos - Saga Hades" tvg-logo="https://lh3.googleusercontent.com/-6SM0omLJ62k/X5Hsu64XqWI/AAAAAAAAHNA/8_jDZ1l2LD079Y0C-cmYziY8FlYzSnfkwCLcBGAsYHQ/Os%2BCavaleiros%2BSaga%2BHades%2BInferno.png" group-title="24 HORAS | ANIMES",Os Cavaleiros do Zodiacos - Saga Hades
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/133179
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://2.bp.blogspot.com/-X6PRbZrRzww/XoJQ52ZOZ-I/AAAAAAAACfg/io9h0cq0pvkSIYwgn4VWND0kgFem6Xl8wCK4BGAYYCw/s320/AAAABVBD8pn3vBGCY6yVgjtHuUwP0RTegIaO0Ir00EttE1U7IC.png" group-title="24 HORAS | DESENHOS",Bob Zoom
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152467
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://lh3.googleusercontent.com/-sQmOrayvRsE/X7hiFz6cyZI/AAAAAAAAHPU/x8COD_loeLQJkamvmdW288MXozlPwy6DgCLcBGAsYHQ/sobrenatural.png" group-title="24 HORAS | SERIES",Sobrenatural
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152630
-#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://lh3.googleusercontent.com/-p3TyUX9OeP0/X7pq2e9qtHI/AAAAAAAAHPo/6Z8ofutuJcgw2M97fy3baQJXZxAOaccXQCLcBGAsYHQ/Smallville.png" group-title="24 HORAS | SERIES",Smallville
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152631
-#EXTINF:-1 tvg-id="" tvg-name="A Villa" tvg-logo="https://4.bp.blogspot.com/-TYNhlCeXK9w/XsPaLlvYbJI/AAAAAAAAF00/7-vSvtE2aAkZwqLsD_bedeV7n08dirn_gCK4BGAYYCw/s1600/A%2BVila.png" group-title="24 HORAS | SERIES",A Villa
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152632
-#EXTINF:-1 tvg-id="" tvg-name="Arnold" tvg-logo="https://1.bp.blogspot.com/-PVTjtvPaoJY/XsPmV7vgR8I/AAAAAAAAF2c/4XAq4T1XEKIFgOZY9iQZZhwbua9blsYSgCK4BGAYYCw/s1600/ArnoL.png" group-title="24 HORAS | SERIES",Arnold
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152633
-#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro" tvg-logo="https://1.bp.blogspot.com/-zHYkE57bZ5o/XuJ-MMdopJI/AAAAAAAAGPI/KDVh5wt0VywZXZEZtXje35M4-O-xyAVZwCK4BGAYYCw/s1600/Fam%25C3%25ADlia%2BDinossauro.png" group-title="24 HORAS | SERIES",Familia Dinossauro
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152634
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://1.bp.blogspot.com/-LuEfZYWDJAM/XopBhRxTVtI/AAAAAAAAClY/nwA81W5-I3wO1S2hVN2pbnvWTmMWewQsgCK4BGAYYCw/s320/jex963ft.png" group-title="24 HORAS | PROGRAMAS TV",Mr. Bean
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152635
-#EXTINF:-1 tvg-id="" tvg-name="Os 3 Patetas" tvg-logo="https://1.bp.blogspot.com/-9rOs2a6kwzU/Xw8Fr_lMHvI/AAAAAAAAGng/vWfK3F-abksjThy3J2HhQSaZ9BBKV54gQCK4BGAYYCw/s1600/3%2Bpatetas.png" group-title="24 HORAS | PROGRAMAS TV",Os 3 Patetas
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152636
-#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="https://i.pinimg.com/originals/5c/49/cc/5c49cc41e4ecbea2ed61b7c9c9e7f7c5.png" group-title="24 HORAS | PROGRAMAS TV",Os Trapalhões
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152637
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas do Joao Kleber" tvg-logo="https://3.bp.blogspot.com/-8WVN-ma8mLU/XrWyW8YQ19I/AAAAAAAAE5E/7Op48_eWYcUj-xq126Yxp7DOJI78Y6p0gCK4BGAYYCw/s320/03nlwxe3.png" group-title="24 HORAS | PROGRAMAS TV",Pegadinhas do Joao Kleber
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152638
-#EXTINF:-1 tvg-id="" tvg-name="Pesadelo  na Cozinha" tvg-logo="https://3.bp.blogspot.com/-5373D9MIJJo/Xu0igiGNBpI/AAAAAAAAGc8/gEwYa4ij2zIdw5VUz7CBuI9xA8tm8GMRQCK4BGAYYCw/s1600/Peppa%2BPig.png" group-title="24 HORAS | PROGRAMAS TV",Pesadelo  na Cozinha
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/152639
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores" tvg-logo="https://3.bp.blogspot.com/-UGiQyfGKU4c/XuYlBY6hQnI/AAAAAAAAGRE/PEjTpA88Uos7HIUC0gMvnht11mDRm3XEgCK4BGAYYCw/s1600/os%2Bvingadores.png" group-title="24 HORAS | DESENHOS",Vingadores
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153022
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica" tvg-logo="https://i.pinimg.com/originals/0f/54/78/0f5478645982b355d7ad56729a6bd8ab.png" group-title="24 HORAS | DESENHOS",Liga da Justica
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153023
-#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titas " tvg-logo="https://1.bp.blogspot.com/-EHQ3eqA3cUw/XvZhVa-_olI/AAAAAAAAGfs/HTGN7Yc0M0YWLAYgloO6OLY6tWRicGw0wCK4BGAYYCw/s1600/os%2Bjovens%2Btit%25C3%25A3s%2Bem%2Ba%25C3%25A7%25C3%25A3o.png" group-title="24 HORAS | DESENHOS",Os Jovens Titas 
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153024
-#EXTINF:-1 tvg-id="" tvg-name="Batman do Fututo" tvg-logo="https://2.bp.blogspot.com/-l6GLVASctLk/XojzF6CQABI/AAAAAAAACkw/MHvlvtmEMSYPPcsYer3mCTnQyjQDNd6sgCK4BGAYYCw/s320/ld9cbezq.png" group-title="24 HORAS | DESENHOS",Batman do Fututo
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153025
-#EXTINF:-1 tvg-id="" tvg-name="Superman" tvg-logo="https://2.bp.blogspot.com/-DGRPc80sFIA/XtbyzqdfpBI/AAAAAAAAGB4/YrRM8LH25q8EjBGFvnXhk_zpmgavyxDyQCK4BGAYYCw/s1600/Superman.png" group-title="24 HORAS | DESENHOS",Superman
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153026
-#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koBtV2z3F5jamEG1VhxeySKEOXt.jpg" group-title="24 HORAS | SERIES",Vai que Cola
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153085
-#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19xWCmiOlwKKpTXBibmAkaLKT1q.jpg" group-title="24 HORAS | DESENHOS",Bita e os Animais
-http://dns.lineduo.online:80/djvipweb/djvipwebplay/153224
-
-
+#EXTINF:-1,A&E
+http://a.srvbr.me:8880/andrepereira/andrepereira/898
+#EXTINF:-1,A&E HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/4203
+#EXTINF:-1,A&E [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4167
+#EXTINF:-1,AMC
+http://a.srvbr.me:8880/andrepereira/andrepereira/5077
+#EXTINF:-1,AMC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5076
+#EXTINF:-1,AMC [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4644
+#EXTINF:-1,AXN
+http://a.srvbr.me:8880/andrepereira/andrepereira/893
+#EXTINF:-1,AXN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/892
+#EXTINF:-1,AXN HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4165
+#EXTINF:-1,Animal Planet
+http://a.srvbr.me:8880/andrepereira/andrepereira/897
+#EXTINF:-1,Animal Planet HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/896
+#EXTINF:-1,Animal Planet Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5436
+#EXTINF:-1,Animal Planet [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4166
+#EXTINF:-1,Arte 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/894
+#EXTINF:-1,Arte 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5329
+#EXTINF:-1,Baby TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/5078
+#EXTINF:-1,BIS
+http://a.srvbr.me:8880/andrepereira/andrepereira/886
+#EXTINF:-1,BIS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/885
+#EXTINF:-1,BIS Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5447
+#EXTINF:-1,BIS HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4162
+#EXTINF:-1,Band
+http://a.srvbr.me:8880/andrepereira/andrepereira/887
+#EXTINF:-1,Band HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/891
+#EXTINF:-1,Band Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5475
+#EXTINF:-1,Band HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4164
+#EXTINF:-1,Band News
+http://a.srvbr.me:8880/andrepereira/andrepereira/890
+#EXTINF:-1,Band News HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5162
+#EXTINF:-1,Band News Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5435
+#EXTINF:-1,Band News [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4163
+#EXTINF:-1,Band Sports
+http://a.srvbr.me:8880/andrepereira/andrepereira/889
+#EXTINF:-1,Band Sports HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/888
+#EXTINF:-1,Band Sports [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1831
+#EXTINF:-1,Canal Brasil
+http://a.srvbr.me:8880/andrepereira/andrepereira/883
+#EXTINF:-1,Rede Boa Vontade
+http://a.srvbr.me:8880/andrepereira/andrepereira/5328
+#EXTINF:-1,Boomerang
+http://a.srvbr.me:8880/andrepereira/andrepereira/884
+#EXTINF:-1,Boomerang HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5327
+#EXTINF:-1,Boomerang Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5434
+#EXTINF:-1,Canção Nova
+http://a.srvbr.me:8880/andrepereira/andrepereira/879
+#EXTINF:-1,Cartoon Network
+http://a.srvbr.me:8880/andrepereira/andrepereira/878
+#EXTINF:-1,Cartoon Network HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/877
+#EXTINF:-1,Cartoon Network [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4159
+#EXTINF:-1,Cinemax
+http://a.srvbr.me:8880/andrepereira/andrepereira/876
+#EXTINF:-1,Cinemax HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1495
+#EXTINF:-1,Cinemax HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/5124
+#EXTINF:-1,Comedy Central
+http://a.srvbr.me:8880/andrepereira/andrepereira/873
+#EXTINF:-1,Comedy Central HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5326
+#EXTINF:-1,Comedy Central HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1833
+#EXTINF:-1,Combate
+http://a.srvbr.me:8880/andrepereira/andrepereira/875
+#EXTINF:-1,Combate HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/874
+#EXTINF:-1,Combate Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5474
+#EXTINF:-1,Combate HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1832
+#EXTINF:-1,COPA LIBERTADORES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11444
+#EXTINF:-1,DAZN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11443
+#EXTINF:-1,Curta!
+http://a.srvbr.me:8880/andrepereira/andrepereira/872
+#EXTINF:-1,Curta! HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5325
+#EXTINF:-1,Discovery Home & Health
+http://a.srvbr.me:8880/andrepereira/andrepereira/868
+#EXTINF:-1,Discovery Home & Health HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/867
+#EXTINF:-1,Discovery Home & Health Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5433
+#EXTINF:-1,Discovery Home & Health [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4156
+#EXTINF:-1,Discovery Civilization
+http://a.srvbr.me:8880/andrepereira/andrepereira/869
+#EXTINF:-1,Discovery Civilization HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5324
+#EXTINF:-1,Discovery Civilization [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4157
+#EXTINF:-1,Discovery Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/871
+#EXTINF:-1,Discovery Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/870
+#EXTINF:-1,Discovery Channel Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5448
+#EXTINF:-1,Discovery Channel HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1834
+#EXTINF:-1,Discovery Kids
+http://a.srvbr.me:8880/andrepereira/andrepereira/866
+#EXTINF:-1,Discovery Kids HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1494
+#EXTINF:-1,Discovery kids Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5432
+#EXTINF:-1,Discovery Kids HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1835
+#EXTINF:-1,Discovery Science
+http://a.srvbr.me:8880/andrepereira/andrepereira/865
+#EXTINF:-1,Discovery Science HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5075
+#EXTINF:-1,Discovery Science [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4154
+#EXTINF:-1,Discovery Theater
+http://a.srvbr.me:8880/andrepereira/andrepereira/5323
+#EXTINF:-1,Discovery Theater HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/864
+#EXTINF:-1,Discovery Theater HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4153
+#EXTINF:-1,Discovery World
+http://a.srvbr.me:8880/andrepereira/andrepereira/5322
+#EXTINF:-1,Discovery World HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/861
+#EXTINF:-1,Discovery World Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5430
+#EXTINF:-1,Discovery World [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4151
+#EXTINF:-1,Disney Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/860
+#EXTINF:-1,Disney Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1493
+#EXTINF:-1,Disney Channel Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5446
+#EXTINF:-1,Disney Channel HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4150
+#EXTINF:-1,Disney Junior
+http://a.srvbr.me:8880/andrepereira/andrepereira/859
+#EXTINF:-1,Disney Junior HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5562
+#EXTINF:-1,Disney XD
+http://a.srvbr.me:8880/andrepereira/andrepereira/858
+#EXTINF:-1,Disney XD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4149
+#EXTINF:-1,Discovery Turbo
+http://a.srvbr.me:8880/andrepereira/andrepereira/863
+#EXTINF:-1,Discovery Turbo HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/862
+#EXTINF:-1,Discovery Turbo Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5431
+#EXTINF:-1,Discovery Turbo HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4152
+#EXTINF:-1,E!
+http://a.srvbr.me:8880/andrepereira/andrepereira/857
+#EXTINF:-1,E! HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/4204
+#EXTINF:-1,EI PLUS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11483
+#EXTINF:-1,EI PLUS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11484
+#EXTINF:-1,ESPN
+http://a.srvbr.me:8880/andrepereira/andrepereira/4643
+#EXTINF:-1,ESPN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/848
+#EXTINF:-1,ESPN Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5458
+#EXTINF:-1,ESPN HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1839
+#EXTINF:-1,ESPN +  HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/851
+#EXTINF:-1,ESPN EXTRA HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1837
+#EXTINF:-1,ESPN Brasil
+http://a.srvbr.me:8880/andrepereira/andrepereira/850
+#EXTINF:-1,ESPN Brasil HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/849
+#EXTINF:-1,ESPN Brasil Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5459
+#EXTINF:-1,ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1838
+#EXTINF:-1,Espn Extra
+http://a.srvbr.me:8880/andrepereira/andrepereira/5321
+#EXTINF:-1,Espn Extra HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5320
+#EXTINF:-1,ESPN Extra Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5457
+#EXTINF:-1,Fish TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/846
+#EXTINF:-1,Fish TV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5319
+#EXTINF:-1,Food Network
+http://a.srvbr.me:8880/andrepereira/andrepereira/845
+#EXTINF:-1,Food Network HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1491
+#EXTINF:-1,Food Network [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4145
+#EXTINF:-1,FOX
+http://a.srvbr.me:8880/andrepereira/andrepereira/844
+#EXTINF:-1,FOX HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/841
+#EXTINF:-1,Fox Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5473
+#EXTINF:-1,FOX [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1842
+#EXTINF:-1,Fox Premium
+http://a.srvbr.me:8880/andrepereira/andrepereira/5318
+#EXTINF:-1,FOX Premium HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/843
+#EXTINF:-1,FOX Premium HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4144
+#EXTINF:-1,Fox Premium 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5317
+#EXTINF:-1,FOX Premium 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/842
+#EXTINF:-1,Fox Premium 2 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5429
+#EXTINF:-1,FOX Premium 2 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4143
+#EXTINF:-1,Fox Life
+http://a.srvbr.me:8880/andrepereira/andrepereira/840
+#EXTINF:-1,FOX Life HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/839
+#EXTINF:-1,Fox Sports
+http://a.srvbr.me:8880/andrepereira/andrepereira/837
+#EXTINF:-1,Fox Sports HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/838
+#EXTINF:-1,Fox Sports Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5418
+#EXTINF:-1,Fox Sports HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1844
+#EXTINF:-1,Fox Sports 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/836
+#EXTINF:-1,FOX Sports 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/835
+#EXTINF:-1,Fox Sports 2 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5456
+#EXTINF:-1,FOX Sports 2 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1843
+#EXTINF:-1,Futura
+http://a.srvbr.me:8880/andrepereira/andrepereira/834
+#EXTINF:-1,Futura HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5316
+#EXTINF:-1,FX
+http://a.srvbr.me:8880/andrepereira/andrepereira/833
+#EXTINF:-1,FX HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/832
+#EXTINF:-1,FX HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1845
+#EXTINF:-1,Gazeta HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/400
+#EXTINF:-1,Globo Brasília
+http://a.srvbr.me:8880/andrepereira/andrepereira/831
+#EXTINF:-1,Globo Brasilia HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5315
+#EXTINF:-1,Globo TV Centro America
+http://a.srvbr.me:8880/andrepereira/andrepereira/5127
+#EXTINF:-1,Globo EPTV Campinas
+http://a.srvbr.me:8880/andrepereira/andrepereira/5130
+#EXTINF:-1,Globo EPTV Campinas HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5314
+#EXTINF:-1,Globo EPTV Sao Carlos
+http://a.srvbr.me:8880/andrepereira/andrepereira/5129
+#EXTINF:-1,Globo Ribeirão Preto
+http://a.srvbr.me:8880/andrepereira/andrepereira/5312
+#EXTINF:-1,Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5313
+#EXTINF:-1,Globo - TV Bahia
+http://a.srvbr.me:8880/andrepereira/andrepereira/5071
+#EXTINF:-1,Globo - TV Bahia HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5309
+#EXTINF:-1,Globo Minas
+http://a.srvbr.me:8880/andrepereira/andrepereira/830
+#EXTINF:-1,Globo Minas HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5093
+#EXTINF:-1,Globo Minas Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5472
+#EXTINF:-1,Globo News
+http://a.srvbr.me:8880/andrepereira/andrepereira/826
+#EXTINF:-1,Globo News HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1498
+#EXTINF:-1,Globo News Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5442
+#EXTINF:-1,Globo News HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1846
+#EXTINF:-1,Globo Nordeste
+http://a.srvbr.me:8880/andrepereira/andrepereira/5067
+#EXTINF:-1,Globo Nordeste HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5073
+#EXTINF:-1,Globo - RBS TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/764
+#EXTINF:-1,Globo - RBS TV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5311
+#EXTINF:-1,Globo RJ
+http://a.srvbr.me:8880/andrepereira/andrepereira/829
+#EXTINF:-1,Globo RJ HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/828
+#EXTINF:-1,Globo RJ Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5471
+#EXTINF:-1,Globo Rede HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1847
+#EXTINF:-1,Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/andrepereira/andrepereira/5421
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5420
+#EXTINF:-1,Globo Curitiba
+http://a.srvbr.me:8880/andrepereira/andrepereira/5128
+#EXTINF:-1,Globo Curitiba HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5310
+#EXTINF:-1,Globo RPC Curitiba Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5469
+#EXTINF:-1,Globo SP
+http://a.srvbr.me:8880/andrepereira/andrepereira/827
+#EXTINF:-1,Globo SP HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5095
+#EXTINF:-1,Globo TV Gazeta Vitória
+http://a.srvbr.me:8880/andrepereira/andrepereira/12077
+#EXTINF:-1,Globo TV Gazeta Vitória Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12078
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12079
+#EXTINF:-1,Globo TV Gazeta SUL ES Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12080
+#EXTINF:-1,Globo TV Gazeta ES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12081
+#EXTINF:-1,Globo SP Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5470
+#EXTINF:-1,Globo SP HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/5528
+#EXTINF:-1,Globo Anhaguera Goiania
+http://a.srvbr.me:8880/andrepereira/andrepereira/5074
+#EXTINF:-1,Globo Goias - TV Anhanguera HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5072
+#EXTINF:-1,Globo TV Tribuna Santos
+http://a.srvbr.me:8880/andrepereira/andrepereira/5126
+#EXTINF:-1,TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/andrepereira/andrepereira/5125
+#EXTINF:-1,Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/andrepereira/andrepereira/5069
+#EXTINF:-1,Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/andrepereira/andrepereira/5307
+#EXTINF:-1,Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5308
+#EXTINF:-1,Globo - TV TEM Bauru
+http://a.srvbr.me:8880/andrepereira/andrepereira/714
+#EXTINF:-1,Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/andrepereira/andrepereira/713
+#EXTINF:-1,Globo - TV Verdes Mares
+http://a.srvbr.me:8880/andrepereira/andrepereira/5068
+#EXTINF:-1,+Globosat
+http://a.srvbr.me:8880/andrepereira/andrepereira/804
+#EXTINF:-1,+Globosat HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1488
+#EXTINF:-1,+Globosat HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4135
+#EXTINF:-1,Gloob
+http://a.srvbr.me:8880/andrepereira/andrepereira/825
+#EXTINF:-1,Gloob HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1490
+#EXTINF:-1,Gloob Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5441
+#EXTINF:-1,Gloob HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1848
+#EXTINF:-1,Gloobinho
+http://a.srvbr.me:8880/andrepereira/andrepereira/5306
+#EXTINF:-1,Gloobinho HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5305
+#EXTINF:-1,GNT
+http://a.srvbr.me:8880/andrepereira/andrepereira/824
+#EXTINF:-1,GNT HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/823
+#EXTINF:-1,GNT HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4142
+#EXTINF:-1,H2
+http://a.srvbr.me:8880/andrepereira/andrepereira/822
+#EXTINF:-1,H2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/821
+#EXTINF:-1,H2 [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4141
+#EXTINF:-1,HBO
+http://a.srvbr.me:8880/andrepereira/andrepereira/820
+#EXTINF:-1,HBO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/816
+#EXTINF:-1,HBO Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5467
+#EXTINF:-1,HBO HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1850
+#EXTINF:-1,HBO 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/810
+#EXTINF:-1,HBO 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/819
+#EXTINF:-1,HBO 2 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5468
+#EXTINF:-1,HBO 2 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1849
+#EXTINF:-1,HBO Family
+http://a.srvbr.me:8880/andrepereira/andrepereira/818
+#EXTINF:-1,HBO Family HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/817
+#EXTINF:-1,HBO Family HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4140
+#EXTINF:-1,HBO Plus
+http://a.srvbr.me:8880/andrepereira/andrepereira/815
+#EXTINF:-1,HBO Plus HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/813
+#EXTINF:-1,HBO Plus HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4139
+#EXTINF:-1,HBO Signature
+http://a.srvbr.me:8880/andrepereira/andrepereira/812
+#EXTINF:-1,HBO Signature HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/811
+#EXTINF:-1,HBO Signature HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4138
+#EXTINF:-1,History
+http://a.srvbr.me:8880/andrepereira/andrepereira/726
+#EXTINF:-1,History HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/809
+#EXTINF:-1,History Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5424
+#EXTINF:-1,History HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4137
+#EXTINF:-1,ID
+http://a.srvbr.me:8880/andrepereira/andrepereira/807
+#EXTINF:-1,ID HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/806
+#EXTINF:-1,ID HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4155
+#EXTINF:-1,Lifetime
+http://a.srvbr.me:8880/andrepereira/andrepereira/805
+#EXTINF:-1,Lifetime HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1489
+#EXTINF:-1,Lifetime [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4136
+#EXTINF:-1,HBO MUNDI
+http://a.srvbr.me:8880/andrepereira/andrepereira/803
+#EXTINF:-1,HBO MUNDI HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1497
+#EXTINF:-1,HBO XTREME
+http://a.srvbr.me:8880/andrepereira/andrepereira/802
+#EXTINF:-1,Sony
+http://a.srvbr.me:8880/andrepereira/andrepereira/881
+#EXTINF:-1,Sony HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/880
+#EXTINF:-1,Sony HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4115
+#EXTINF:-1,HBO Xtreme HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1487
+#EXTINF:-1,Maxup HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4134
+#EXTINF:-1,MegaPix
+http://a.srvbr.me:8880/andrepereira/andrepereira/799
+#EXTINF:-1,Megapix HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/798
+#EXTINF:-1,Megapix HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1851
+#EXTINF:-1,MTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/797
+#EXTINF:-1,MTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1485
+#EXTINF:-1,MTV HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4133
+#EXTINF:-1,Multishow
+http://a.srvbr.me:8880/andrepereira/andrepereira/796
+#EXTINF:-1,Multishow HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/795
+#EXTINF:-1,Multishow HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4131
+#EXTINF:-1,Music Box Brasil
+http://a.srvbr.me:8880/andrepereira/andrepereira/794
+#EXTINF:-1,Music Box Brasil HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5304
+#EXTINF:-1,NatGeo Wild
+http://a.srvbr.me:8880/andrepereira/andrepereira/793
+#EXTINF:-1,NatGeo Wild HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/702
+#EXTINF:-1,Nat Geo Wild Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5428
+#EXTINF:-1,Natgeo Kids
+http://a.srvbr.me:8880/andrepereira/andrepereira/5303
+#EXTINF:-1,Natgeo Kids HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5302
+#EXTINF:-1,National Geographic
+http://a.srvbr.me:8880/andrepereira/andrepereira/792
+#EXTINF:-1,National Geographic HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/791
+#EXTINF:-1,National Geographic [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4129
+#EXTINF:-1,NHK
+http://a.srvbr.me:8880/andrepereira/andrepereira/789
+#EXTINF:-1,Nickelodeon
+http://a.srvbr.me:8880/andrepereira/andrepereira/787
+#EXTINF:-1,Nickelodeon HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1484
+#EXTINF:-1,Nicklodeon Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5426
+#EXTINF:-1,Nickelodeon HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4128
+#EXTINF:-1,Nick Jr.
+http://a.srvbr.me:8880/andrepereira/andrepereira/788
+#EXTINF:-1,Nick Jr. HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5301
+#EXTINF:-1,Nick JR Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5427
+#EXTINF:-1,OFF
+http://a.srvbr.me:8880/andrepereira/andrepereira/785
+#EXTINF:-1,OFF HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/784
+#EXTINF:-1,OFF HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4125
+#EXTINF:-1,Paramount Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/783
+#EXTINF:-1,Paramount Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/782
+#EXTINF:-1,Paramount HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4124
+#EXTINF:-1,Premiere Clubes
+http://a.srvbr.me:8880/andrepereira/andrepereira/767
+#EXTINF:-1,Premiere Clubes HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/780
+#EXTINF:-1,Premiere Clubes Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5455
+#EXTINF:-1,Premiere Clubes HD [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1852
+#EXTINF:-1,PFC 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/779
+#EXTINF:-1,PFC 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/778
+#EXTINF:-1,PFC 2 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5454
+#EXTINF:-1,PFC 2 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1853
+#EXTINF:-1,PFC 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/777
+#EXTINF:-1,PFC 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/776
+#EXTINF:-1,PFC 3 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5453
+#EXTINF:-1,PFC 3 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1854
+#EXTINF:-1,PFC 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/775
+#EXTINF:-1,PFC 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/774
+#EXTINF:-1,PFC 4 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5452
+#EXTINF:-1,PFC 4 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1855
+#EXTINF:-1,PFC 5
+http://a.srvbr.me:8880/andrepereira/andrepereira/773
+#EXTINF:-1,PFC 5 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/772
+#EXTINF:-1,PFC 5 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5451
+#EXTINF:-1,PFC 5 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1856
+#EXTINF:-1,PFC 6
+http://a.srvbr.me:8880/andrepereira/andrepereira/771
+#EXTINF:-1,PFC 6 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/4123
+#EXTINF:-1,PFC 6 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5450
+#EXTINF:-1,PFC 6 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/5330
+#EXTINF:-1,PFC 7
+http://a.srvbr.me:8880/andrepereira/andrepereira/770
+#EXTINF:-1,PFC 7 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/4122
+#EXTINF:-1,PFC 7 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5449
+#EXTINF:-1,PFC 7 [ALTERNATIVO]
+http://a.srvbr.me:8880/andrepereira/andrepereira/5331
+#EXTINF:-1,PFC 8
+http://a.srvbr.me:8880/andrepereira/andrepereira/769
+#EXTINF:-1,PFC 9
+http://a.srvbr.me:8880/andrepereira/andrepereira/768
+#EXTINF:-1,Prime Box Brasil HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5300
+#EXTINF:-1,Record
+http://a.srvbr.me:8880/andrepereira/andrepereira/761
+#EXTINF:-1,Record HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/763
+#EXTINF:-1,Record Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5466
+#EXTINF:-1,Globo Internacional
+http://a.srvbr.me:8880/andrepereira/andrepereira/604
+#EXTINF:-1,Record HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1857
+#EXTINF:-1,Record BA
+http://a.srvbr.me:8880/andrepereira/andrepereira/11072
+#EXTINF:-1,Record BA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11071
+#EXTINF:-1,Record DF
+http://a.srvbr.me:8880/andrepereira/andrepereira/11069
+#EXTINF:-1,Record DF HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11068
+#EXTINF:-1,Record MG
+http://a.srvbr.me:8880/andrepereira/andrepereira/7565
+#EXTINF:-1,Record MG HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7566
+#EXTINF:-1,Record RJ
+http://a.srvbr.me:8880/andrepereira/andrepereira/7567
+#EXTINF:-1,Record RJ HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7568
+#EXTINF:-1,Record RS
+http://a.srvbr.me:8880/andrepereira/andrepereira/11066
+#EXTINF:-1,Record RS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11065
+#EXTINF:-1,Record Internacional
+http://a.srvbr.me:8880/andrepereira/andrepereira/899
+#EXTINF:-1,Record News
+http://a.srvbr.me:8880/andrepereira/andrepereira/762
+#EXTINF:-1,RedeTV!
+http://a.srvbr.me:8880/andrepereira/andrepereira/759
+#EXTINF:-1,RedeTV! HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/758
+#EXTINF:-1,RedeTV! HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4119
+#EXTINF:-1,Rede Vida
+http://a.srvbr.me:8880/andrepereira/andrepereira/757
+#EXTINF:-1,Rede Vida HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5653
+#EXTINF:-1,SBT
+http://a.srvbr.me:8880/andrepereira/andrepereira/756
+#EXTINF:-1,SBT HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/755
+#EXTINF:-1,SBT Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5465
+#EXTINF:-1,SBT HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1858
+#EXTINF:-1,SBT SP Interior
+http://a.srvbr.me:8880/andrepereira/andrepereira/5297
+#EXTINF:-1,Smithsonian Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/11419
+#EXTINF:-1,Smithsonian Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11420
+#EXTINF:-1,RTP Internacional
+http://a.srvbr.me:8880/andrepereira/andrepereira/574
+#EXTINF:-1,Space
+http://a.srvbr.me:8880/andrepereira/andrepereira/753
+#EXTINF:-1,Space HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/752
+#EXTINF:-1,Space HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4114
+#EXTINF:-1,SporTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/748
+#EXTINF:-1,SporTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/749
+#EXTINF:-1,Sportv Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5438
+#EXTINF:-1,SporTV HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1859
+#EXTINF:-1,SporTV2
+http://a.srvbr.me:8880/andrepereira/andrepereira/747
+#EXTINF:-1,SporTV2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/751
+#EXTINF:-1,Sportv 2 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5439
+#EXTINF:-1,SporTV2 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1860
+#EXTINF:-1,SporTV3
+http://a.srvbr.me:8880/andrepereira/andrepereira/745
+#EXTINF:-1,SporTV3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/750
+#EXTINF:-1,Sportv 3 Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5440
+#EXTINF:-1,SporTV3 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1861
+#EXTINF:-1,Studio Universal
+http://a.srvbr.me:8880/andrepereira/andrepereira/743
+#EXTINF:-1,Studio Universal HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1480
+#EXTINF:-1,Studio Universal HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4113
+#EXTINF:-1,SundanceTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/5296
+#EXTINF:-1,SundanceTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5295
+#EXTINF:-1,Syfy
+http://a.srvbr.me:8880/andrepereira/andrepereira/742
+#EXTINF:-1,Syfy HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1483
+#EXTINF:-1,SyFy HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4111
+#EXTINF:-1,TBS
+http://a.srvbr.me:8880/andrepereira/andrepereira/741
+#EXTINF:-1,TBS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/740
+#EXTINF:-1,TBS [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4110
+#EXTINF:-1,TCM
+http://a.srvbr.me:8880/andrepereira/andrepereira/734
+#EXTINF:-1,TCM HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4109
+#EXTINF:-1,TCV INTERNACIONAL
+http://a.srvbr.me:8880/andrepereira/andrepereira/983
+#EXTINF:-1,Telecine Action
+http://a.srvbr.me:8880/andrepereira/andrepereira/733
+#EXTINF:-1,Telecine Action HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/739
+#EXTINF:-1,Telecine Action Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5464
+#EXTINF:-1,Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1862
+#EXTINF:-1,Telecine Cult
+http://a.srvbr.me:8880/andrepereira/andrepereira/732
+#EXTINF:-1,Telecine Cult HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1482
+#EXTINF:-1,Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4108
+#EXTINF:-1,Telecine Fun
+http://a.srvbr.me:8880/andrepereira/andrepereira/731
+#EXTINF:-1,Telecine Fun HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/738
+#EXTINF:-1,Telecine Fun Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5463
+#EXTINF:-1,Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1863
+#EXTINF:-1,Telecine Pipoca
+http://a.srvbr.me:8880/andrepereira/andrepereira/730
+#EXTINF:-1,Telecine Pipoca HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/737
+#EXTINF:-1,Telecine Pipoca Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5462
+#EXTINF:-1,Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1864
+#EXTINF:-1,Telecine Premium
+http://a.srvbr.me:8880/andrepereira/andrepereira/729
+#EXTINF:-1,Telecine Premium HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/736
+#EXTINF:-1,Telecine Premium Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5461
+#EXTINF:-1,Telecine Premium HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1865
+#EXTINF:-1,Telecine Touch
+http://a.srvbr.me:8880/andrepereira/andrepereira/728
+#EXTINF:-1,Telecine Touch HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/735
+#EXTINF:-1,Telecine Touch Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5460
+#EXTINF:-1,Telecine Touch HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1866
+#EXTINF:-1,Terra Viva
+http://a.srvbr.me:8880/andrepereira/andrepereira/727
+#EXTINF:-1,TLC
+http://a.srvbr.me:8880/andrepereira/andrepereira/725
+#EXTINF:-1,TLC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1481
+#EXTINF:-1,TLC HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1867
+#EXTINF:-1,TV Justica
+http://a.srvbr.me:8880/andrepereira/andrepereira/5293
+#EXTINF:-1,TNT
+http://a.srvbr.me:8880/andrepereira/andrepereira/724
+#EXTINF:-1,TNT HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/723
+#EXTINF:-1,TNT HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/1868
+#EXTINF:-1,TNT Séries
+http://a.srvbr.me:8880/andrepereira/andrepereira/722
+#EXTINF:-1,TNT Séries HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/721
+#EXTINF:-1,TNT Series HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4107
+#EXTINF:-1,PlayKids
+http://a.srvbr.me:8880/andrepereira/andrepereira/7563
+#EXTINF:-1,PlayKids HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7564
+#EXTINF:-1,Tooncast
+http://a.srvbr.me:8880/andrepereira/andrepereira/720
+#EXTINF:-1,Tooncast HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4106
+#EXTINF:-1,TruTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/719
+#EXTINF:-1,TruTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5291
+#EXTINF:-1,TV Aparecida
+http://a.srvbr.me:8880/andrepereira/andrepereira/895
+#EXTINF:-1,TV Cultura
+http://a.srvbr.me:8880/andrepereira/andrepereira/5161
+#EXTINF:-1,TV Cultura HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5656
+#EXTINF:-1,TV Brasil
+http://a.srvbr.me:8880/andrepereira/andrepereira/717
+#EXTINF:-1,TV Câmara
+http://a.srvbr.me:8880/andrepereira/andrepereira/602
+#EXTINF:-1,TV Diário Fortaleza
+http://a.srvbr.me:8880/andrepereira/andrepereira/11063
+#EXTINF:-1,TV Diário Fortaleza HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11062
+#EXTINF:-1,TV Rá Tim Bum
+http://a.srvbr.me:8880/andrepereira/andrepereira/715
+#EXTINF:-1,TV Ra Tim Bum HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5292
+#EXTINF:-1,Universal Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/711
+#EXTINF:-1,Universal Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/710
+#EXTINF:-1,Universal Channel HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4103
+#EXTINF:-1,VH1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5290
+#EXTINF:-1,VH1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1479
+#EXTINF:-1,VH1 HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4101
+#EXTINF:-1,VH1 Mega Hits
+http://a.srvbr.me:8880/andrepereira/andrepereira/709
+#EXTINF:-1,Viva
+http://a.srvbr.me:8880/andrepereira/andrepereira/708
+#EXTINF:-1,Viva HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/707
+#EXTINF:-1,Viva Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5437
+#EXTINF:-1,Viva HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4100
+#EXTINF:-1,Warner Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/706
+#EXTINF:-1,Warner Channel HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/705
+#EXTINF:-1,Warner Full HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5425
+#EXTINF:-1,Warner Channel HD [PLUS]
+http://a.srvbr.me:8880/andrepereira/andrepereira/4099
+#EXTINF:-1,Woohoo
+http://a.srvbr.me:8880/andrepereira/andrepereira/704
+#EXTINF:-1,Woohoo HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5657
+#EXTINF:-1,Anos 70
+http://a.srvbr.me:8880/andrepereira/andrepereira/932
+#EXTINF:-1,Anos 80
+http://a.srvbr.me:8880/andrepereira/andrepereira/931
+#EXTINF:-1,Anos 90
+http://a.srvbr.me:8880/andrepereira/andrepereira/930
+#EXTINF:-1,Bossa Nova
+http://a.srvbr.me:8880/andrepereira/andrepereira/929
+#EXTINF:-1,Eletrônica
+http://a.srvbr.me:8880/andrepereira/andrepereira/928
+#EXTINF:-1,Festa
+http://a.srvbr.me:8880/andrepereira/andrepereira/927
+#EXTINF:-1,Forró
+http://a.srvbr.me:8880/andrepereira/andrepereira/926
+#EXTINF:-1,Gospel
+http://a.srvbr.me:8880/andrepereira/andrepereira/925
+#EXTINF:-1,Hip Hop
+http://a.srvbr.me:8880/andrepereira/andrepereira/924
+#EXTINF:-1,Jazz
+http://a.srvbr.me:8880/andrepereira/andrepereira/923
+#EXTINF:-1,Kids
+http://a.srvbr.me:8880/andrepereira/andrepereira/922
+#EXTINF:-1,Lounge
+http://a.srvbr.me:8880/andrepereira/andrepereira/921
+#EXTINF:-1,MPB
+http://a.srvbr.me:8880/andrepereira/andrepereira/920
+#EXTINF:-1,Pagode
+http://a.srvbr.me:8880/andrepereira/andrepereira/919
+#EXTINF:-1,Pop Hits
+http://a.srvbr.me:8880/andrepereira/andrepereira/918
+#EXTINF:-1,Rock Clássico
+http://a.srvbr.me:8880/andrepereira/andrepereira/916
+#EXTINF:-1,Reggae
+http://a.srvbr.me:8880/andrepereira/andrepereira/917
+#EXTINF:-1,Românticas
+http://a.srvbr.me:8880/andrepereira/andrepereira/915
+#EXTINF:-1,Samba de Raiz
+http://a.srvbr.me:8880/andrepereira/andrepereira/914
+#EXTINF:-1,Sertanejo Universitário
+http://a.srvbr.me:8880/andrepereira/andrepereira/913
+#EXTINF:-1,Pica Pau
+http://a.srvbr.me:8880/andrepereira/andrepereira/5114
+#EXTINF:-1,Pokemon Sun and Moon 1º Temporada 2018
+http://a.srvbr.me:8880/andrepereira/andrepereira/5275
+#EXTINF:-1,Dragon Ball Super
+http://a.srvbr.me:8880/andrepereira/andrepereira/5277
+#EXTINF:-1,A.I.C.O. Incarnation 2018
+http://a.srvbr.me:8880/andrepereira/andrepereira/5276
+#EXTINF:-1,Tom & Jerry
+http://a.srvbr.me:8880/andrepereira/andrepereira/5115
+#EXTINF:-1,(PT)24 KITCHEN
+http://a.srvbr.me:8880/andrepereira/andrepereira/987
+#EXTINF:-1,(PT)A Bola TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/664
+#EXTINF:-1,(PT)A&E
+http://a.srvbr.me:8880/andrepereira/andrepereira/399
+#EXTINF:-1,(PT)AMC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/398
+#EXTINF:-1,(PT)AXN
+http://a.srvbr.me:8880/andrepereira/andrepereira/1011
+#EXTINF:-1,(PT)AXN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/396
+#EXTINF:-1,(PT)AXN BLACK
+http://a.srvbr.me:8880/andrepereira/andrepereira/1010
+#EXTINF:-1,(PT)AXN Black HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/397
+#EXTINF:-1,(PT)AXN WHITE
+http://a.srvbr.me:8880/andrepereira/andrepereira/1009
+#EXTINF:-1,(PT)AXN White HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/395
+#EXTINF:-1,(PT)BABY FIRST
+http://a.srvbr.me:8880/andrepereira/andrepereira/996
+#EXTINF:-1,(PT)Baby TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/1046
+#EXTINF:-1,(PT)BENFICA TV 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/1019
+#EXTINF:-1,(PT)BENFICA TV 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1018
+#EXTINF:-1,(PT)BIGGS
+http://a.srvbr.me:8880/andrepereira/andrepereira/998
+#EXTINF:-1,(PT)Caça e Pesca
+http://a.srvbr.me:8880/andrepereira/andrepereira/392
+#EXTINF:-1,(PT)Cartoon Network
+http://a.srvbr.me:8880/andrepereira/andrepereira/1047
+#EXTINF:-1,MTV Live
+http://a.srvbr.me:8880/andrepereira/andrepereira/5654
+#EXTINF:-1,MTV Live HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5655
+#EXTINF:-1,(PT)CMTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1027
+#EXTINF:-1,(PT)CANAL PANDA
+http://a.srvbr.me:8880/andrepereira/andrepereira/1001
+#EXTINF:-1,(PT)CANAL Q
+http://a.srvbr.me:8880/andrepereira/andrepereira/991
+#EXTINF:-1,(PT)CANÇÃO NOVA
+http://a.srvbr.me:8880/andrepereira/andrepereira/981
+#EXTINF:-1,(PT)CINEMUNDO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/391
+#EXTINF:-1,(PT)CAÇAVISION
+http://a.srvbr.me:8880/andrepereira/andrepereira/989
+#EXTINF:-1,(PT)Discovery Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/390
+#EXTINF:-1,(PT)DISNEY CHANNEL
+http://a.srvbr.me:8880/andrepereira/andrepereira/1002
+#EXTINF:-1,(PT)DISNEY JUNIOR
+http://a.srvbr.me:8880/andrepereira/andrepereira/1000
+#EXTINF:-1,(PT)Discovery Showcase
+http://a.srvbr.me:8880/andrepereira/andrepereira/1048
+#EXTINF:-1,(PT)DOG TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/986
+#EXTINF:-1,(PT)E! ENTERTAINMENT
+http://a.srvbr.me:8880/andrepereira/andrepereira/988
+#EXTINF:-1,(PT) Eleven Sports 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5676
+#EXTINF:-1,(PT) Eleven Sports 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5675
+#EXTINF:-1,(PT) Eleven Sports 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5674
+#EXTINF:-1,(PT) Eleven Sports 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5673
+#EXTINF:-1,(PT) Eleven Sports 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/7575
+#EXTINF:-1,(PT) Eleven Sports 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5672
+#EXTINF:-1,(PT) Eleven Sports 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/7574
+#EXTINF:-1,(PT) Eleven Sports 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7573
+#EXTINF:-1,(PT) Eleven Sports 5
+http://a.srvbr.me:8880/andrepereira/andrepereira/7572
+#EXTINF:-1,(PT) Eleven Sports 5 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7571
+#EXTINF:-1,(PT) Eleven Sports 6
+http://a.srvbr.me:8880/andrepereira/andrepereira/7570
+#EXTINF:-1,(PT) Eleven Sports 6 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/7569
+#EXTINF:-1,(PT)EuroSport
+http://a.srvbr.me:8880/andrepereira/andrepereira/420
+#EXTINF:-1,(PT)EuroSport 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/388
+#EXTINF:-1,(PT)EuroNews
+http://a.srvbr.me:8880/andrepereira/andrepereira/648
+#EXTINF:-1,(PT)EUROSPORT 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1013
+#EXTINF:-1,(PT)Food Network
+http://a.srvbr.me:8880/andrepereira/andrepereira/1049
+#EXTINF:-1,(PT)Fuel TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/383
+#EXTINF:-1,(PT)GLOBO PORTUGAL
+http://a.srvbr.me:8880/andrepereira/andrepereira/355
+#EXTINF:-1,(PT)Globo Premium
+http://a.srvbr.me:8880/andrepereira/andrepereira/1518
+#EXTINF:-1,(PT)HISTÓRIA
+http://a.srvbr.me:8880/andrepereira/andrepereira/1003
+#EXTINF:-1,(PT)Hollywood
+http://a.srvbr.me:8880/andrepereira/andrepereira/382
+#EXTINF:-1,(PT)Hollywood HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1050
+#EXTINF:-1,(PT)JIMJAM
+http://a.srvbr.me:8880/andrepereira/andrepereira/997
+#EXTINF:-1,(PT)Kombat Sport
+http://a.srvbr.me:8880/andrepereira/andrepereira/1051
+#EXTINF:-1,(PT)LOCALVISION
+http://a.srvbr.me:8880/andrepereira/andrepereira/980
+#EXTINF:-1,(PT)MCM POP
+http://a.srvbr.me:8880/andrepereira/andrepereira/995
+#EXTINF:-1,(PT)MOTORS TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/1012
+#EXTINF:-1,(PT)MTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/994
+#EXTINF:-1,(PT)MOTORSVISION HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/381
+#EXTINF:-1,(PT)National Geographic Channel
+http://a.srvbr.me:8880/andrepereira/andrepereira/380
+#EXTINF:-1,(PT)NATIONAL GEOGRAPHIC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1005
+#EXTINF:-1,(PT)NATIONAL GEOGRAPHIC WILD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1004
+#EXTINF:-1,(PT)Odisseia
+http://a.srvbr.me:8880/andrepereira/andrepereira/377
+#EXTINF:-1,(PT)PFC
+http://a.srvbr.me:8880/andrepereira/andrepereira/992
+#EXTINF:-1,(PT)PORTO CANAL
+http://a.srvbr.me:8880/andrepereira/andrepereira/1015
+#EXTINF:-1,(PT)PORTO CANAL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1014
+#EXTINF:-1,(PT)REGIÕES TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/982
+#EXTINF:-1,(PT)RTP 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/375
+#EXTINF:-1,(PT)RTP 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/374
+#EXTINF:-1,(PT)RTP 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/373
+#EXTINF:-1,(PT)RTP Açores
+http://a.srvbr.me:8880/andrepereira/andrepereira/372
+#EXTINF:-1,(PT)RTP África
+http://a.srvbr.me:8880/andrepereira/andrepereira/371
+#EXTINF:-1,(PT)RTP Madeira
+http://a.srvbr.me:8880/andrepereira/andrepereira/370
+#EXTINF:-1,(PT)RTP Memória
+http://a.srvbr.me:8880/andrepereira/andrepereira/369
+#EXTINF:-1,(PT)RECORD NEWS
+http://a.srvbr.me:8880/andrepereira/andrepereira/993
+#EXTINF:-1,(PT)SIC NOTICIAS
+http://a.srvbr.me:8880/andrepereira/andrepereira/1032
+#EXTINF:-1,(PT)SPORT TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/1020
+#EXTINF:-1,(PT)SPORT TV 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/1026
+#EXTINF:-1,(PT)SPORT.TV 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/367
+#EXTINF:-1,(PT)SPORT TV 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/1024
+#EXTINF:-1,(PT)SPORT.TV 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/366
+#EXTINF:-1,(PT)SPORT TV 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/1023
+#EXTINF:-1,(PT)SPORT.TV 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/365
+#EXTINF:-1,(PT)SPORT TV 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/1022
+#EXTINF:-1,(PT)SPORT.TV 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/364
+#EXTINF:-1,(PT)SPORT TV 5
+http://a.srvbr.me:8880/andrepereira/andrepereira/1021
+#EXTINF:-1,(PT)SPORT.TV 5 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/363
+#EXTINF:-1,(PT)SPORT.TV Mais HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/362
+#EXTINF:-1,(PT)SIC CARAS
+http://a.srvbr.me:8880/andrepereira/andrepereira/1030
+#EXTINF:-1,(PT)SIC MULHER
+http://a.srvbr.me:8880/andrepereira/andrepereira/1031
+#EXTINF:-1,(PT)SIC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1033
+#EXTINF:-1,(PT)SIC K
+http://a.srvbr.me:8880/andrepereira/andrepereira/999
+#EXTINF:-1,(PT)SIC Radical
+http://a.srvbr.me:8880/andrepereira/andrepereira/662
+#EXTINF:-1,(PT)Sporting TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/368
+#EXTINF:-1,(PT)SPORTING TV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1016
+#EXTINF:-1,(PT)SyFy
+http://a.srvbr.me:8880/andrepereira/andrepereira/361
+#EXTINF:-1,(PT)SYFY HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1006
+#EXTINF:-1,(PT)TLC
+http://a.srvbr.me:8880/andrepereira/andrepereira/985
+#EXTINF:-1,TPA
+http://a.srvbr.me:8880/andrepereira/andrepereira/979
+#EXTINF:-1,(PT)TVC 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/353
+#EXTINF:-1,(PT)TVCINE 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/359
+#EXTINF:-1,(PT)TVC 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/352
+#EXTINF:-1,(PT)TVC 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/351
+#EXTINF:-1,(PT)TVC 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/350
+#EXTINF:-1,(PT)TVI 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/650
+#EXTINF:-1,(PT)TV Record HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/676
+#EXTINF:-1,(PT)TVSéries
+http://a.srvbr.me:8880/andrepereira/andrepereira/348
+#EXTINF:-1,(PT)TVSéries HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/354
+#EXTINF:-1,(PT)TVI 24
+http://a.srvbr.me:8880/andrepereira/andrepereira/649
+#EXTINF:-1,(PT)TVI FICÇÃO
+http://a.srvbr.me:8880/andrepereira/andrepereira/1029
+#EXTINF:-1,(PT)TVI REALITY
+http://a.srvbr.me:8880/andrepereira/andrepereira/1028
+#EXTINF:-1,(PT)TOROS TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/990
+#EXTINF:-1,(PT)VH1 Classic
+http://a.srvbr.me:8880/andrepereira/andrepereira/347
+#EXTINF:-1,(PT)FOX HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/385
+#EXTINF:-1,(PT)FOX Comedy HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/387
+#EXTINF:-1,(PT)FOX Crime
+http://a.srvbr.me:8880/andrepereira/andrepereira/386
+#EXTINF:-1,(PT)FOX CRIME HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1008
+#EXTINF:-1,(PT)FOX Life
+http://a.srvbr.me:8880/andrepereira/andrepereira/23
+#EXTINF:-1,(PT)FOX LIFE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/1007
+#EXTINF:-1,(PT)FOX Movies
+http://a.srvbr.me:8880/andrepereira/andrepereira/384
+#EXTINF:-1,USA: A&E HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5846
+#EXTINF:-1,USA: ABC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5862
+#EXTINF:-1,USA: AL JAZEERA ENGLISH
+http://a.srvbr.me:8880/andrepereira/andrepereira/5837
+#EXTINF:-1,USA: AMC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5863
+#EXTINF:-1,USA: BBC AMERICA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5855
+#EXTINF:-1,USA: BLOOMBERG
+http://a.srvbr.me:8880/andrepereira/andrepereira/5836
+#EXTINF:-1,USA: BRAVO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5861
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5832
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5831
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5830
+#EXTINF:-1,USA: CARTOON NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5834
+#EXTINF:-1,USA: CBS SPORTS NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5815
+#EXTINF:-1,USA: CNN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5857
+#EXTINF:-1,USA: COZI HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5852
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5845
+#EXTINF:-1,USA: DISNEY CHANNEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5835
+#EXTINF:-1,USA: ESCAPE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5839
+#EXTINF:-1,USA: ESPN 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5829
+#EXTINF:-1,USA: ESPN 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5828
+#EXTINF:-1,USA: ESPN GOAL LINE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5825
+#EXTINF:-1,USA: ESPN NEWS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5826
+#EXTINF:-1,USA: ESPN U HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5827
+#EXTINF:-1,USA: ESTRELLA TV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5842
+#EXTINF:-1,USA: FOX 29 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5856
+#EXTINF:-1,USA: FOX DEPORTES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5820
+#EXTINF:-1,USA: FOX NEWS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5858
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5819
+#EXTINF:-1,USA: FX HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5854
+#EXTINF:-1,USA: FXX HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5853
+#EXTINF:-1,USA: GALAVISION HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5864
+#EXTINF:-1,USA: HALLMARK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5841
+#EXTINF:-1,USA: HALLMARK MOVIES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5840
+#EXTINF:-1,USA: HISTORY CHANNEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5844
+#EXTINF:-1,USA: HSN 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5809
+#EXTINF:-1,USA: HSN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5810
+#EXTINF:-1,USA: ION LIFE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5803
+#EXTINF:-1,USA: JUSTICE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5806
+#EXTINF:-1,USA: LAFF
+http://a.srvbr.me:8880/andrepereira/andrepereira/5805
+#EXTINF:-1,USA: MLB NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5824
+#EXTINF:-1,USA: MSNBC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5860
+#EXTINF:-1,USA: MTV
+http://a.srvbr.me:8880/andrepereira/andrepereira/5807
+#EXTINF:-1,USA: NATIONAL GEOGRAPHIC CHANNEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5843
+#EXTINF:-1,USA: NBA
+http://a.srvbr.me:8880/andrepereira/andrepereira/5813
+#EXTINF:-1,USA: NBC 6 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5859
+#EXTINF:-1,USA: NFL NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5822
+#EXTINF:-1,USA: NFL RED ZONE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5823
+#EXTINF:-1,USA: NHL NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5821
+#EXTINF:-1,USA: NICKELODEAN HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5833
+#EXTINF:-1,USA: OXYGEN
+http://a.srvbr.me:8880/andrepereira/andrepereira/5851
+#EXTINF:-1,USA: PAC-12
+http://a.srvbr.me:8880/andrepereira/andrepereira/5811
+#EXTINF:-1,USA: SCIENCE CHANNEL
+http://a.srvbr.me:8880/andrepereira/andrepereira/5804
+#EXTINF:-1,USA: SPORTSMAN CHANNEL
+http://a.srvbr.me:8880/andrepereira/andrepereira/5816
+#EXTINF:-1,USA: SYFY HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5850
+#EXTINF:-1,USA: TBS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5838
+#EXTINF:-1,USA: TELEMUNDO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5865
+#EXTINF:-1,USA: TELEXISTOS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5849
+#EXTINF:-1,USA: THE GOLF CHANNEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5814
+#EXTINF:-1,USA: TLC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5848
+#EXTINF:-1,USA: TRAVEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5847
+#EXTINF:-1,USA: UNIMÁS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5866
+#EXTINF:-1,USA: USA NETWORK HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5812
+#EXTINF:-1,USA: VH1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5808
+#EXTINF:-1,CA: ABC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5694
+#EXTINF:-1,CA: BBC WORLD NEWS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5696
+#EXTINF:-1,CA: BOUNCE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5689
+#EXTINF:-1,CA: CBC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5701
+#EXTINF:-1,CA: CBC NEWS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5700
+#EXTINF:-1,CA: CBC VANCOUVER
+http://a.srvbr.me:8880/andrepereira/andrepereira/5699
+#EXTINF:-1,CA: CBS WEST
+http://a.srvbr.me:8880/andrepereira/andrepereira/5698
+#EXTINF:-1,CA: CHCH HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5712
+#EXTINF:-1,CA: CITYTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5709
+#EXTINF:-1,CA: CNBC
+http://a.srvbr.me:8880/andrepereira/andrepereira/5697
+#EXTINF:-1,CA: CP24
+http://a.srvbr.me:8880/andrepereira/andrepereira/5714
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+http://a.srvbr.me:8880/andrepereira/andrepereira/5702
+#EXTINF:-1,CA: CTV HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5704
+#EXTINF:-1,CA: CTV VANCOUVER
+http://a.srvbr.me:8880/andrepereira/andrepereira/5703
+#EXTINF:-1,CA: CW23 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5688
+#EXTINF:-1,CA: FOX
+http://a.srvbr.me:8880/andrepereira/andrepereira/5695
+#EXTINF:-1,CA: FOX WEST
+http://a.srvbr.me:8880/andrepereira/andrepereira/5693
+#EXTINF:-1,CA: FX
+http://a.srvbr.me:8880/andrepereira/andrepereira/5692
+#EXTINF:-1,CA: FXX
+http://a.srvbr.me:8880/andrepereira/andrepereira/5691
+#EXTINF:-1,CA: GLOBAL TORONTO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5706
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+http://a.srvbr.me:8880/andrepereira/andrepereira/5705
+#EXTINF:-1,CA: HBO
+http://a.srvbr.me:8880/andrepereira/andrepereira/5690
+#EXTINF:-1,CA: NBC HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5686
+#EXTINF:-1,CA: OMNI 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5711
+#EXTINF:-1,CA: OMNI 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5710
+#EXTINF:-1,CA: PBS KIDS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5687
+#EXTINF:-1,CA: SPORTSNET 360 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5680
+#EXTINF:-1,CA: SPORTSNET ONE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5679
+#EXTINF:-1,CA: SPORTSNET WEST HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5678
+#EXTINF:-1,CA: SPORTSNET WORLD HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5677
+#EXTINF:-1,CA: TELE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5707
+#EXTINF:-1,CA: TSN 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5685
+#EXTINF:-1,CA: TSN 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5684
+#EXTINF:-1,CA: TSN 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5683
+#EXTINF:-1,CA: TSN 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5682
+#EXTINF:-1,CA: TSN 5 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5681
+#EXTINF:-1,CA: TVO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5708
+#EXTINF:-1,CA: WEATHER NETWORK
+http://a.srvbr.me:8880/andrepereira/andrepereira/5713
+#EXTINF:-1,ES: 24 HORAS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5722
+#EXTINF:-1,ES: ANTENA 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/5725
+#EXTINF:-1,ES: AXN
+http://a.srvbr.me:8880/andrepereira/andrepereira/5719
+#EXTINF:-1,ES: CANAL SUR
+http://a.srvbr.me:8880/andrepereira/andrepereira/5715
+#EXTINF:-1,ES: CLAN TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/5724
+#EXTINF:-1,ES: CUATRO
+http://a.srvbr.me:8880/andrepereira/andrepereira/5728
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://a.srvbr.me:8880/andrepereira/andrepereira/5718
+#EXTINF:-1,ES: DISNEY
+http://a.srvbr.me:8880/andrepereira/andrepereira/5716
+#EXTINF:-1,ES: FDF MEDIASET TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/5723
+#EXTINF:-1,ES: HIST?RIA
+http://a.srvbr.me:8880/andrepereira/andrepereira/5717
+#EXTINF:-1,ES: LA 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5730
+#EXTINF:-1,ES: LA 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5729
+#EXTINF:-1,ES: LA SEXTA
+http://a.srvbr.me:8880/andrepereira/andrepereira/5726
+#EXTINF:-1,ES: MotoGP
+http://a.srvbr.me:8880/andrepereira/andrepereira/603
+#EXTINF:-1,ES: Real Madrid TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/45
+#EXTINF:-1,ES: TELECINCO
+http://a.srvbr.me:8880/andrepereira/andrepereira/5727
+#EXTINF:-1,ES: TELEDEPORTE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5721
+#EXTINF:-1,ES: TNT
+http://a.srvbr.me:8880/andrepereira/andrepereira/5720
+#EXTINF:-1,FR: 6TER
+http://a.srvbr.me:8880/andrepereira/andrepereira/5755
+#EXTINF:-1,FR: AB MOTEURS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5753
+#EXTINF:-1,FR: AB1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5754
+#EXTINF:-1,FR: ARTE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5752
+#EXTINF:-1,FR: CANAL 8
+http://a.srvbr.me:8880/andrepereira/andrepereira/5748
+#EXTINF:-1,FR: CINE FX
+http://a.srvbr.me:8880/andrepereira/andrepereira/5751
+#EXTINF:-1,FR: CINE POLAR
+http://a.srvbr.me:8880/andrepereira/andrepereira/5750
+#EXTINF:-1,FR: CSTAR
+http://a.srvbr.me:8880/andrepereira/andrepereira/5749
+#EXTINF:-1,FR: FRANCE O
+http://a.srvbr.me:8880/andrepereira/andrepereira/5743
+#EXTINF:-1,FR: FRANCE 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5747
+#EXTINF:-1,FR: FRANCE 24
+http://a.srvbr.me:8880/andrepereira/andrepereira/5742
+#EXTINF:-1,FR: FRANCE 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/5746
+#EXTINF:-1,FR: FRANCE 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/5745
+#EXTINF:-1,FR: FRANCE 5
+http://a.srvbr.me:8880/andrepereira/andrepereira/5744
+#EXTINF:-1,FR: L EQUIPE 21
+http://a.srvbr.me:8880/andrepereira/andrepereira/5740
+#EXTINF:-1,FR: M6
+http://a.srvbr.me:8880/andrepereira/andrepereira/5739
+#EXTINF:-1,FR: NRJ12
+http://a.srvbr.me:8880/andrepereira/andrepereira/5738
+#EXTINF:-1,FR: NT1 (TFX)
+http://a.srvbr.me:8880/andrepereira/andrepereira/5737
+#EXTINF:-1,FR: RTL9
+http://a.srvbr.me:8880/andrepereira/andrepereira/5736
+#EXTINF:-1,FR: TF1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5735
+#EXTINF:-1,FR: TF1 SERIES FILMS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5741
+#EXTINF:-1,FR: TMC
+http://a.srvbr.me:8880/andrepereira/andrepereira/5734
+#EXTINF:-1,FR: TV5 MONDE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5732
+#EXTINF:-1,FR: W9
+http://a.srvbr.me:8880/andrepereira/andrepereira/5733
+#EXTINF:-1,IT: 20 MEDIASET HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5761
+#EXTINF:-1,IT: CANALE 5 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5760
+#EXTINF:-1,IT: ITALIA 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5759
+#EXTINF:-1,IT: RAI 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/5766
+#EXTINF:-1,IT: RAI 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/5765
+#EXTINF:-1,IT: RAI 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/5764
+#EXTINF:-1,IT: RAI 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/5763
+#EXTINF:-1,IT: RAI MOVIE
+http://a.srvbr.me:8880/andrepereira/andrepereira/5757
+#EXTINF:-1,IT: RAI NEWS 24
+http://a.srvbr.me:8880/andrepereira/andrepereira/5762
+#EXTINF:-1,IT: RETE 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5756
+#EXTINF:-1,UK: BBC 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5802
+#EXTINF:-1,UK: BBC 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5801
+#EXTINF:-1,UK: BBC 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5800
+#EXTINF:-1,UK: BBC 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5799
+#EXTINF:-1,UK: BBC CBEBBIES
+http://a.srvbr.me:8880/andrepereira/andrepereira/5795
+#EXTINF:-1,UK: BBC CHANNEL ISLANDS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5797
+#EXTINF:-1,UK: BBC NEWS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5798
+#EXTINF:-1,UK: BBC WORLD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5796
+#EXTINF:-1,UK: BOX HITS
+http://a.srvbr.me:8880/andrepereira/andrepereira/5794
+#EXTINF:-1,UK: BOX NATION
+http://a.srvbr.me:8880/andrepereira/andrepereira/5793
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5788
+#EXTINF:-1,UK: ITV 1 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5784
+#EXTINF:-1,UK: ITV 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5783
+#EXTINF:-1,UK: ITV 3 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/5782
+#EXTINF:-1,UK: ITV 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/5781
+#EXTINF:-1,COPA DO NORDESTE 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/11967
+#EXTINF:-1,COPA DO NORDESTE 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/11968
+#EXTINF:-1,COPA DO NORDESTE 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/11969
+#EXTINF:-1,Globoesporte.com
+http://a.srvbr.me:8880/andrepereira/andrepereira/11970
+#EXTINF:-1,COPA CATARINENSE
+http://a.srvbr.me:8880/andrepereira/andrepereira/11971
+#EXTINF:-1,COPA CATARINENSE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11972
+#EXTINF:-1,COPA CATARINENSE 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/11973
+#EXTINF:-1,COPA CATARINENSE 2 HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/11974
+#EXTINF:-1,DAZN2
+http://a.srvbr.me:8880/andrepereira/andrepereira/12028
+#EXTINF:-1,DAZN3
+http://a.srvbr.me:8880/andrepereira/andrepereira/12029
+#EXTINF:-1,DAZN4
+http://a.srvbr.me:8880/andrepereira/andrepereira/12030
+#EXTINF:-1,DAZN5
+http://a.srvbr.me:8880/andrepereira/andrepereira/12031
+#EXTINF:-1,DAZN6
+http://a.srvbr.me:8880/andrepereira/andrepereira/12032
+#EXTINF:-1,Bob Esponja 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12033
+#EXTINF:-1,Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://a.srvbr.me:8880/andrepereira/andrepereira/12034
+#EXTINF:-1,Classicos Disney 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12035
+#EXTINF:-1,Coragem o Cão Covarde 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12036
+#EXTINF:-1,Dois Homens e Meio 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12037
+#EXTINF:-1,Dragon Ball 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12038
+#EXTINF:-1,Familia da Pesada (Family Guy) 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12039
+#EXTINF:-1,Formiga Atomica 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12040
+#EXTINF:-1,FUTURAMA 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12041
+#EXTINF:-1,Galinha Pintadinha 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12042
+#EXTINF:-1,Luluzinha 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12043
+#EXTINF:-1,Mickey e Donald 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12044
+#EXTINF:-1,Os Trapalhões 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12045
+#EXTINF:-1,Peppa Pig 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12046
+#EXTINF:-1,South Parks 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12047
+#EXTINF:-1,Thundercats 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12048
+#EXTINF:-1,Todo Mundo Odeia o Cris 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12049
+#EXTINF:-1,Um Maluco no Pedaço 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12050
+#EXTINF:-1,As aventuras de Jackie Chan 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12051
+#EXTINF:-1,Corrida Maluca 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12052
+#EXTINF:-1,Kenan e Kel 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12053
+#EXTINF:-1,O Mascara 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12054
+#EXTINF:-1,The Big Bang Theory 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12055
+#EXTINF:-1,Tico e Teco 24H
+http://a.srvbr.me:8880/andrepereira/andrepereira/12056
+#EXTINF:-1,Ei Plus 02
+http://a.srvbr.me:8880/andrepereira/andrepereira/12088
+#EXTINF:-1,Ei Plus 03
+http://a.srvbr.me:8880/andrepereira/andrepereira/12089
+#EXTINF:-1,Ei Plus 04
+http://a.srvbr.me:8880/andrepereira/andrepereira/12090
+#EXTINF:-1,Ei Plus 05
+http://a.srvbr.me:8880/andrepereira/andrepereira/12091
+#EXTINF:-1,Ei Plus 06
+http://a.srvbr.me:8880/andrepereira/andrepereira/12092
+#EXTINF:-1,CNN BRASIL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12118
+#EXTINF:-1,CNN BRASIL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/12119
+#EXTINF:-1,CNN BRASIL
+http://a.srvbr.me:8880/andrepereira/andrepereira/12120
+#EXTINF:-1,FLA TV
+http://a.srvbr.me:8880/andrepereira/andrepereira/13004
+#EXTINF:-1,A Fazenda 2020
+http://a.srvbr.me:8880/andrepereira/andrepereira/13409
+#EXTINF:-1,CONMEBOL TV 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/13443
+#EXTINF:-1,CONMEBOL TV 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/13444
+#EXTINF:-1,CONMEBOL TV 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/13445
+#EXTINF:-1,CONMEBOL TV 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/13446
+#EXTINF:-1,AGROMAIS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13575
+#EXTINF:-1,AGROMAIS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13576
+#EXTINF:-1,AGROMAIS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13577
+#EXTINF:-1,GLOBO RPC MARINGA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13578
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13579
+#EXTINF:-1,GLOBO RPC MARINGA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13580
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13581
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13582
+#EXTINF:-1,GLOBO NSC TV CHAPECO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13583
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13584
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13585
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13586
+#EXTINF:-1,GLOBO TV CLUBE TERESINA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13587
+#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13588
+#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13589
+#EXTINF:-1,GLOBO TV SERGIPE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13590
+#EXTINF:-1,GLOBO TV SERGIPE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13591
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13592
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13593
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13594
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13595
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13596
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13597
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13598
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13599
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13600
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13601
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13602
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13603
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13604
+#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13605
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13606
+#EXTINF:-1,GLOBO INTER TV DOS VALES SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13607
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13608
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13609
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13610
+#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13611
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13612
+#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13613
+#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13614
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13615
+#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13616
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13617
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13618
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13619
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13620
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13621
+#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13622
+#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13623
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13624
+#EXTINF:-1,GLOBO RBS TV PELOTAS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13625
+#EXTINF:-1,GLOBO TV CABO BRANCO FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13626
+#EXTINF:-1,GLOBO TV CABO BRANCO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13627
+#EXTINF:-1,GLOBO TV CABO BRANCO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13628
+#EXTINF:-1,GLOBO TV RIO SUL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13629
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13630
+#EXTINF:-1,GLOBO TV RIO SUL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13631
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13632
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13633
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13634
+#EXTINF:-1,GLOBO INTER TV CABUGI NATAL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13635
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13636
+#EXTINF:-1,GLOBO EPTV ARARAQUARA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13637
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13638
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13639
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13640
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13641
+#EXTINF:-1,GLOBO RPC LONDRINA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13642
+#EXTINF:-1,GLOBO RPC LONDRINA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13643
+#EXTINF:-1,GLOBO RPC LONDRINA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13644
+#EXTINF:-1,GLOBO EPTV SAO CARLOS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13645
+#EXTINF:-1,GLOBO EPTV SAO CARLOS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13646
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13647
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13648
+#EXTINF:-1,GLOBO TV TEM BAURU FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13649
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13650
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13651
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13652
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13653
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13654
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13655
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13656
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13657
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MACAPA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13658
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MACAPA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13659
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MACAPA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13660
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13661
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13662
+#EXTINF:-1,GLOBO RPC CASCAVEL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13663
+#EXTINF:-1,GLOBO INTER TV CABUGI NATAL FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13664
+#EXTINF:-1,GLOBO INTER TV CABUGI NATAL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13665
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13666
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13667
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13668
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERABA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13669
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERABA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13670
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERABA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13671
+#EXTINF:-1,GLOBO TV SUBAE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13672
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13673
+#EXTINF:-1,GLOBO TV SUBAE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13674
+#EXTINF:-1,GLOBO TV SUDOESTE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13675
+#EXTINF:-1,GLOBO TV SUDOESTE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13676
+#EXTINF:-1,GLOBO TV SUDOESTE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13677
+#EXTINF:-1,GLOBO TV REDE AMAZONICA RIO BRANCO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13678
+#EXTINF:-1,GLOBO TV REDE AMAZONICA RIO BRANCO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13679
+#EXTINF:-1,GLOBO TV REDE AMAZONICA RIO BRANCO FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13680
+#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13681
+#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13682
+#EXTINF:-1,GLOBO TV DIARIO MOGI DAS CRUZES FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13683
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13684
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13685
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13686
+#EXTINF:-1,GLOBO TV REDE AMAZONICA BOA VISTA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13687
+#EXTINF:-1,GLOBO TV REDE AMAZONICA BOA VISTA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13688
+#EXTINF:-1,GLOBO TV REDE AMAZONICA BOA VISTA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13689
+#EXTINF:-1,GLOBO TV FRONTEIRA P. PRUDENTE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13690
+#EXTINF:-1,GLOBO TV FRONTEIRA P. PRUDENTE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13691
+#EXTINF:-1,GLOBO TV FRONTEIRA P. PRUDENTE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13692
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13693
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13694
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13695
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERLANDIA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13696
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERLANDIA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13697
+#EXTINF:-1,GLOBO TV INTEGRACAO UBERLANDIA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13698
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13699
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13700
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13701
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13702
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13703
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13704
+#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13705
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13706
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13707
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13708
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13709
+#EXTINF:-1,GLOBO RPC TV PARANAVAI SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13710
+#EXTINF:-1,GLOBO RPC TV PARANAVAI HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13711
+#EXTINF:-1,GLOBO RPC TV PARANAVAI FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13712
+#EXTINF:-1,GLOBO TV ASA BRANCA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13713
+#EXTINF:-1,GLOBO TV ASA BRANCA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13714
+#EXTINF:-1,GLOBO TV ASA BRANCA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13715
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13716
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13717
+#EXTINF:-1,GLOBO RPC TV PONTA GROSSA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13718
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13719
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13720
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13721
+#EXTINF:-1,GLOBO NSC TV CENTRO-OESTE SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13722
+#EXTINF:-1,GLOBO NSC TV CENTRO-OESTE HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13723
+#EXTINF:-1,GLOBO NSC TV CENTRO-OESTE FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13724
+#EXTINF:-1,GLOBO NSC TV CRICIUMA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13725
+#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13726
+#EXTINF:-1,GLOBO NSC TV CRICIUMA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13727
+#EXTINF:-1,GLOBO TV GAZETA SUL SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13728
+#EXTINF:-1,GLOBO TV GAZETA SUL HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13729
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13730
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13731
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13732
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXA SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13733
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXA HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13734
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXA FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13735
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13736
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13737
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13738
+#EXTINF:-1,CINE SKY PLAY 1
+http://a.srvbr.me:8880/andrepereira/andrepereira/13739
+#EXTINF:-1,CINE SKY PLAY 2
+http://a.srvbr.me:8880/andrepereira/andrepereira/13740
+#EXTINF:-1,CINE SKY PLAY 3
+http://a.srvbr.me:8880/andrepereira/andrepereira/13741
+#EXTINF:-1,CINE SKY PLAY 4
+http://a.srvbr.me:8880/andrepereira/andrepereira/13742
+#EXTINF:-1,CINE SKY PLAY 5
+http://a.srvbr.me:8880/andrepereira/andrepereira/13743
+#EXTINF:-1,CINE SKY PLAY 6
+http://a.srvbr.me:8880/andrepereira/andrepereira/13744
+#EXTINF:-1,CINE SKY PLAY 7
+http://a.srvbr.me:8880/andrepereira/andrepereira/13745
+#EXTINF:-1,CINE SKY PLAY 8
+http://a.srvbr.me:8880/andrepereira/andrepereira/13746
+#EXTINF:-1,CINE SKY PLAY 9
+http://a.srvbr.me:8880/andrepereira/andrepereira/13747
+#EXTINF:-1,RECORDTV BELEM SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13748
+#EXTINF:-1,RECORDTV BELEM HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13749
+#EXTINF:-1,RECORDTV GO SD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13750
+#EXTINF:-1,RECORDTV GO HD
+http://a.srvbr.me:8880/andrepereira/andrepereira/13751
