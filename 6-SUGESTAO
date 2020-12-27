@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984[/B][/COLOR]</name>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984 -LEGENDAS FIXAS[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
@@ -30,17 +30,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984 - DATA - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984 -LEGENDAS FIXAS - 2020 [/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=bkts8Tn9hgU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb8d5bffe4d9b05f08121dacd9a418815f730e93&dn=Wonder.Woman.1984.2020.IMAX.1080p.WEB.H264-NOGRP&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2850&tr=udp%3A%2F%2F9.rarbg.to%3A2730$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984 - 1080 - DUB[/COLOR]</link>
-
+<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/sPcDxwO5OtzP.mp4$$lsname=[B]LS SERVER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A BATALHA DA GRA-BRETANHA - SD[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>Avançando para a década de 1980, a próxima aventura da Mulher-Maravilha nos cinemas a coloca frente a dois novos inimigos: Max Lord e Mulher-Leopardo.</info>
+<genre>SUPER-HERÓIS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
