@@ -21,25 +21,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984 -LEGENDAS FIXAS[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
-<genre>GENERO</genre>
+<info>Filme Mulher-Maravilha 1984</info>
+<genre>SUPER-HERÓIS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Mulher-Maravilha 1984[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Mulher-Maravilha 1984 em TORRENT</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bkts8Tn9hgU</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>SUPER-HERÓIS</genre>  
+</item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984 -LEGENDAS FIXAS - 2020 [/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=bkts8Tn9hgU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984[/COLOR]</link>
-<link>https://z-28b3jxzl1og7.bitchute.com/OsqmkKQffiY2/sPcDxwO5OtzP.mp4$$lsname=[B]LS SERVER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher-Maravilha 1984 -LEGENDAS FIXAS - 2020 [/COLOR]</link>
-
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mulher-Maravilha 1984 - 2020 - LEG FIXAS[/B][/COLOR]</title>
+<link>https://seed305.bitchute.com/OsqmkKQffiY2/EacQAGddXqIJ.mp4</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Avançando para a década de 1980, a próxima aventura da Mulher-Maravilha nos cinemas a coloca frente a dois novos inimigos: Max Lord e Mulher-Leopardo.</info>
 <genre>SUPER-HERÓIS</genre>  
 </item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
