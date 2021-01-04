@@ -12,6 +12,58 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Método Perigoso[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Um Método Perigoso</info>
+<genre>GENERO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Um Método Perigoso[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Um Método Perigoso em TORRENT</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Método Perigoso[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=slPN4Gh1TiQ</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Método Perigoso - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C18BDF183BAAA63BFBC627950A6B48E0355EB76C&dn=um+metodo+perigoso+dvdrip+xvid+dual+audio+WWW.RAPIDOTORRENTS.COM&tr=http%3A%2F%2Ftracker.publicbt.com%2Fannounce</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Carl Jung trata a linda paciente Sabina Spielrein de histeria pelos métodos de Sigmund Freud, mas alguns anos depois, Jung inicia um romance com Sabina, gerando uma rivalidade entre os médicos.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Um Método Perigoso - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Carl Jung trata a linda paciente Sabina Spielrein de histeria pelos métodos de Sigmund Freud, mas alguns anos depois, Jung inicia um romance com Sabina, gerando uma rivalidade entre os médicos.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Som Do Silêncio[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
