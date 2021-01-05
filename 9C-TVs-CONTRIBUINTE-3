@@ -1,715 +1,715 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="SD",A&E
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/2.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/2.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="A&E¹" tvg-logo="" group-title="SD",A&E¹
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/6.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/6.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="SD",AMC
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/12.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/12.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="AMC²" tvg-logo="" group-title="SD",AMC²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/16.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/16.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="SD",ANIMAL PLANET
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/17.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/17.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET²" tvg-logo="" group-title="SD",ANIMAL PLANET²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/21.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/21.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="" group-title="SD",APARECIDA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/22.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/22.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="" group-title="SD",ARTE 1
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/24.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/24.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="" group-title="HD",ARTE 1 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/25.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/25.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="SD",AXN
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/29.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/29.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="SD",BABY TV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/35.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/35.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="HD",BABY TV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/37.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/37.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS" tvg-logo="" group-title="SD",BAND CAMPINAS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/38.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/38.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="" group-title="HD",BAND HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/42.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/42.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" group-title="HD",BAND NEWS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/47.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/47.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS²" tvg-logo="" group-title="SD",BAND NEWS²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/49.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/49.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="" group-title="SD",BAND SPORTS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/50.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/50.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="HD",BAND SPORTS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/52.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/52.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BAND²" tvg-logo="" group-title="SD",BAND²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/55.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/55.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="SD",BIS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/56.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/56.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="HD",BIS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/59.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/59.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BIS²" tvg-logo="" group-title="SD",BIS²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/62.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/62.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE HD" tvg-logo="" group-title="HD",BOA VONTADE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/63.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/63.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="SD",BOOMERANG
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/64.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/64.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="HD",BOOMERANG HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/66.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/66.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="" group-title="SD",CANAL BRASIL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/69.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/69.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="HD",CANAL BRASIL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/71.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/71.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CANAL FUTURA HD" tvg-logo="" group-title="HD",CANAL FUTURA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/77.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/77.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="" group-title="SD",CANAL SONY
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/80.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/80.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="" group-title="HD",CANAL SONY HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/83.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/83.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="SD",CARTOON NETWORK
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/87.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/87.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="HD",CARTOON NETWORK HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/90.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/90.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="" group-title="SD",CINE SKY 01
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/91.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/91.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="" group-title="SD",CINE SKY 02
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/92.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/92.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="" group-title="SD",CINE SKY 03
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/93.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/93.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="" group-title="SD",CINE SKY 04
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/94.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/94.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="" group-title="SD",CINE SKY 05
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/95.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/95.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="" group-title="SD",CINE SKY 06
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/96.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/96.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="" group-title="SD",CINE SKY 07
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/97.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/97.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="" group-title="SD",CINE SKY 08
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/98.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/98.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="" group-title="SD",CINE SKY 09
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/99.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/99.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="" group-title="SD",CINE SKY 10
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/100.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/100.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="SD",CINEMAX
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/101.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/101.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL²" tvg-logo="" group-title="SD",CNN BRASIL²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/108.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/108.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="" group-title="SD",CNN ESPANHOL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/109.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/109.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="SD",CNN INTERNACIONAL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/110.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/110.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="SD",COMBATE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/111.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/111.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE²" tvg-logo="" group-title="SD",COMBATE²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/112.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/112.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="HD",COMBATE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/114.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/114.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SD",COMEDY CENTRAL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/117.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/117.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="" group-title="SD",CULTURA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/134.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/134.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA HD" tvg-logo="" group-title="HD",CULTURA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/136.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/136.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="" group-title="SD",CURTA!
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/138.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/138.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CURTA! HD" tvg-logo="" group-title="HD",CURTA! HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/140.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/140.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DAZN²" tvg-logo="" group-title="SD",DAZN²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/142.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/142.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SD",DISCOVERY CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/143.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/143.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL¹" tvg-logo="" group-title="SD",DISCOVERY CHANNEL¹
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/144.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/144.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="SD",DISCOVERY CIVILIZATION
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/149.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/149.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="SD",DISCOVERY H&H
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/151.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/151.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="SD",DISCOVERY KIDS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/156.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/156.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="HD",DISCOVERY KIDS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/159.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/159.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="SD",DISCOVERY SCIENCE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/161.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/161.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="SD",DISCOVERY THEATER
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/166.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/166.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="SD",DISCOVERY TURBO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/170.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/170.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="HD",DISCOVERY TURBO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/173.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/173.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="SD",DISCOVERY WORLD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/175.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/175.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="SD",DISNEY CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/180.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/180.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL *" tvg-logo="" group-title="SD",DISNEY CHANNEL *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/181.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/181.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="HD",DISNEY CHANNEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/183.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/183.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="SD",DISNEY JUNIOR
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/187.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/187.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR *" tvg-logo="" group-title="SD",DISNEY JUNIOR *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/188.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/188.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="HD",DISNEY JUNIOR HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/190.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/190.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="SD",DISNEY XD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/194.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/194.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD *" tvg-logo="" group-title="SD",DISNEY XD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/195.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/195.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="HD",DISNEY XD HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/196.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/196.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="SD",E!
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/201.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/201.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="HD",E! HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/203.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/203.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS" tvg-logo="" group-title="SD",EIPLUS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/205.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/205.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2" tvg-logo="" group-title="SD",EIPLUS 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/206.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/206.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD" tvg-logo="" group-title="HD",EIPLUS 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/207.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/207.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3" tvg-logo="" group-title="SD",EIPLUS 3
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/208.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/208.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 HD" tvg-logo="" group-title="HD",EIPLUS 3 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/209.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/209.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4" tvg-logo="" group-title="SD",EIPLUS 4
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/210.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/210.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 HD" tvg-logo="" group-title="HD",EIPLUS 4 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/211.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/211.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5" tvg-logo="" group-title="SD",EIPLUS 5
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/212.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/212.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 HD" tvg-logo="" group-title="HD",EIPLUS 5 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/213.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/213.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6" tvg-logo="" group-title="SD",EIPLUS 6
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/214.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/214.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 HD" tvg-logo="" group-title="HD",EIPLUS 6 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/215.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/215.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS HD" tvg-logo="" group-title="HD",EIPLUS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/216.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/216.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="SD",ESPN
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/217.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/217.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="" group-title="SD",ESPN BRASIL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/218.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/218.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="HD",ESPN BRASIL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/222.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/222.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL²" tvg-logo="" group-title="SD",ESPN BRASIL²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/224.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/224.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD²" tvg-logo="" group-title="HD",ESPN EXTRA HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/228.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/228.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA²" tvg-logo="" group-title="SD",ESPN EXTRA²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/229.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/229.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="HD",ESPN HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/232.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/232.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN ²" tvg-logo="" group-title="SD",ESPN ²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/234.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/234.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="SD",ESPN2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/235.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/235.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2²" tvg-logo="" group-title="SD",ESPN2²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/239.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/239.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="SD",FILM & ARTS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/244.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/244.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="" group-title="SD",FISH TV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/247.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/247.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="" group-title="HD",FISH TV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/249.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/249.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="SD",FOOD NETWORK
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/251.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/251.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="HD",FOOD NETWORK HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/255.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/255.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" tvg-logo="" group-title="SD",FOX CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/257.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/257.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL HD" tvg-logo="" group-title="HD",FOX CHANNEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/261.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/261.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="SD",FOX LIFE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/263.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/263.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="HD",FOX LIFE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/267.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/267.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="SD",FOX PREMIUM 1
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/269.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/269.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="SD",FOX PREMIUM 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/273.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/273.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="SD",FOX SPORTS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/277.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/277.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS *" tvg-logo="" group-title="SD",FOX SPORTS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/278.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/278.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SD",FOX SPORTS 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/279.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/279.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 *" tvg-logo="" group-title="SD",FOX SPORTS 2 *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/280.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/280.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="HD",FOX SPORTS 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/283.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/283.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2²" tvg-logo="" group-title="SD",FOX SPORTS 2²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/285.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/285.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="HD",FOX SPORTS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/288.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/288.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="SD",FX
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/290.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/290.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="HD",FX HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/294.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/294.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="HD",GLOBO BAHIA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/296.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/296.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM" tvg-logo="" group-title="SD",GLOBO BELEM
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/297.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/297.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="" group-title="HD",GLOBO BELEM HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/298.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/298.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA" tvg-logo="" group-title="SD",GLOBO BOA VISTA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/299.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/299.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD *" tvg-logo="" group-title="HD",GLOBO BRASILIA HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/302.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/302.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA²" tvg-logo="" group-title="SD",GLOBO BRASILIA²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/303.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/303.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ HD" tvg-logo="" group-title="HD",GLOBO CEARÁ HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/304.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/304.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ" tvg-logo="" group-title="SD",GLOBO CEARÁ
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/305.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/305.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA HD" tvg-logo="" group-title="HD",GLOBO CURITIBA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/306.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/306.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="" group-title="SD",GLOBO EPTV CAMPINAS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/307.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/307.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="HD",GLOBO EPTV CAMPINAS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/308.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/308.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD*" tvg-logo="" group-title="SD",GLOBO EPTV CAMPINAS SD*
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/309.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/309.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD*" tvg-logo="" group-title="SD",GLOBO EPTV RIBEIRÃO PRETO SD*
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/310.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/310.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS *" tvg-logo="" group-title="SD",GLOBO EPTV SAO CARLOS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/311.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/311.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="" group-title="HD",GLOBO FLORIANOPOLIS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/313.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/313.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA" tvg-logo="" group-title="SD",GLOBO GOIANIA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/314.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/314.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA HD" tvg-logo="" group-title="HD",GLOBO GOIANIA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/315.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/315.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI *" tvg-logo="" group-title="SD",GLOBO INTER TV CABUGI *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/316.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/316.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD *" tvg-logo="" group-title="HD",GLOBO MINAS HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/319.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/319.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS²" tvg-logo="" group-title="SD",GLOBO MINAS²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/320.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/320.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="" group-title="SD",GLOBO NATAL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/321.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/321.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="" group-title="HD",GLOBO NATAL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/322.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/322.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="" group-title="SD",GLOBO NEWS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/323.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/323.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="HD",GLOBO NEWS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/326.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/326.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS²" tvg-logo="" group-title="SD",GLOBO NEWS²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/329.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/329.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD *" tvg-logo="" group-title="HD",GLOBO NORDESTE HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/330.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/330.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD*" tvg-logo="" group-title="SD",GLOBO NORDESTE SD*
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/331.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/331.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO" tvg-logo="" group-title="SD",GLOBO PORTO VELHO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/332.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/332.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE *" tvg-logo="" group-title="SD",GLOBO RBS PORTO ALEGRE *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/334.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/334.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE" tvg-logo="" group-title="SD",GLOBO RECIFE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/336.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/336.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="" group-title="HD",GLOBO RECIFE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/337.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/337.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="" group-title="SD",GLOBO REDE AMAZONICA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/338.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/338.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="" group-title="HD",GLOBO REDE AMAZONICA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/339.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/339.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="" group-title="SD",GLOBO RIO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/340.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/340.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE" tvg-logo="" group-title="SD",GLOBO ACRE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/341.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/341.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="" group-title="SD",GLOBO RIO GRANDE DO SUL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/343.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/343.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="" group-title="HD",GLOBO RIO GRANDE DO SUL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/344.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/344.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD" tvg-logo="" group-title="HD",GLOBO RIO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/345.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/345.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="" group-title="SD",GLOBO RPC TV CURITIBA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/347.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/347.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP *" tvg-logo="" group-title="SD",GLOBO SJRP *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/348.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/348.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="" group-title="SD",GLOBO SP
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/349.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/349.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="HD",GLOBO SP HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/351.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/351.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD²" tvg-logo="" group-title="HD",GLOBO SP HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/353.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/353.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP²" tvg-logo="" group-title="SD",GLOBO SP²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/354.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/354.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA *" tvg-logo="" group-title="SD",GLOBO TV ANHANGUERA GOIANIA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/355.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/355.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA *" tvg-logo="" group-title="SD",GLOBO TV BAHIA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/356.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/356.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMÉRICA CUIBÁ *" tvg-logo="" group-title="SD",GLOBO TV CENTRO AMÉRICA CUIBÁ *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/357.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/357.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM *" tvg-logo="" group-title="SD",GLOBO TV LIBERAL BELEM *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/358.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/358.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL" tvg-logo="" group-title="SD",GLOBO TV RIO SUL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/359.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/359.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU *" tvg-logo="" group-title="SD",GLOBO TV TEM BAURU *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/360.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/360.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA *" tvg-logo="" group-title="SD",GLOBO TV TEM SOROCABA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/361.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/361.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS SD *" tvg-logo="" group-title="SD",GLOBO TV TRIBUNA SANTOS SD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/362.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/362.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *" tvg-logo="" group-title="SD",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/363.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/363.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA *" tvg-logo="" group-title="SD",GLOBO TV VERDES MARES FORTALEZA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/364.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/364.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD" tvg-logo="" group-title="HD",GLOBO VITORIA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/366.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/366.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="" group-title="SD",GLOOB
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/367.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/367.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB HD *" tvg-logo="" group-title="HD",GLOOB HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/370.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/370.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO *" tvg-logo="" group-title="SD",GLOOBINHO *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/372.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/372.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD *" tvg-logo="" group-title="HD",GLOOBINHO HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/374.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/374.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="SD",GNT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/375.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/375.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD *" tvg-logo="" group-title="HD",GNT HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/378.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/378.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="SD",HBO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/380.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/380.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="" group-title="SD",HBO *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/381.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/381.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO +" tvg-logo="" group-title="SD",HBO +
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/382.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/382.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="" group-title="HD",HBO + HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/386.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/386.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="SD",HBO 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/387.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/387.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2²" tvg-logo="" group-title="SD",HBO 2²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/388.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/388.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="HD",HBO 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/391.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/391.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="SD",HBO FAMILY
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/392.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/392.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="HD",HBO FAMILY HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/396.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/396.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="HD",HBO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/400.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/400.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="SD",HBO SIGNATURE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/404.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/404.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="HD",HBO SIGNATURE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/408.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/408.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="" group-title="SD",HISTORY 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/414.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/414.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 HD" tvg-logo="" group-title="HD",HISTORY 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/418.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/418.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="SD",HISTORY CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/420.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/420.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL *" tvg-logo="" group-title="SD",HISTORY CHANNEL *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/421.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/421.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="" group-title="HD",HISTORY CHANNEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/424.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/424.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="" group-title="SD",INVESTIGAÇÃO DISCOVERY
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/427.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/427.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY *" tvg-logo="" group-title="SD",INVESTIGAÇÃO DISCOVERY *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/428.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/428.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="" group-title="HD",INVESTIGAÇÃO DISCOVERY HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/431.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/431.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title="SD",LIFETIME
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/432.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/432.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="" group-title="HD",LIFETIME HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/435.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/435.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="" group-title="SD",MAIS GLOBOSAT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/439.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/439.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="" group-title="HD",MAIS GLOBOSAT HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/441.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/441.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title="SD",HBO MUNDI
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/444.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/444.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="" group-title="HD",HBO MUNDI HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/448.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/448.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="SD",HBO XTREME
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/449.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/449.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="HD",HBO XTREME HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/453.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/453.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="SD",HBO POP
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/454.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/454.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="HD",HBO POP HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/458.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/458.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="" group-title="SD",MEGAPIX
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/459.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/459.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="SD",MTV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/465.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/465.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="HD",MTV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/468.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/468.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="" group-title="SD",MULTISHOW
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/471.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/471.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="" group-title="HD",MULTISHOW HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/475.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/475.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL *" tvg-logo="" group-title="SD",MUSIC BOX BRAZIL *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/478.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/478.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="" group-title="SD",NATGEO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/480.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/480.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="" group-title="HD",NATGEO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/484.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/484.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="SD",NATGEO KIDS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/486.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/486.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="HD",NATGEO KIDS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/489.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/489.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="" group-title="SD",NATGEO WILD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/491.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/491.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="HD",NATGEO WILD HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/495.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/495.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="" group-title="SD",NHK
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/498.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/498.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="SD",NICK JR
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/501.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/501.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="HD",NICK JR HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/504.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/504.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="SD",NICKELODEON
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/505.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/505.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="HD",NICKELODEON HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/508.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/508.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="SD",OFF
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/509.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/509.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="HD",OFF HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/511.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/511.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="" group-title="HD",TV PAI ETERNO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/514.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/514.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="SD",PARAMOUNT CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/515.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/515.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="HD",PARAMOUNT CHANNEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/518.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/518.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV *" tvg-logo="" group-title="SD",PLAY TV *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/520.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/520.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS *" tvg-logo="" group-title="SD",PLAYKIDS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/524.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/524.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="" group-title="SD",PREMIERE 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/525.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/525.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 *" tvg-logo="" group-title="SD",PREMIERE 2 *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/526.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/526.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="HD",PREMIERE 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/529.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/529.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="" group-title="SD",PREMIERE 3
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/531.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/531.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="HD",PREMIERE 3 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/535.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/535.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="" group-title="SD",PREMIERE 4
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/538.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/538.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="HD",PREMIERE 4 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/542.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/542.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="" group-title="SD",PREMIERE 5
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/545.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/545.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="HD",PREMIERE 5 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/549.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/549.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="" group-title="HD",PREMIERE 6 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/555.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/555.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="" group-title="SD",PREMIERE 7
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/557.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/557.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="" group-title="SD",PREMIERE CLUBES
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/563.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/563.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES *" tvg-logo="" group-title="SD",PREMIERE CLUBES *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/564.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/564.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="HD",PREMIERE CLUBES HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/567.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/567.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD *" tvg-logo="" group-title="HD",PREMIERE CLUBES HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/568.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/568.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="" group-title="SD",PRIME BOX BRAZIL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/570.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/570.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="" group-title="HD",PRIME BOX BRAZIL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/571.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/571.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="" group-title="SD",RECORD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/573.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/573.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD *" tvg-logo="" group-title="SD",RECORD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/574.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/574.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA *" tvg-logo="" group-title="SD",RECORD BAHIA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/575.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/575.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="" group-title="SD",RECORD BELEM
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/577.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/577.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA *" tvg-logo="" group-title="SD",RECORD BRASILIA *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/578.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/578.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="" group-title="HD",RECORD BRASILIA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/579.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/579.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="" group-title="SD",RECORD GOIAS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/581.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/581.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="" group-title="HD",RECORD HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/582.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/582.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS *" tvg-logo="" group-title="SD",RECORD MINAS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/584.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/584.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS *" tvg-logo="" group-title="SD",RECORD NEWS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/586.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/586.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD *" tvg-logo="" group-title="HD",RECORD NEWS HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/587.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/587.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO *" tvg-logo="" group-title="SD",RECORD RIO *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/588.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/588.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="" group-title="HD",RECORD RIO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/589.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/589.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="" group-title="SD",RECORD RS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/590.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/590.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="" group-title="SD",REDE CNT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/592.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/592.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS HD²" tvg-logo="" group-title="HD",REDE GENESIS HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/593.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/593.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="" group-title="HD",REDE GOSPEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/594.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/594.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDE MASSA HD" tvg-logo="" group-title="HD",REDE MASSA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/595.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/595.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="" group-title="SD",TV PAI ETERNO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/596.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/596.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="" group-title="SD",REDE VIDA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/597.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/597.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="SD",REDETV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/599.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/599.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="REDETV HD" tvg-logo="" group-title="HD",REDETV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/601.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/601.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="RPC HD" tvg-logo="" group-title="HD",RPC HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/604.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/604.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="SD",SBT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/605.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/605.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SBT GOIANIA HD" tvg-logo="" group-title="HD",SBT GOIANIA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/607.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/607.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="HD",SBT HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/608.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/608.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SBT²" tvg-logo="" group-title="SD",SBT²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/612.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/612.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL²" tvg-logo="" group-title="SD",SIC INTERNACIONAL²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/620.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/620.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD DUAL" tvg-logo="" group-title="HD",SMITHSONIAN HD DUAL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/621.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/621.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="SD",SPACE
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/622.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/622.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="HD",SPACE HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/626.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/626.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" group-title="SD",SPORTV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/628.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/628.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" group-title="SD",SPORTV 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/629.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/629.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="HD",SPORTV 2 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/631.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/631.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="" group-title="SD",SPORTV 3
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/635.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/635.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="" group-title="HD",SPORTV 3 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/637.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/637.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="" group-title="HD",SPORTV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/643.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/643.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV HD²" tvg-logo="" group-title="HD",SPORTV HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/645.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/645.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV²" tvg-logo="" group-title="SD",SPORTV²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/646.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/646.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="SD",STUDIO UNIVERSAL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/647.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/647.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="HD",STUDIO UNIVERSAL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/651.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/651.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="SD",SYFY
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/653.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/653.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="HD",SYFY HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/657.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/657.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TBS *" tvg-logo="" group-title="SD",TBS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/659.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/659.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="HD",TBS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/660.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/660.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="SD",TCM
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/668.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/668.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="HD",TCM HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/670.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/670.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="" group-title="SD",TELECINE ACTION
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/671.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/671.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="HD",TELECINE ACTION HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/675.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/675.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="" group-title="SD",TELECINE CULT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/676.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/676.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="HD",TELECINE CULT HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/680.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/680.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="" group-title="SD",TELECINE FUN
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/681.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/681.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="HD",TELECINE FUN HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/685.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/685.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="" group-title="SD",TELECINE PIPOCA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/686.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/686.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="HD",TELECINE PIPOCA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/690.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/690.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="" group-title="SD",TELECINE PREMIUM
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/691.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/691.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="HD",TELECINE PREMIUM HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/694.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/694.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="" group-title="SD",TELECINE TOUCH
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/696.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/696.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="" group-title="HD",TELECINE TOUCH HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/700.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/700.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="LOADING" tvg-logo="" group-title="SD",LOADING SD
 https://aws-br.cdn.booyah.live/hls/1000009/34850987_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOADING" tvg-logo="" group-title="HD",LOADING HD
 https://aws-br.cdn.booyah.live/hls/1000009/34850987_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="SD",TLC
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/701.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/701.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="HD",TLC HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/703.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/703.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="SD",TNT
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/705.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/705.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="HD",TNT HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/708.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/708.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES" tvg-logo="" group-title="SD",TNT SÉRIES
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/712.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/712.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES HD" tvg-logo="" group-title="HD",TNT SÉRIES HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/714.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/714.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="SD",TOONCAST
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/716.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/716.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="HD",TOONCAST HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/718.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/718.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TRUTV *" tvg-logo="" group-title="SD",TRUTV *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/721.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/721.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="" group-title="HD",TV BRASIL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/722.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/722.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV CAIUA HD" tvg-logo="" group-title="HD",TV CAIUA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/723.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/723.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="SD",TV EVANGELIZAR
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/724.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/724.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV FONTE HD²" tvg-logo="" group-title="HD",TV FONTE HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/725.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/725.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD *" tvg-logo="" group-title="HD",TV GAZETA HD *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/726.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/726.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD" tvg-logo="" group-title="HD",TV GUARULHOS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/727.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/727.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="" group-title="HD",TV NOVO TEMPO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/728.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/728.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD²" tvg-logo="" group-title="HD",TV NOVO TEMPO HD²
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/729.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/729.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="SD",TV RA TIM BUM
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/731.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/731.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="HD",TV RA TIM BUM HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/733.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/733.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV TAROBA HD" tvg-logo="" group-title="HD",TV TAROBA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/735.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/735.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV UP" tvg-logo="" group-title="SD",TV UP
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/736.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/736.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="" group-title="SD",UNIVERSAL TV
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/737.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/737.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="" group-title="HD",UNIVERSAL TV HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/741.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/741.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VEM E VÊ TV 1" tvg-logo="" group-title="SD",VEM E VÊ TV 1
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/743.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/743.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="SD",VENUS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/744.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/744.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VENUS HD" tvg-logo="" group-title="HD",VENUS HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/745.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/745.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="SD",VH1
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/746.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/746.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="HD",VH1 HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/747.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/747.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS *" tvg-logo="" group-title="SD",VH1 MEGAHITS *
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/749.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/749.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="SD",VIVA
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/750.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/750.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="HD",VIVA HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/752.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/752.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="" group-title="SD",WARNER CHANNEL
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/755.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/755.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="HD",WARNER CHANNEL HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/759.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/759.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="" group-title="SD",WOOHOO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/761.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/761.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD" tvg-logo="" group-title="HD",WOOHOO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/763.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/763.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="" group-title="SD",ZOOMOO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/765.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/765.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="" group-title="HD",ZOOMOO HD
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/767.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/767.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="A CASA DAS BRASILEIRINHAS" tvg-logo="" group-title="SD",A CASA DAS BRASILEIRINHAS
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/771.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/771.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO" tvg-logo="" group-title="SD",TV CABO BRANCO
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/770.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/770.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="" group-title="HD",CONMEBOL 1
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/772.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/772.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="" group-title="HD",CONMEBOL 2
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/773.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/773.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="" group-title="HD",CONMEBOL 3
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/774.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/774.ts|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="" group-title="HD",CONMEBOL 4
-http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/775.ts|
+http://gamexit.in:8080/live/R7wA1D8zM3wHPe/zQIcKBT26P3B/775.ts|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Canais | Notícias",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
@@ -770,7 +770,7 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-id="SUMMER TV  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="CINE TRIANON TV ",SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w634273177.m3u8
 #EXTINF:-1 tvg-id="SUMMER TV  " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="CINE TRIANON TV ",Dragon Ball GT
-http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149653.ts|
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149653.ts|user-agent=GoPlayer
  
  
  
@@ -783,5 +783,3 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=TV NA ILHA;url=https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1051957701.m3u8
 #EXTINF:-1 tvg-id="TV NA ILHA " tvg-name="TV NA ILHA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f71848039f8ff22ebf9597c76217099.jpg" group-title="CINE TRIANON TV ",Latinasat TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;url=https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
-
-
