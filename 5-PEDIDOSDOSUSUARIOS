@@ -12,6 +12,64 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os Herculoids</info>
+<genre>DESENHOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids - T01 - 1967 - SD - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=4ByzkN2jpgQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDASERIE[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t5WKfcxRGxEVTp_dnxFk-N4ikNL1Y51p/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Piratas[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14faNUJOPD4pb7KqIua3bk0Sex4z3xSG3/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Homens Aranha[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KkgcTN8HURrgNFDV8iVc0by4Ff8tzoUx/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Robos de Mekkor[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ad5u5RHiTkv1Rm0ZkXbWMkEl_4NUjR14/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dorgayde Perdido[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cvg4G4uxHtcWaEgnGcZSfGZzqvdI2NoL/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Formigas Destruidoras[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HzI3f4tfQ9ROwfUX1-WAVuwdrKpJtuha/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Derrota de Ogron[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hJ3etr0lX97jBGiY0SPiR0x-xlfyucGm/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Androides[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LDnp3d9D0sUfE8cXltGtFZRvufpCwaoq/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Templo de Trax[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Juy9zSjDjKMC5HKXaxvdxGcAu2zTLTzm/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro do Pantano[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13X2aJfxoscNkGAtVG-78T39OSgTjpMP_/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Minusculo Reino de Yok[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aBXv_ClVVkkexAOm4_UYl7tjUUQgTOYJ/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prisioneiros dos Homens Bolhas[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11njuN0yMsYxyjyxsp-NO2orT4dgEdW2B/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Gladiadores de Kyanite[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1goB_W8CzaUR5kn-ZOSOlard800_uxda5/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mekanno A Maquina Mestre[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_RBy5y94Vmlto7jSij9YtoaPwq86YLif/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missao dos Amatons[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R_SVCqvbigd5adwsYJ-bOmieiWF79cpr/view$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Gravidade[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j_rOpX8IgAxvi0ZP-yHJ2whOtahgXb85/view$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Antidoto[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DL3N494xrIWUI2PujYlsxVYYWx7GUR-5/view$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ataque do Espaco[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14vnrKZvyW6inK9btFoLVERurlEeBvFEE/view$$lsname=[B]T01E35[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Mutoides[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YG7VW6VhACBzuVhvF6h3CtYNFTmaDbPa/view$$lsname=[B]T01E36[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Homens de Cristal[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O desenho foi lançado em setembro de 1967, com apenas 36 episódios. Teve um remake em 1981, com 11 episódios. A trama contava as aventuras de uma família em um planeta selvagem, composta por Zandor e a esposa Tara, com o filho pré-adolescente Dorno.</info>
+<genre>DESENHOS</genre>  
+</item>
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Croods 2: Uma Nova Era[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
