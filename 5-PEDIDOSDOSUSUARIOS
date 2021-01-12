@@ -12,6 +12,72 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Tenet</info>
+<genre>FICÇÃO E FANTASIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Tenet[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir o filme Tenet</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VvqqrbaMKtk</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15dsq0awvzZhw6M57-tXtt2NSkiNyj0wF/view</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um agente secreto embarca em uma missão perigosa para evitar o início da Terceira Guerra Mundial.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORR 720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0ab4ab10a45b839359dafc7296f517ef0b059b&dn=COMANDO.TO%20-%20Tenet%202020%20%5b720p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um agente secreto embarca em uma missão perigosa para evitar o início da Terceira Guerra Mundial.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORR 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7402b50dfc196a0e3c008153796f2b094bae3d56&dn=COMANDO.TO%20-%20Tenet%202020%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um agente secreto embarca em uma missão perigosa para evitar o início da Terceira Guerra Mundial.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herculoids[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
