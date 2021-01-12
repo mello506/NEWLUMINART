@@ -12,6 +12,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/6Nf3F6g/blacklist-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIE THE BLACKLIST : REDEMPTION </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/4M59NCH/batwoman-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AQUI A SÉRIE THE BLACKLIST : REDEMPTION NO REDE CANAIS</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I</link>
+<thumbnail>https://i.ibb.co/fnZSHx6/blackredmp-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION - 01 TEMP - 2017 - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE BLACKLIST : REDEMPTION[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Leland Bray[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Jensen[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Independencia, EUA[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Operacao Davenport[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Borealis 301[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Refens[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall[/COLOR]</link>
+<link>https://d2i91kcg62z4uw.cloudfront.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall: Conclusao[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/fnZSHx6/blackredmp-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na série, após descobrir que Susan Halslead (Famke Janssen), líder de uma privada e secreta organização especializada em solucionar crimes dos quais o governo não quer se envolver, é sua mãe biológica, o agente Tom Keen (Ryan Eggold) junta forças com ela para as missões mais arriscadas. </info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tenet[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
