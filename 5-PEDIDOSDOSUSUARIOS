@@ -12,6 +12,65 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[COLOR blue][B] PEDIDOS DOS USUÁRIOS[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>NÃO ENCONTROU ? SOLICITE O CONTEÚDO</info>
+<genre>PEDIDOS DOS USUÁRIOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Orfanato[/B][/COLOR]</name>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/85/10/19962192.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Orfanato</info>
+<genre>FANTASIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Orfanato[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/85/10/19962192.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir o filme O Orfanato</info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Orfanato[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dkf24Mzbvfw</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/85/10/19962192.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Orfanato - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBCF46BB896D34679CFFCC7966CC763C60054244&dn=O.Orfanato.2008.720p.Dublado-WOLVERDONFILMES.COM&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/85/10/19962192.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Laura (Belén Rueda) passou os anos mais felizes de sua vida em um orfanato, onde recebeu os cuidados de uma equipe e de outros companheiros órfãos, a quem considerava como se fossem seus irmãos e irmãs verdadeiros. Agora, 30 anos depois, ela retornou ao local com seu marido Carlos (Fernando Cayo) e seu filho Simón (Roger Príncep), de 7 anos. Ela deseja restaurar e reabrir o orfanato, que está abandonado há vários anos. O local logo desperta a imaginação de Simón, que passa a criar contos fantásticos. Entretanto à medida que os contos ficam mais estranhos Laura começa a desconfiar que há algo à espreita na casa. </info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Orfanato - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d205f52c21ba5ea84a620eae3063cc961a5edaa0&dn=O%20Orfanato%202008%20(1080p-FULL)%20LAPUMiA&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/85/10/19962192.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Laura (Belén Rueda) passou os anos mais felizes de sua vida em um orfanato, onde recebeu os cuidados de uma equipe e de outros companheiros órfãos, a quem considerava como se fossem seus irmãos e irmãs verdadeiros. Agora, 30 anos depois, ela retornou ao local com seu marido Carlos (Fernando Cayo) e seu filho Simón (Roger Príncep), de 7 anos. Ela deseja restaurar e reabrir o orfanato, que está abandonado há vários anos. O local logo desperta a imaginação de Simón, que passa a criar contos fantásticos. Entretanto à medida que os contos ficam mais estranhos Laura começa a desconfiar que há algo à espreita na casa. </info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</name>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/6Nf3F6g/blacklist-pasta.jpg</thumbnail>
