@@ -19,8 +19,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] FILMES[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<name>[COLOR blue][B] ESCOLHA SEU SERVIDOR DE FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
 <genre>AÇÃO</genre>
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR lime][B] LISTÃO DE FILMES SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9A-SEL-LISTESPFILM-SERVER1</externallink>
-<thumbnail>https://</thumbnail>
+<thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
 <genre>ESPECIAL</genre>
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR lime][B] LISTÃO DE FILMES REDE CANAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/1A-SELFILM-REDCAN</externallink>
-<thumbnail>https://</thumbnail>
+<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
 <genre>ESPECIAL</genre>
@@ -51,7 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR lime][B] LISTÃO DE FILMES TORRENTS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1A-FILMES</externallink>
-<thumbnail>https://</thumbnail>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTEÚDO DE CONTRIBUINTE</info>
 <genre>ESPECIAL</genre>
