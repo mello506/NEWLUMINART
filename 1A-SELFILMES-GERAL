@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES EM TORRENT NR[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES EM TORRENT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/2-SELFILMES-TORRENT</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES NO SERVER 1[/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOFILMES-LUMINART/main/1C-FILMES-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO REDE CANAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/1C-SELFILMES-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
