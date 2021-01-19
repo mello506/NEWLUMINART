@@ -12,18 +12,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] ESCOLHA SEU SERVIDOR DE FILMES[/B][/COLOR]</name>
+<name>[COLOR blue][B] ESCOLHA SEU SERVIDOR PARA AS SEÇÕES ESPECIAIS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>NO LUMINART STUDIO TEMOS SERVIDORES VARIADOS</info>
-<genre>FILMES</genre>
+<genre>ESPECIAIS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES EM TORRENT[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/2-SELFILMES-TORRENT</externallink>
+<name>[COLOR red][B] SEÇÕES ESPECIAIS EM TORRENT[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS EM TORRENT SÃO OS MAIS CONFIÁVEIS DÊ PREFERÊNCIA</info>
@@ -34,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] FILMES NO G DRIVE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOFILMES-LUMINART/main/1B-FILMES-GDRIVE</externallink>
+<name>[COLOR red][B] SEÇÕES ESPECIAIS NO G DRIVE[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS NO G DRIVE NECESSITAM TER O PLUGIN ADEQUADO INSTALADO</info>
@@ -46,8 +46,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES NO SERVER 1[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9A-SEL-LISTESPFILM-SERVER1</externallink>
+<name>[COLOR lime][B] SEÇÕES ESPECIAIS NO SERVER 1[/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS DO SERVER 1 SÃO INSTÁVEIS PODEM CAIR </info>
@@ -58,8 +58,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES NO REDE CANAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/2A-SELFILM-REDCAN</externallink>
+<name>[COLOR lime][B] SEÇÕES ESPECIAIS NO REDE CANAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6A-SELESPECIAIS-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS DO REDE CANAIS SÃO INSTÁVEIS PODEM CAIR </info>
