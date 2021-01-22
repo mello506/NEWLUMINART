@@ -70,6 +70,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR lime][B] ANIMES EM TORRENT[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
+<thumbnail>http://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A CULTURA ANIME REPRESENTADA AQUI</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR lime][B] TVs ONLINE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/1-SELETIVA-LISTATVs-ALLUSER</externallink>
 <thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
@@ -123,18 +135,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/M18rpWz/filmesraros-pasta.png</thumbnail
 <fanart>http://bit.do/entrarfanart</fanart>
 <info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B] SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/6-SUGESTAO</externallink>
-<thumbnail>https://i.ibb.co/6my7gbw/gostei-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> A SUGESTÃO DO DESENVOLVEDOR</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
