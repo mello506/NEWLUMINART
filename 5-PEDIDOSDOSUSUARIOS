@@ -19,6 +19,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>PEDIDOS DOS USUÁRIOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Noé[/B][/COLOR]</name>
+<thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Noé</info>
+<genre>ÉPICO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Noé[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Noé em TORRENT</info>
+<genre>ÉPICO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Noé[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER</link>
+
+<thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Noé - 2014 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE302D6AC57CB57B82492404D4857C29886E734B&dn=%7bWWW.BLUDV.TV%7d%20No%c3%a9%202014%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Noé Russell Crowe vive com a esposa Naameh Jennifer Connelly e os filhos Sem Douglas Booth, Cam Logan Lerman e Jafé Leo McHugh Carroll em uma terra desolada, onde os homens perseguem e matam uns aos outros. Um dia, Noé recebe uma mensagem do Criador de que deve encontrar Matusalém Anthony Hopkins. Durante o percurso ele acaba salvando a vida da jovem Ila Emma Watson, que tem um ferimento grave na barriga. Ao encontrar Matusalém, Noé descobre que ele tem a tarefa de construir uma imensa arca, que abrigará os animais durante um dilúvio que acabará com a vida na Terra, de forma a que a visão do Criador possa ser, enfim, resgatada.</info>
+<genre>ÉPICO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Noé - 2014 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C111735DB93EA0A0B01CE96D588E95FA5F0DE0C&dn=%7bWWW.BLUDV.TV%7d%20No%c3%a9%202014%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Noé Russell Crowe vive com a esposa Naameh Jennifer Connelly e os filhos Sem Douglas Booth, Cam Logan Lerman e Jafé Leo McHugh Carroll em uma terra desolada, onde os homens perseguem e matam uns aos outros. Um dia, Noé recebe uma mensagem do Criador de que deve encontrar Matusalém Anthony Hopkins. Durante o percurso ele acaba salvando a vida da jovem Ila Emma Watson, que tem um ferimento grave na barriga. Ao encontrar Matusalém, Noé descobre que ele tem a tarefa de construir uma imensa arca, que abrigará os animais durante um dilúvio que acabará com a vida na Terra, de forma a que a visão do Criador possa ser, enfim, resgatada.</info>
+<genre>ÉPICO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Eu Sou a Lenda[/B][/COLOR]</name>
