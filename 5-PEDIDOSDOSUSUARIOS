@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Seção WandaVision</info>
 <genre>SUPER-HERÓIS</genre> 
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] WandaVision[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os episódios de WandaVision em TORRENT</info>
 <genre>SUPER-HERÓIS</genre>  
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=NZxfnJt9vKo</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>SUPER-HERÓIS</genre>  
@@ -50,20 +50,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] WandaVision T01 - 2021 - Dublado[/COLOR]</title>
-
 <link>http://appcliente.com:8880/series/wenia/wenia/31676.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] WandaVision S01 E01 - Dublado[/COLOR]</link>
-
 <link>http://appcliente.com:8880/series/wenia/wenia/31589.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] WandaVision S01 E02 - Dublado[/COLOR]</link>
-
 <link>http://appcliente.com:8880/series/wenia/wenia/31676.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] WandaVision S01 E03 - Dublado[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>WandaVision é uma minissérie americana criada para o Disney+ por Jac Schaeffer, baseada nos personagens da Marvel Comics Wanda Maximoff / Feiticeira Escarlate e Visão. A série é ambientada no Universo Cinematográfico da Marvel, compartilhando a continuidade com os filmes da franquia</info>
 <genre>SUPER-HERÓIS</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
