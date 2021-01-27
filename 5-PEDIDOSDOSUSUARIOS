@@ -21,6 +21,61 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Dirk Gently's Holistic Detective Agency</info>
+<genre>COMÉDIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos da Dirk Gently's Holistic Detective Agency no G DRIVE</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uZWQnMlrhcI</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T01 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kLvSPf-u9uEaE6tNSzsMt5IFNyYQxzSu/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Horizontes[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KRf-GxGnk39ALkfgABanBcNx2u8MEOf0/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Achados e perdidos[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eOdQatsxSR4zrL4wXdJyRXhusHnhxAfN/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Entusiastas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lhIboNtKipElGtCYXGm7LNeWCrTZqkQj/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Watkin[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18kJSczK432oWth-mqvpZpYVZERdS-wfr/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Muito ereto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tx3SjFgZa_rIt44NkY5XHD6c49XtECDl/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Consertando tudo[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINKGDRIVE$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Sua alma, sua arma[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINKGDRIVE$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Dois caras normais[/B][/COLOR]</link>
+
+
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
+<genre>COMÉDIA</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WandaVision[/B][/COLOR]</name>
 <thumbnail>https://collider.com/wp-content/uploads/2020/09/wandavision-poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
