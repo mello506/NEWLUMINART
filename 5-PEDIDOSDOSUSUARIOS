@@ -21,6 +21,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War [/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção The Heavy Water War </info>
+<genre>GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A MINI-SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Heavy Water War [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da mini-série The Heavy Water War no G DRIVE</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_K3Ry2K4yNE</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War - 2015 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Up7_T1CuejrqYgMX62nEmOkjcTRybjyb/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vLT2HNaJudDz7R-hVXEiuVqWa9_nAPkC/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13FcDCZ-8kIHmVNrX3dPTKFzcijOsE_QM/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EYsw2DaAewiIKFhTxP-MPJ9-Iy3LaeM4/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G3Gn8n2c_OQgf9lcy1ci02Cz1jGwzCAf/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15DhZprE0k34etNbyyGHjbcOGsT0bEHx2/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Heavy Water War[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Em 1939, o cientista alemão Werner Heisenberg (Christoph Bach), vencedor do prêmio Nobel de Física, passa a trabalhar para o governo nazista para o desenvolvimento da bomba atômica. Suas motivações são simples: a guerra está a serviço da ciência. Na Inglaterra a Executiva de Operações Especiais (SOE) recruta o norueguês Leif Tronstad (Espen Kloumann Høiner), professor de química na vida civil, que tem a missão de elaborar uma plano para destruir o elemento essencial para a produção da bomba: A água pesada, produzida na Norsk Hydro, em Rjukan, uma vila noruegues</info>
+<genre>GUERRA</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
