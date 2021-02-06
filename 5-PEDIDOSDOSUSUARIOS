@@ -21,6 +21,95 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção The Act </info>
+<genre>CRIME E DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y_5fqDZCjQo</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>CRIME E DRAMA</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA EM TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Act[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de The Act em TORRENT</info>
+<genre>CRIME E DRAMA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act - 2020 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2274e8736d96421570d30b0f9a27ec11b07ae081&dn=COMOEUBAIXO.COM.-.MKV.%5bcomandotorrents.org%5d%20The%20Act%c2%a01%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O relacionamento entre Dee Dee Blanchard Patricia Arquette e sua filha Gypsy Joey King, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato. </info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act - 2020 - Legendado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8aa312db6c61857e86d7f9c573bf013874ef4860&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E01.La.Maison.Du.Bon.Reve.1080p.HULU.WEBRip.AAC2.0.H264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2750$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Casa do Sonho Bom[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cb0bdd631ed48ab2c32f6aa6131854caa68c091&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E02.Teeth.1080p.HULU.WEBRip.AAC2.0.H264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2730$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Dentes [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1555302e10368659ee9e7c9f4e73a6e117ac4035&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E03.Two.Wolverines.1080p.HULU.WEBRip.AAC2.0.H264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2770$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Wolverines[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ba93693b7eafe2abd3b54d9885b51db1ce47533&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E04.Stay.Inside.1080p.HULU.WEBRip.AAC2.0.H264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2730$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fique Dentro[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32c49c866b4985161203d53e8a2859c1d7b0c330&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E05.Plan.B.1080p.HULU.WEBRip.AAC2.0.H264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2760$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Plano B[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e916876fad9b5b08a0ad117c9e22c1fe6e834eb&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E06.iNTERNAL.1080p.WEB.H264-BAMBOOZLE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2750$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Mundo Novo[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a926f25caec19c461949ec0b756707724e3807f9&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E07.iNTERNAL.1080p.WEB.H264-BAMBOOZLE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2770$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bonnie & Clyde[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bec684132ce4c204ad82bbf108fa4a8b501dd12&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Act.S01E08.iNTERNAL.1080p.WEB.H264-BAMBOOZLE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2760&tr=udp%3A%2F%2F9.rarbg.to%3A2740$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Free[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O relacionamento entre Dee Dee Blanchard Patricia Arquette e sua filha Gypsy Joey King, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato. </info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA NO REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Act[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de The Act em REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Casa do Sonho Bom[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Dentes [/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Wolverines[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fique Dentro[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Plano B[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Mundo Novo[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bonnie & Clyde[/COLOR]</link>
+<link>https://dksdznpovbujh.cloudfront.net/RCServer07/ondemand/THEACT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Free[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O relacionamento entre Dee Dee Blanchard Patricia Arquette e sua filha Gypsy Joey King, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato. </info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Maluco no Pedaço – A Reunião[/B][/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
