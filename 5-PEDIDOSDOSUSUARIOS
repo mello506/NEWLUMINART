@@ -21,6 +21,60 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida [/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o episódios da Série Transplant: Uma Nova Vida no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui a novela Transplant: Uma Nova Vida no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YpevPtkYPNo</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B] [/COLOR]</title>
+
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime]  Piloto [/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Me Diga Quem e Voce[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Segredos Podem Matar[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saleh[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eid[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Gatilho Emocional[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Longe de Casa[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nascer e Renascer[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sob Pressao[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Colapso[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Orfaos[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Recaida[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Unico Jeito e Enfrentar[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um médico de emergência, que fugiu da Síria para o Canadá, deve superar numerosos obstáculos para retomar uma carreira no mundo da medicina de emergência.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Act[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
