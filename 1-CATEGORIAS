@@ -94,6 +94,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR lime][B] SEÇÃO NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/L1-SECAONOSTALGIA</externallink>
+<thumbnail>https://i.ibb.co/M18rpWz/filmesraros-pasta.png</thumbnail
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR lime][B] ANIMES EM TORRENT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
 <thumbnail>http://</thumbnail>
@@ -111,18 +123,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS PEDIDOS DO USUÁRIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B] SEÇÃO NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/L1-SECAONOSTALGIA</externallink>
-<thumbnail>https://i.ibb.co/M18rpWz/filmesraros-pasta.png</thumbnail
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
