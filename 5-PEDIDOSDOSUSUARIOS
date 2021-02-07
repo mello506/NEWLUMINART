@@ -21,22 +21,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida [/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o episódios da Série Transplant: Uma Nova Vida no REDE CANAIS</info>
 <genre>CRIME E DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui a novela Transplant: Uma Nova Vida no REDE CANAIS</info>
-<genre>CRIME E DRAMA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida [/B][/COLOR]</title>
@@ -49,7 +39,52 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B] [/COLOR]</title>
+<title>[B]ASSISTA EM TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui a novela Transplant: Uma Nova Vida em TORRENT</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df7570279fac90629e1a9eb12f5612272c7fd1f5&dn=Transplant.S01E01.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2720$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime]  Piloto [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38a8d327a9f6f781aafa75a203185ddf88be80e9&dn=Transplant.S01E02.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2860&tr=udp%3A%2F%2F9.rarbg.to%3A2760$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Me Diga Quem e Voce[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4254bb58c965c1e693343c36ba662c88ada8899&dn=Transplant.S01E03.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2950$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Segredos Podem Matar[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e918b3e0f65f4a813ee746ff435d467e25b183c4&dn=Transplant.S01E04.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2840$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saleh[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6aee4d828801a9ba4156a49435114ef3640cd3&dn=Transplant.S01E05.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2910&tr=udp%3A%2F%2F9.rarbg.to%3A2730$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eid[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2884f7794a45e6e03ed41d7d58880a65fe532c24&dn=Transplant.S01E06.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2740$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Gatilho Emocional[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:048256ab375842e300b9d94b7b64467598e27e5a&dn=Transplant.S01E07.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2930&tr=udp%3A%2F%2F9.rarbg.to%3A2750$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Longe de Casa[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c74540ff97fdca9e38b702d7d01126d54c5c79&dn=Transplant.S01E08.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2910&tr=udp%3A%2F%2F9.rarbg.to%3A2820$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nascer e Renascer[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6966b84880022f72663e5cc413f93a512101cee&dn=Transplant.S01E09.720p.HDTV.x264-TWERK%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2800$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sob Pressao[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0d76188cbcbe7ad26b53c02aeb43d0be26e3123&dn=Transplant.S01E10.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900&tr=udp%3A%2F%2F9.rarbg.to%3A2850$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Colapso[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cad7e19f0bb454880263c3eb0be04f7fb0d0f7f&dn=Transplant.S01E11.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Orfaos[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3c81d2c9daaeaef9168474d7636b0c38459ef12&dn=Transplant.S01E12.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2890&tr=udp%3A%2F%2F9.rarbg.to%3A2980$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Recaida[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc078f96d914874dded609595d22c85889caccb5&dn=Transplant.S01E13.720p.HDTV.x264-aAF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2890$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Unico Jeito e Enfrentar[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um médico de emergência, que fugiu da Síria para o Canadá, deve superar numerosos obstáculos para retomar uma carreira no mundo da medicina de emergência.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA NO REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui a novela Transplant: Uma Nova Vida no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Transplant: Uma Nova Vida - 2020 - Dublado[/B][/COLOR]</title>
 
 <link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime]  Piloto [/COLOR]</link>
 <link>https://azureedge.azureedge.net/RCServer05/ondemand/TRNSPNTUNVDAT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Me Diga Quem e Voce[/COLOR]</link>
