@@ -18,6 +18,129 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>NÃO ENCONTROU ? SOLICITE O CONTEÚDO</info>
 <genre>PEDIDOS DOS USUÁRIOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Resident[/B][/COLOR]</name>
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série The Resident</info>
+<genre>CRIME E DRAMA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Resident[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série The Resident no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Resident[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Resident - T01 - 2018 - Dublado[/B][/COLOR]</title>
+
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Piloto[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia da Independencia[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Companheiros de Armas[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Crise de Identidade [/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sem Entender[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nao Importa o Preco[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Fuga[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tema Familiar[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amor Perdido[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Assombrado[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] E as Enfermeiras se Ferram...[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Duro Despertar e o Predador [/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Corra, Doutor, Corra[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eclipse Total do Coracao[/COLOR]</link>
+
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um jovem médico começa seu primeiro dia de trabalho sob a supervisão de um brilhante e frio residente, mas o dia-a-dia no hospital pode ser mais difícil do que ele imagina. Entre salvamentos e perdas, o novato percebe que suas expectativas sempre são frustradas. </info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Resident - T02 - 2018 - Dublado[/B][/COLOR]</title>
+
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] 00:42:30[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Principe e o Pobre[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tres Palavras[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Estava Na Hora[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Germe[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pesadelos[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Erro De Teste[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coracao Em Uma Caixa[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Danca[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Apos a Queda[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Erro do Operador[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Medo Encontra Um Caminho[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Virtualmente Impossivel[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coisas Estupidas em Nome do Sexo[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rainhas [/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eventos Adversos[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] Traicao[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Contato de Emergencia[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nevou Em[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Se Nao Agora, Quando?[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] Preso Como Previsto[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] Corretor e Corretor[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer06/ondemand/ORSDNTT02EP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Nao-abencoado[/COLOR]</link>
+
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um jovem médico começa seu primeiro dia de trabalho sob a supervisão de um brilhante e frio residente, mas o dia-a-dia no hospital pode ser mais difícil do que ele imagina. Entre salvamentos e perdas, o novato percebe que suas expectativas sempre são frustradas. </info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Resident - T03 - 2018 - Dublado[/B][/COLOR]</title>
+
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Vindo Das Cinzas[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carne Da Minha Carne[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santos e Pecadores[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sistema De Crencas[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Palavras Escolhidas[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia das Enfermeiras[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mulher Para Baixo[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia do Pato de Pequim[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fora de Sangue[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Denunciante[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer14/ondemand/ORSDNTT03EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Queda Livre[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer14/ondemand/ORSDNTT03EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Melhores Planos Estabelecidos[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Como Conrad Recupera Seu Ritmo[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Pulga[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ultimo Tiro[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer12/ondemand/ORSDNTT01EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Cinderela Reversa[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer04/ondemand/ORSDNTT03EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boneca E. Madeira[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer04/ondemand/ORSDNTT03EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ate Logo, Amanhecer Por Muito Tempo[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer04/ondemand/ORSDNTT03EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sistema De Suporte[/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer14/ondemand/ORSDNTS03EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Queime Tudo - Legendado[/COLOR]</link>
+
+<thumbnail>https://www.formulatv.com/images/series/posters/1400/1468/1_m1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um jovem médico começa seu primeiro dia de trabalho sob a supervisão de um brilhante e frio residente, mas o dia-a-dia no hospital pode ser mais difícil do que ele imagina. Entre salvamentos e perdas, o novato percebe que suas expectativas sempre são frustradas. </info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Relatos do Mundo[/B][/COLOR]</name>
