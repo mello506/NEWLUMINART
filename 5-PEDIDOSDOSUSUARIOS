@@ -2647,7 +2647,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>CRIME E DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels></channels>
 <channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDENPENDENCE DAY[/COLOR]</name>
@@ -2656,34 +2655,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>PEDIDO DO USUÁRIO FABRICIO</info>
 <genre>FICÇÃO</genre>  
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRÃO 303[/COLOR]</name>
-<link>NO LINK</link>
-<thumbnail>https://i.ibb.co/VWzX3bJ/303esq-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>PEDIDO DO USUÁRIO RICARDO</info>
-<genre>GUERRA</genre> 
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRÃO 303 - 2018 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=SAVw7NzQk44$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CP67--Bi2LXfiigw_tx-1ukNggJok2Dg/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591191ea5ba719816533ab5ec1953f78395792a&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20Esquadrao.303.2020.720p.BluRay.DD5.1.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:317cfe92c7f3b3f0aea946e5699a9a50fb968981&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20Esquadrao.303.2020.1080p.BluRay.DD5.1.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=CCP4jGfFzJM$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 720 - LEG[/COLOR]</link>
-<link>https://distrito1.azureedge.net/RCFServer5/ondemand/ESQDRAO303.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 720 - DUB[/COLOR]</link>
-<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/101441.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESQUADRAO 303 - 720 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/VWzX3bJ/303esq-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/PwZdTTJ/303esq-fan.jpg</fanart>
-<info>O Esquadrão 303 disparou três vezes mais contra aviões da Luftwaffe do que qualquer outro esquadrão aliado. Formado principalmente por aviadores poloneses, eles defenderam a Inglaterra heroicamente durante a Segunda Guerra Mundial.</info>
-<genre>GUERRA</genre>  
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
