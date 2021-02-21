@@ -21,6 +21,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gênesis[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7vbFcsya75XV4macIYO7Q2spbzoHf4ALDj7tm7fUJxnIt24K</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Novela Gênesis</info>
+<genre>NOVELA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Gênesis[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7vbFcsya75XV4macIYO7Q2spbzoHf4ALDj7tm7fUJxnIt24K</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da novela Gênesis no REDE CANAIS</info>
+<genre>NOVELA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gênesis[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HE9vvOJYT8s</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7vbFcsya75XV4macIYO7Q2spbzoHf4ALDj7tm7fUJxnIt24K</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>NOVELA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gênesis - T01 - 2021 - Dublado[/B][/COLOR]</title>
+
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP000.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Capitulo 000[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jardim do Eden[/B][/COLOR]</link>
+
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP001.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP002.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP003.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP004.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Arca de Noe[/B][/COLOR]</link>
+
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP005.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP006.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP007.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP008.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Torre de Babel[/B][/COLOR]</link>
+
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP009.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP010.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP011.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+<link>https://azureedge.azureedge.net/RCServer15/ondemand/GNSCP012.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7vbFcsya75XV4macIYO7Q2spbzoHf4ALDj7tm7fUJxnIt24K</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A história de grandes eventos dos primeiros 2300 anos da humanidade. A criação do mundo, Adão e Eva, o grande dilúvio, a Torre de Babel e a jornada de Abraão, chegando até o período de escravidão do povo hebreu no Egito.</info>
+<genre>NOVELA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Santuário[/B][/COLOR]</name>
 <thumbnail>https://ondeeubaixo.org/capa/santuario-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
