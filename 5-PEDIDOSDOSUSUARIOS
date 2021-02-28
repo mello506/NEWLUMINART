@@ -21,6 +21,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] World on Fire[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série World on Fire</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] World on Fire[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série World on Fire no G DRIVE</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] World on Fire[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ttVQ_C8gvRg</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]CATEGORIA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] World on Fire - T01 - 2019 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ooqmk4jo2wGPJbnpyZccRKUTEou-4619/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Yx6hPztZfBChUTTuN_aMaRbVsqOGnMD/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3FXqUSQiWcGypmK97d3euZmSAoETBvc/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1_4J4jkHTdEYIA_cXsi-EQhFn6Xc1GP/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PsWaqURJmAsZ9xnV7QOiDQ5IJwaZ6-Lc/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDdzBsUHojDelfIDOHLwk0uBNNOy7-IB/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDA162JwHAw4TxFlCwMaUGQSDOIEH9tW/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>World On Fire é um drama que se debruça na Segunda Guerra Mundial através dos olhos de pessoas comuns de todos os lados do conflito. A primeira temporada de sete episódios seguirá o primeiro ano da guerra, começando com a invasão alemã da Polônia em setembro de 1939 e terminando com a Batalha da Inglaterra</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gênesis[/B][/COLOR]</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd7vbFcsya75XV4macIYO7Q2spbzoHf4ALDj7tm7fUJxnIt24K</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
