@@ -2422,104 +2422,55 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</name>
-<link>LINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6HMddgZARyMhDhMjnTDMz9IrDXu.jpg</thumbnail>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Stand [/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoTIugw0oPHmgcROjZEGovl1Yk3XyTtkv__yVgXhgTpJSClcuB</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Num mundo envolvido numa luta elementar entre o bem e o mal, onde quase toda a vida foi eliminada pela doença.</info>
+<info>Seção The Stand </info>
 <genre>FICÇÃO E FANTASIA</genre> 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B][COLOR blue] The Stand - T01  [/COLOR][/B]</title>
-<link>LINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/oSniqlXzW2d8mbP8l7xNo4iif1g.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP01[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/The.Stand.2020.S01E01.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Stand [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoTIugw0oPHmgcROjZEGovl1Yk3XyTtkv__yVgXhgTpJSClcuB</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série The Stand com LEGENDAS</info>
+<genre>FICÇÃO E FANTASIA</genre>  
 </item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP02[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/The.Stand.2020.S01E02.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Stand [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=l--4gu4CQBM</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoTIugw0oPHmgcROjZEGovl1Yk3XyTtkv__yVgXhgTpJSClcuB</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP03[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e03.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Stand - 2020 - Legendado[/B][/COLOR]</title>
+
+<link>http://shark2020tv.eu/movie/series/TheStand/The.Stand.2020.S01E01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Fim [/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/The.Stand.2020.S01E02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Salvador de Bolso[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pagina Em Branco[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Casa Dos Mortos[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mentes Suspeitas[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Vigilia[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Caminhada[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR red] A Bancada[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR red] Coda: Frannie No Poco[/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoTIugw0oPHmgcROjZEGovl1Yk3XyTtkv__yVgXhgTpJSClcuB</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um mudo pós-apocalíptico, em que a Terra foi destruída por um vírus letal, o futuro se divide em duas facções. Uma democrática, liderada pela senhora Abagails, de 108 anos; e outra brutal, controlada pelo implacável Randall Flagg.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
 </item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP04[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e04.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP05[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e05.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP06[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e06.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP07[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Stand[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/TheStand/the.stand.2020.s01e07.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP08[/B][COLOR yellow] ->[/COLOR][B][COLOR red] The Stand[/COLOR][/B]</title>
-<link>LINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP09[/B][COLOR yellow] ->[/COLOR][B][COLOR red] The Stand[/COLOR][/B]</title>
-<link>LINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xrxUVfjocF0HKcdGFTHG5cQExu.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -2535,7 +2486,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>
 <thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série Lupin com LEGENDAS FIXAS</info>
+<info>Assista aqui os episódios da série Lupin com LEGENDAS</info>
 <genre>SUSPENSE E TERROR</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
