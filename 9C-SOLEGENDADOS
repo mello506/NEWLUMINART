@@ -2251,174 +2251,72 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Mandalorian [/COLOR][/B]</name>
-<link>LINK</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iUYmvkv329QSsWq81jRZdo88Afk.jpg</thumbnail>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Um atirador solitário explora os confins da galáxia, longe da autoridade da Nova República.</info>
-<genre>FANTASIA</genre> 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
+<genre>FANTASIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B][COLOR blue]The Mandalorian - T01[/COLOR][/B]</title>
-<link>LINK</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iUYmvkv329QSsWq81jRZdo88Afk.jpg</thumbnail>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Mandaloriano - T01 - 2019[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>Assiata aqui os episódios da série O Mandaloriano LEGENDADO</info>
+<genre>FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP01[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Mandalorian[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T01 - 2019[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CppDmmfNvHM</link>
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>ASSISTA AO TRAILER</info>
+<genre>FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP02[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Child[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T01 - 2019 - Legendado [/B][/COLOR]</title>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mandaloriano[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Crianca[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pecado[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santuario[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pistoleiro[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Prisioneiro[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Acerto de Contas[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Redencao[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]EP03[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Sin[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T02 - 2020 - Legendado [/B][/COLOR]</title>
+
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Marechal[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Passageiro[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Herdeira[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Cerco[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Jedi[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Tragedia[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Que Acredita[/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Resgate[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
+<info>O Mandaloriano e a Criança continuam sua jornada, enfrentando inimigos e reunindo aliados enquanto fazem seu caminho através de uma galáxia perigosa na era tumultuada após o colapso do Império Galáctico.</info>
+<genre>FANTASIA</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP04[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] Sanctuary[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP05[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Gunslinger[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP06[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Prisoner[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP07[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Reckoning[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[B]EP08[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] Redemption[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][B][COLOR blue] The Mandalorian - T02[/COLOR][/B]</title>
-<link>LINK</link>
-<thumbnail>https://image.tmdb.org/t/p/original/iUYmvkv329QSsWq81jRZdo88Afk.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP09[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Marshal[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP10[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Passenger[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP11[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Heiress[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP12[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Siege[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP13[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Jedi[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP14[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Tragedy[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP15[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Believer[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]EP16[/B][COLOR yellow] ->[/COLOR][B][COLOR lime] The Rescue[/COLOR][/B]</title>
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
