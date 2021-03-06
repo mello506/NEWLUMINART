@@ -2251,7 +2251,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Mandalorian [/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
@@ -2259,7 +2259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Mandaloriano - T01 - 2019[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Mandalorian  - T01 - 2019[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -2269,7 +2269,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T01 - 2019[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Mandalorian  - T01 - 2019 [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=CppDmmfNvHM</link>
 <thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -2279,7 +2279,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T01 - 2019 - Legendado [/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Mandalorian  - T01 - 2019 - Legendado [/B][/COLOR]</title>
 
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Crianca[/B] [/COLOR]</link>
@@ -2298,7 +2298,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T02 - 2020 - Legendado [/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Mandalorian  - T02 - 2020 - Legendado [/B][/COLOR]</title>
 
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Marechal [/B][/COLOR]</link>
 <link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Passageiro [/B][/COLOR]</link>
