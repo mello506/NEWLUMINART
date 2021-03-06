@@ -2521,4 +2521,49 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lupin[/B][/COLOR]</name>
+<thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Lupin</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Lupin[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Lupin LEGENDADO</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lupin[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI</link>
+<thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lupin - T01 - 2021 - Dublado[/B][/COLOR]</title>
+
+<link>http://shark2020tv.eu/movie/series/Lupin/Lupin.S01E01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio 01[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/Lupin/Lupin.S01E02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio 02[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/Lupin/Lupin.S01E03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio 03[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/Lupin/Lupin.S01E04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio 04[/B][/COLOR]</link>
+<link>http://shark2020tv.eu/movie/series/Lupin/Lupin.S01E05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Episodio 05[/B][/COLOR]</link>
+
+<thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
